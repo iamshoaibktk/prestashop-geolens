@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Benutzerhandbuch",
+    "labels": {
+        "version": "Version",
+        "author": "Autor",
+        "contact": "Kontakt",
+        "page": "Seite",
+        "contents": "Inhalt",
+        "compat": "Kompatibilität"
+    },
+    "sections": [
+        {
+            "title": "Überblick",
+            "content": [
+                {
+                    "p": "GEO Lens zeigt, welche KI-Crawler Ihren Shop lesen und welche KI-Besuche zu Bestellungen werden, lässt Sie den Crawler-Zugriff sicher steuern und gibt KI-Suchmaschinen vollständige, korrekte Produktdaten."
+                },
+                {
+                    "note": "Kein Modul kann KI-Zitate versprechen, und dieses tut es nicht. Es gibt Ihnen Kontrolle und echte Zahlen. Die Forschung hinter jeder Entscheidung steht in EVIDENCE.md auf GitHub."
+                }
+            ]
+        },
+        {
+            "title": "Erste Schritte",
+            "content": [
+                {
+                    "ol": [
+                        "Backoffice, Module, Modul hochladen: Zip senden, dann Konfigurieren öffnen.",
+                        "Öffnen Sie KI-Crawler und klicken Sie auf **Zugriff jetzt testen**. Eine Firewall oder ein CDN kann Crawler ablehnen, auch wenn robots.txt sie zulässt.",
+                        "Öffnen Sie Produktdaten und geben Sie **Lieferung und Rücksendung** ein. Vorher wird nichts veröffentlicht.",
+                        "Sehen Sie sich im selben Tab **Was Ihr Katalog angibt** an und schließen Sie die größten Lücken.",
+                        "Klicken Sie auf **Meine Seiten prüfen**, um zu sehen, was ein Crawler ohne JavaScript bekommt.",
+                        "Schalten Sie im Tab Einstellungen IndexNow ein, wenn Bing über Änderungen informiert werden soll."
+                    ]
+                },
+                {
+                    "p": "Mit den Standardeinstellungen wird nichts gesperrt und nichts gesendet."
+                }
+            ]
+        },
+        {
+            "title": "KI-Besuche und Bestellungen",
+            "content": [
+                {
+                    "p": "Ein Besuch ist ein Klick von einem Assistenten wie ChatGPT, Perplexity, Gemini, Copilot oder Claude. Eine Bestellung zählt, wenn sie auf einen solchen Besuch folgt: standardmäßig innerhalb von 2 Stunden oder, wenn Sie es wählen, innerhalb von 30 Tagen. Prüfen Sie, ob die längere Verknüpfung dort, wo Sie verkaufen, eine Einwilligung braucht."
+                },
+                {
+                    "note": "Diese Zahlen sind Mindestwerte. Assistenten-Apps verbergen die Herkunft eines Klicks, und Googles KI-Antworten sehen wie normale Google-Klicks aus."
+                }
+            ]
+        },
+        {
+            "title": "KI-Crawler",
+            "content": [
+                {
+                    "p": "KI-Firmen betreiben getrennte Crawler für verschiedene Aufgaben, Sie können also nach Zweck entscheiden:"
+                },
+                {
+                    "table": [
+                        [
+                            "Gruppe",
+                            "Was sie tut",
+                            "Wenn Sie sie sperren"
+                        ],
+                        [
+                            "Antworten und Suche",
+                            "Kann Ihren Shop zitieren und verlinken",
+                            "Sie können aus den Antworten dieses Assistenten fallen"
+                        ],
+                        [
+                            "Für eine Person gelesen",
+                            "Öffnet eine Seite, weil jemand danach gefragt hat",
+                            "Ihr Server lehnt sie ab, da viele robots.txt ignorieren"
+                        ],
+                        [
+                            "Training",
+                            "Sammelt Inhalte zum Trainieren von Modellen",
+                            "Kein Betreiber nennt einen Nachteil in der Suche"
+                        ],
+                        [
+                            "Suchmaschinen",
+                            "Hinter AI Overviews, AI Mode und Copilot",
+                            "Das Modul sperrt sie nie"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Wählen Sie eine Voreinstellung oder entscheiden Sie je Bot, lesen Sie die Vorschau und klicken Sie auf **Anwenden**. Die Datei wird zuerst gesichert, daher stellt **Letzte Änderung rückgängig** alles wieder her, und Ihre eigenen Zeilen in robots.txt bleiben unangetastet. Erlaubte Bots brauchen keine Zeilen, denn ein Bot mit eigener Gruppe befolgt Ihre Regeln für Warenkorb, Suche und Filter nicht mehr."
+                },
+                {
+                    "ul": [
+                        "**Echt?** vergleicht jede Anfrage mit den veröffentlichten Adressen des Betreibers, denn Namen lassen sich leicht fälschen.",
+                        "**Was Assistenten für Menschen lesen** listet die Seiten auf, die geöffnet wurden, weil jemand etwas gefragt hat.",
+                        "**Seiten, die sie angefragt und nicht gefunden haben** zeigt, wo eine Weiterleitung Besuche zurückholt.",
+                        "**Lastschutz** lehnt deklarierte KI-Crawler auf Seiten ab, die robots.txt bereits verbietet, ohne Sichtbarkeit zu kosten. Scraper, die ihren Namen verbergen, brauchen eine Regel in Ihrem CDN."
+                    ]
+                },
+                {
+                    "note": "Liegt Ihr Shop in einem Unterordner, lesen Crawler seine robots.txt nicht, da sie nur im Stammverzeichnis einer Domain suchen. Sperren setzt Ihr Server trotzdem durch."
+                }
+            ]
+        },
+        {
+            "title": "Produktdaten",
+            "content": [
+                {
+                    "p": "Das Modul erweitert das Markup, das Ihr Theme bereits ausgibt, daher gibt es nie ein zweites Product. Es entfernt das erfundene Preisdatum und falsche Kennungen, prüft GTINs und ergänzt Zustand, Lieferung, Rücksendung und jede Kombination. Das hilft Rich Results und Merchant Center. Tests haben nicht gezeigt, dass Markup allein KI-Zitate bringt."
+                },
+                {
+                    "p": "Geben Sie an, was Ihre Versanddienstleister wirklich berechnen. Lieferung und Rücksendung erscheinen auch auf der Produktseite, sodass Seite und Markup immer übereinstimmen."
+                },
+                {
+                    "p": "In der EU muss ein durchgestrichener Preis dem niedrigsten Preis der vorangegangenen 30 Tage folgen, was das Modul nicht prüfen kann. Für EU-Shops ist er standardmäßig aus."
+                }
+            ]
+        },
+        {
+            "title": "Produkt-Feed",
+            "content": [
+                {
+                    "p": "Eine Datei Ihres Katalogs im Google-Format, für das Google Merchant Center und auf Wunsch das Microsoft Merchant Center. Google sagt, dass Merchant-Center-Feeds Produkten helfen können, in KI-Antworten zu erscheinen. Es sagt nicht, dass sie es tun werden."
+                },
+                {
+                    "table": [
+                        [
+                            "Wer",
+                            "Was geschieht"
+                        ],
+                        [
+                            "Das Modul",
+                            "Schreibt die Datei einmal täglich im Hintergrund: ein Artikel pro Kombination, echte Preise und Steuern für das gewählte Land und nur GTINs mit korrekter Prüfziffer."
+                        ],
+                        [
+                            "Sie",
+                            "Tragen die Adresse der Datei in Ihrem eigenen Merchant-Center-Konto ein. Bis dahin wird nichts versendet."
+                        ],
+                        [
+                            "Die Plattform",
+                            "Prüft jedes Produkt und entscheidet, ob und wo es erscheint. Eine akzeptierte Datei ist kein Versprechen von Einträgen, Klicks oder Zitaten."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Öffnen Sie den Tab Produkt-Feed, wählen Sie Land, Sprache und Währung und fügen Sie den Feed hinzu. Er entsteht im Hintergrund, Sie können die Seite verlassen.",
+                        "Kopieren Sie die Adresse und halten Sie sie geheim: Wer sie hat, kann Ihre Katalogdaten lesen.",
+                        "Öffnen Sie im Merchant Center die Datenquellen, fügen Sie eine Produktquelle aus einer Datei hinzu, geben Sie den Link ein und tragen Sie Feed-Label und Sprache ein, die neben dem Feed stehen.",
+                        "Lesen Sie die Hinweise unter dem Feed und öffnen Sie **Was ausgelassen wurde und was zu beheben ist**."
+                    ]
+                },
+                {
+                    "note": "Wenn Marketing with Google Ihre Produkte bereits sendet, fügen Sie keinen primären Feed für dasselbe Land und dieselbe Sprache hinzu. Laut Google gehört ein über zwei Quellen hochgeladenes Produkt zu der zuletzt aktualisierten, und Google empfiehlt eine einzige primäre Quelle. Nutzen Sie einen ergänzenden Feed: Er enthält nur IDs, Kombinationen und Produktdetails. Er funktioniert nur, wenn die IDs zur anderen Quelle passen, vergleichen Sie also zuerst einige."
+                },
+                {
+                    "p": "**Microsoft:** Sein Import-Tool kopiert Ihre Google-Angebote, die meisten Shops brauchen also keine eigene Datei. Planen Sie den Import regelmäßig, denn importierte Angebote laufen nach 30 Tagen ab. Ein Microsoft-Feed dieses Moduls nutzt dessen Schreibweise der Verfügbarkeit, für eine Datei unter 1 GB, die von der Adresse geladen wird."
+                },
+                {
+                    "p": "**Preise:** mit Steuer, außer in den USA und Kanada, wo Google und Microsoft sie ohne Steuer verlangen. Google vergleicht sie mit Ihren Seiten, und der Tab warnt, wenn beide nicht übereinstimmen können. **Durchgestrichene Preise** folgen Ihrer Einstellung unter Produktdaten. In der EU muss eine Ermäßigung vom niedrigsten Preis der letzten 30 Tage berechnet werden, was das Modul nicht prüfen kann, und ein Shop außerhalb der EU veröffentlicht in einem Feed für ein EU-Land keine."
+                },
+                {
+                    "p": "**Nicht in der Datei:** Geschlecht und Altersgruppe, die Google für Bekleidung in mehreren Ländern verlangt, Google-Produktkategorie, Energielabels, Grundpreise, Kennzeichnung für Erwachsene und Rücksendungen. PrestaShop speichert diese Angaben nicht, oder Google bittet darum, sie im Konto festzulegen. Ergänzen Sie sie im Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Aktualität",
+            "content": [
+                {
+                    "p": "IndexNow teilt Bing, das Copilot speist, sowie Yandex, Seznam, Naver, Yep, Amazon und dem Internet Archive mit, dass sich eine Seite geändert hat. Google macht nicht mit. Gesendet werden nur öffentliche Adressen, wenn etwas gespeichert wird, ein Preis sich ändert oder der Bestand null erreicht oder verlässt."
+                },
+                {
+                    "p": "Das Modul führt seine Aufgaben selbst aus. Falls Ihr Hoster das blockiert, rufen Sie die im Tab Einstellungen angezeigte Adresse alle 5 Minuten per Cron-Job auf."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Ein kurzes Verzeichnis Ihrer Kategorien und Informationsseiten in jeder Sprache, unter /llms.txt und /agents.md. Standardmäßig aus. Keine Studie hat gezeigt, dass es Zitate bringt, und Google sagt, dass seine Suche es ignoriert. Es ist hier, weil es nichts kostet und manche Tools es prüfen."
+                }
+            ]
+        },
+        {
+            "title": "Worauf Sie sich konzentrieren sollten",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** Google sagt, dass Feeds Produkten helfen können, in KI-Antworten zu erscheinen.",
+                        "**Ihre Produktangaben:** echte Preise, Bestand, technische Daten und Kennungen.",
+                        "**Microsoft Merchant Center und Bing Webmaster Tools,** die Copilot speisen.",
+                        "**Anderswo erwähnt werden.** Bewertungen und Presse zählen, und das kann Ihnen kein Modul abnehmen."
+                    ]
+                },
+                {
+                    "p": "Das Modul schreibt Ihre Texte nicht mit KI um, gibt Ihnen weder Sichtbarkeitswert noch KI-Platzierung, erzeugt keine FAQ-Blöcke und fügt keine besonderen KI-Tags hinzu. Die Forschung fand nichts, was das stützt."
+                }
+            ]
+        },
+        {
+            "title": "Datenschutz und Deinstallation",
+            "content": [
+                {
+                    "ul": [
+                        "Es werden weder IP-Adressen noch User-Agents gespeichert, nur Zähler.",
+                        "Ein KI-Besuch wird im eigenen Cookie von PrestaShop gemerkt. Kein neues Cookie, keine Dritten.",
+                        "Das Modul lädt die öffentlichen Adresslisten der Betreiber herunter. Es sendet nichts, außer Sie schalten IndexNow ein, das nur öffentliche Seitenadressen sendet.",
+                        "robots.txt ist eine einzige Datei pro Installation, die Crawler-Richtlinie gilt also für jeden Shop. Alles andere gilt je Shop.",
+                        "Die Deinstallation entfernt seine Zeilen in robots.txt, Tabellen, Einstellungen und die Schlüsseldatei. Auch die Feed-Dateien werden gelöscht. Entfernen Sie den Feed auch aus dem Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Support",
+            "content": [
+                {
+                    "p": "E-Mail: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Individuelle Arbeiten: https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}

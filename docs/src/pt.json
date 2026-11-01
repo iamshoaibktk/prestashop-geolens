@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Guia do utilizador",
+    "labels": {
+        "version": "Versão",
+        "author": "Autor",
+        "contact": "Contacto",
+        "page": "Página",
+        "contents": "Índice",
+        "compat": "Compatibilidade"
+    },
+    "sections": [
+        {
+            "title": "Visão geral",
+            "content": [
+                {
+                    "p": "O GEO Lens mostra que rastreadores de IA leem a sua loja e que visitas de IA se tornam encomendas, permite controlar o acesso com segurança e dá aos motores de IA dados de produto completos e exatos."
+                },
+                {
+                    "note": "Nenhum módulo pode prometer citações de IA, e este não o faz. Dá-lhe controlo e números reais. A investigação por trás de cada decisão está em EVIDENCE.md no GitHub."
+                }
+            ]
+        },
+        {
+            "title": "Primeiros passos",
+            "content": [
+                {
+                    "ol": [
+                        "Back office, Módulos, Carregar um módulo: envie o zip e abra Configurar.",
+                        "Abra Rastreadores de IA e clique em **Testar o acesso agora**. Uma firewall ou CDN pode recusar rastreadores mesmo que o robots.txt os aceite.",
+                        "Abra Dados de produto e introduza a sua **entrega e devoluções**. Antes disso, nada é publicado.",
+                        "No mesmo separador, veja **O que o seu catálogo indica** e corrija as maiores lacunas.",
+                        "Clique em **Verificar as minhas páginas** para ver o que obtém um rastreador que não executa JavaScript.",
+                        "Ative o IndexNow no separador Definições se quiser avisar o Bing das alterações."
+                    ]
+                },
+                {
+                    "p": "Com as definições predefinidas, nada é bloqueado e nada é enviado."
+                }
+            ]
+        },
+        {
+            "title": "Visitas e encomendas de IA",
+            "content": [
+                {
+                    "p": "Uma visita é um clique a partir de um assistente como ChatGPT, Perplexity, Gemini, Copilot ou Claude. Uma encomenda conta quando se segue a essa visita: em 2 horas por predefinição, ou em 30 dias se o escolher. Verifique se a ligação mais longa precisa de consentimento onde vende."
+                },
+                {
+                    "note": "Estes números são um mínimo. As apps dos assistentes escondem a origem de um clique, e as respostas de IA da Google parecem cliques normais da Google."
+                }
+            ]
+        },
+        {
+            "title": "Rastreadores de IA",
+            "content": [
+                {
+                    "p": "As empresas de IA usam rastreadores separados para tarefas diferentes, por isso pode decidir por finalidade:"
+                },
+                {
+                    "table": [
+                        [
+                            "Grupo",
+                            "O que faz",
+                            "Se o bloquear"
+                        ],
+                        [
+                            "Respostas e pesquisa",
+                            "Pode citar e ligar à sua loja",
+                            "Pode sair das respostas desse assistente"
+                        ],
+                        [
+                            "Lido para uma pessoa",
+                            "Abre uma página porque alguém pediu",
+                            "O seu servidor recusa-o, pois muitos ignoram o robots.txt"
+                        ],
+                        [
+                            "Treino",
+                            "Recolhe conteúdo para treinar modelos",
+                            "Nenhum operador indica penalização na pesquisa"
+                        ],
+                        [
+                            "Motores de pesquisa",
+                            "Por trás de AI Overviews, AI Mode e Copilot",
+                            "O módulo nunca os bloqueia"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Escolha uma predefinição ou decida bot a bot, leia a pré-visualização e clique em **Aplicar**. O ficheiro é guardado primeiro, por isso **Anular a última alteração** repõe tudo, e as suas próprias linhas no robots.txt nunca são tocadas. Os bots permitidos não precisam de linhas, porque um bot com grupo próprio deixa de respeitar as suas regras para o carrinho, pesquisa e filtros."
+                },
+                {
+                    "ul": [
+                        "**É real?** compara cada pedido com os endereços publicados pelo operador, porque os nomes são fáceis de falsificar.",
+                        "**O que os assistentes leem para as pessoas** lista as páginas abertas porque alguém perguntou algo.",
+                        "**Páginas que pediram e não encontraram** mostra onde um redirecionamento recuperaria visitas.",
+                        "**Proteção de carga** recusa rastreadores de IA declarados em páginas que o robots.txt já proíbe, sem custo de visibilidade. Os scrapers que escondem o nome exigem uma regra na sua CDN."
+                    ]
+                },
+                {
+                    "note": "Se a sua loja estiver numa subpasta, os rastreadores não leem o robots.txt dela, porque só olham para a raiz de um domínio. Os bloqueios continuam a ser aplicados pelo seu servidor."
+                }
+            ]
+        },
+        {
+            "title": "Dados de produto",
+            "content": [
+                {
+                    "p": "O módulo completa a marcação que o seu tema já imprime, por isso nunca há um segundo Product. Remove a data de preço inventada e identificadores falsos, verifica os GTIN e adiciona estado, entrega, devoluções e cada combinação. Ajuda os resultados enriquecidos e o Merchant Center. Os testes não mostraram que a marcação, por si só, gere citações de IA."
+                },
+                {
+                    "p": "Indique o que as suas transportadoras cobram mesmo. A entrega e as devoluções também aparecem na página de produto, para que a página e a marcação coincidam sempre."
+                },
+                {
+                    "p": "Na UE, um preço riscado deve seguir o preço mais baixo dos 30 dias anteriores, algo que o módulo não pode verificar. Está desligado por predefinição nas lojas da UE."
+                }
+            ]
+        },
+        {
+            "title": "Feed de produtos",
+            "content": [
+                {
+                    "p": "Um ficheiro do seu catálogo no formato da Google, para o Google Merchant Center e, se quiser, o Microsoft Merchant Center. A Google diz que os feeds do Merchant Center podem ajudar os produtos a aparecer em respostas de IA. Não diz que tal acontecerá."
+                },
+                {
+                    "table": [
+                        [
+                            "Quem",
+                            "O que faz"
+                        ],
+                        [
+                            "O módulo",
+                            "Escreve o ficheiro uma vez por dia em segundo plano: um artigo por combinação, preços e impostos reais do país escolhido e apenas GTIN com dígito de controlo correto."
+                        ],
+                        [
+                            "O utilizador",
+                            "Adiciona o endereço do ficheiro à sua própria conta do Merchant Center. Nada é enviado até o fazer."
+                        ],
+                        [
+                            "A plataforma",
+                            "Analisa cada produto e decide se e onde o mostra. Um ficheiro aceite não é promessa de listagens, cliques ou citações."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Abra o separador Feed de produtos, escolha país, idioma e moeda e adicione o feed. É criado em segundo plano e pode sair da página.",
+                        "Copie o endereço e mantenha-o privado: quem o tiver pode ler os dados do seu catálogo.",
+                        "No Merchant Center, abra as origens de dados, adicione uma origem de produtos a partir de um ficheiro, introduza a ligação e defina a etiqueta do feed e o idioma indicados junto ao feed.",
+                        "Leia as notas sob o feed e abra **O que ficou de fora e o que corrigir**."
+                    ]
+                },
+                {
+                    "note": "Se o Marketing with Google já envia os seus produtos, não adicione um feed principal para o mesmo país e idioma. A Google diz que um produto carregado por duas origens pertence à que foi atualizada por último e recomenda uma única origem principal. Use um feed suplementar: contém apenas ID, combinações e detalhes de produto. Só funciona se os ID corresponderem à outra origem, por isso compare primeiro alguns."
+                },
+                {
+                    "p": "**Microsoft:** a sua ferramenta de importação copia as suas ofertas Google, pelo que a maioria das lojas não precisa de um ficheiro separado. Agende a importação, porque as ofertas importadas expiram ao fim de 30 dias. Um feed Microsoft deste módulo usa a sua grafia da disponibilidade, para um ficheiro com menos de 1 GB transferido do endereço."
+                },
+                {
+                    "p": "**Preços:** com impostos, exceto nos EUA e no Canadá, onde a Google e a Microsoft os querem excluídos. A Google compara-os com as suas páginas, e o separador avisa quando não podem coincidir. **Os preços riscados** seguem a sua definição em Dados de produto. Na UE, uma redução tem de ser calculada a partir do preço mais baixo dos 30 dias anteriores, o que o módulo não pode verificar, e uma loja fora da UE não os publica num feed para um país da UE."
+                },
+                {
+                    "p": "**Fora do ficheiro:** género e faixa etária, que a Google exige para vestuário em vários países, categoria de produto Google, etiquetas energéticas, preços unitários, indicador de adultos e devoluções. O PrestaShop não guarda estes dados, ou a Google pede que os defina na conta. Adicione-os no Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Atualidade",
+            "content": [
+                {
+                    "p": "O IndexNow indica ao Bing, que alimenta o Copilot, e a Yandex, Seznam, Naver, Yep, Amazon e Internet Archive que uma página mudou. A Google não participa. Só envia endereços públicos, quando algo é guardado, um preço muda, ou o stock chega a zero ou sai de zero."
+                },
+                {
+                    "p": "O módulo executa as suas tarefas sozinho. Se o seu alojamento o bloquear, chame o endereço indicado no separador Definições a cada 5 minutos com uma tarefa cron."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Um índice curto das suas categorias e páginas informativas em cada idioma, em /llms.txt e /agents.md. Está desligado por predefinição. Nenhum estudo mostrou que gere citações, e a Google diz que a sua pesquisa o ignora. Está aqui porque não custa nada e algumas ferramentas o verificam."
+                }
+            ]
+        },
+        {
+            "title": "Onde investir o seu esforço",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** A Google diz que os feeds podem ajudar os produtos a aparecer em respostas de IA.",
+                        "**Os dados dos seus produtos:** preços reais, stock, especificações e identificadores.",
+                        "**Microsoft Merchant Center e Bing Webmaster Tools,** que alimentam o Copilot.",
+                        "**Falarem de si noutros sítios.** As avaliações e a imprensa contam, e nenhum módulo o pode fazer por si."
+                    ]
+                },
+                {
+                    "p": "O módulo não reescreve os seus textos com IA, não lhe dá uma pontuação de visibilidade ou uma posição na IA, não gera blocos de perguntas frequentes nem adiciona etiquetas especiais de IA. A investigação não encontrou nada que o sustente."
+                }
+            ]
+        },
+        {
+            "title": "Privacidade e desinstalação",
+            "content": [
+                {
+                    "ul": [
+                        "Não é guardado nenhum endereço IP nem user agent, apenas contadores.",
+                        "Uma visita de IA é lembrada no cookie do PrestaShop. Sem cookie novo, sem terceiros.",
+                        "O módulo descarrega as listas públicas de endereços dos operadores. Não envia nada, a menos que ative o IndexNow, que só envia endereços de páginas públicas.",
+                        "O robots.txt é um único ficheiro por instalação, por isso a política de rastreadores aplica-se a todas as lojas. Tudo o resto é por loja.",
+                        "A desinstalação remove as suas linhas do robots.txt, tabelas, definições e ficheiro de chave. Apaga também os ficheiros de feed. Remova o feed também do Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Suporte",
+            "content": [
+                {
+                    "p": "Email: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Trabalhos à medida: https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}

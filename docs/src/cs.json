@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Uživatelská příručka",
+    "labels": {
+        "version": "Verze",
+        "author": "Autor",
+        "contact": "Kontakt",
+        "page": "Strana",
+        "contents": "Obsah",
+        "compat": "Kompatibilita"
+    },
+    "sections": [
+        {
+            "title": "Přehled",
+            "content": [
+                {
+                    "p": "GEO Lens ukazuje, kteří AI roboti čtou váš obchod a které návštěvy z AI se mění v objednávky, umožňuje bezpečně řídit přístup robotů a dává AI vyhledávačům úplná a přesná produktová data."
+                },
+                {
+                    "note": "Žádný modul nemůže slíbit citace od AI a tento to nedělá. Dává vám kontrolu a skutečná čísla. Výzkum za každým rozhodnutím je v souboru EVIDENCE.md na GitHubu."
+                }
+            ]
+        },
+        {
+            "title": "První kroky",
+            "content": [
+                {
+                    "ol": [
+                        "Administrace, Moduly, Nahrát modul: odešlete zip a otevřete Konfigurovat.",
+                        "Otevřete AI roboti a klikněte na **Otestovat přístup**. Firewall nebo CDN může roboty odmítat, i když je robots.txt vítá.",
+                        "Otevřete Produktová data a zadejte **dopravu a vrácení**. Dříve se nic nezveřejní.",
+                        "Na stejné kartě si prohlédněte **Co uvádí váš katalog** a opravte největší mezery.",
+                        "Klikněte na **Zkontrolovat mé stránky** a uvidíte, co získá robot bez JavaScriptu.",
+                        "Na kartě Nastavení zapněte IndexNow, pokud chcete Bing informovat o změnách."
+                    ]
+                },
+                {
+                    "p": "Při výchozím nastavení se nic neblokuje a nikam se nic neodesílá."
+                }
+            ]
+        },
+        {
+            "title": "Návštěvy a objednávky z AI",
+            "content": [
+                {
+                    "p": "Návštěva je kliknutí od asistenta, jako je ChatGPT, Perplexity, Gemini, Copilot nebo Claude. Objednávka se počítá, když po takové návštěvě následuje: ve výchozím stavu do 2 hodin, nebo do 30 dnů, pokud to zvolíte. Ověřte, zda delší propojení nevyžaduje souhlas tam, kde prodáváte."
+                },
+                {
+                    "note": "Tato čísla jsou minimum. Aplikace asistentů skrývají původ kliknutí a AI odpovědi Googlu vypadají jako běžná kliknutí z Googlu."
+                }
+            ]
+        },
+        {
+            "title": "AI roboti",
+            "content": [
+                {
+                    "p": "AI firmy používají oddělené roboty pro různé úkoly, takže se můžete rozhodovat podle účelu:"
+                },
+                {
+                    "table": [
+                        [
+                            "Skupina",
+                            "Co dělá",
+                            "Když ji zablokujete"
+                        ],
+                        [
+                            "Odpovědi a vyhledávání",
+                            "Může váš obchod citovat a odkazovat na něj",
+                            "Můžete vypadnout z odpovědí daného asistenta"
+                        ],
+                        [
+                            "Přečteno pro člověka",
+                            "Otevře stránku, protože o to někdo požádal",
+                            "Odmítne ho váš server, protože mnozí ignorují robots.txt"
+                        ],
+                        [
+                            "Trénování",
+                            "Sbírá obsah pro trénování modelů",
+                            "Žádný provozovatel neuvádí postih ve vyhledávání"
+                        ],
+                        [
+                            "Vyhledávače",
+                            "Stojí za AI Overviews, AI Mode a Copilotem",
+                            "Modul je nikdy neblokuje"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Vyberte předvolbu nebo rozhodujte robota po robotovi, přečtěte si náhled a klikněte na **Použít**. Soubor se nejprve uloží, takže **Vrátit poslední změnu** vše obnoví, a vaše vlastní řádky v robots.txt se nikdy nemění. Povolení roboti nepotřebují řádky, protože robot s vlastní skupinou přestává dodržovat vaše pravidla pro košík, vyhledávání a filtry."
+                },
+                {
+                    "ul": [
+                        "**Je skutečný?** porovnává každý požadavek se zveřejněnými adresami provozovatele, protože jména se snadno falšují.",
+                        "**Co asistenti čtou pro lidi** ukazuje stránky otevřené proto, že se někdo na něco zeptal.",
+                        "**Stránky, které hledali a nenašli** ukazuje, kde by přesměrování získalo návštěvy zpět.",
+                        "**Ochrana zátěže** odmítá přihlášené AI roboty na stránkách, které robots.txt už zakazuje, bez ztráty viditelnosti. Scrapery skrývající jméno vyžadují pravidlo na vašem CDN."
+                    ]
+                },
+                {
+                    "note": "Pokud je váš obchod v podsložce, roboti jeho robots.txt nečtou, protože hledají jen v kořeni domény. Blokování dál vynucuje váš server."
+                }
+            ]
+        },
+        {
+            "title": "Produktová data",
+            "content": [
+                {
+                    "p": "Modul doplňuje značky, které vaše šablona už vypisuje, takže nikdy nevznikne druhý Product. Odstraňuje vymyšlené datum ceny a falešné identifikátory, kontroluje GTIN a přidává stav, dopravu, vrácení a každou kombinaci. Pomáhá to rozšířeným výsledkům a Merchant Center. Testy neprokázaly, že samotné značky přinášejí citace od AI."
+                },
+                {
+                    "p": "Uveďte, co vaši dopravci skutečně účtují. Doprava a vrácení se zobrazují i na produktové stránce, takže stránka a značky se vždy shodují."
+                },
+                {
+                    "p": "V EU musí přeškrtnutá cena vycházet z nejnižší ceny za předchozích 30 dní, což modul ověřit nemůže. U obchodů v EU je ve výchozím stavu vypnutá."
+                }
+            ]
+        },
+        {
+            "title": "Produktový feed",
+            "content": [
+                {
+                    "p": "Soubor vašeho katalogu ve formátu Googlu, pro Google Merchant Center a případně Microsoft Merchant Center. Google uvádí, že feedy v Merchant Center mohou produktům pomoci objevit se v odpovědích AI. Netvrdí, že se tak stane."
+                },
+                {
+                    "table": [
+                        [
+                            "Kdo",
+                            "Co dělá"
+                        ],
+                        [
+                            "Modul",
+                            "Jednou denně na pozadí vytvoří soubor: jedna položka na kombinaci, skutečné ceny a daň pro zvolenou zemi a pouze kódy GTIN se správnou kontrolní číslicí."
+                        ],
+                        [
+                            "Vy",
+                            "Přidáte adresu souboru do vlastního účtu Merchant Center. Dokud to neuděláte, nic se nikam neodesílá."
+                        ],
+                        [
+                            "Platforma",
+                            "Posoudí každý produkt a rozhodne, zda a kde ho zobrazí. Přijatý soubor nezaručuje zobrazení, kliknutí ani citace."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Otevřete kartu Produktový feed, zvolte zemi, jazyk a měnu a přidejte feed. Vytváří se na pozadí a stránku můžete opustit.",
+                        "Zkopírujte jeho adresu a uchovejte ji v soukromí: kdo ji má, může číst data vašeho katalogu.",
+                        "V Merchant Center otevřete zdroje dat, přidejte zdroj produktů ze souboru, zadejte odkaz a nastavte štítek feedu a jazyk uvedené u feedu.",
+                        "Přečtěte si poznámky pod feedem a otevřete **Co bylo vynecháno a co opravit**."
+                    ]
+                },
+                {
+                    "note": "Pokud Marketing with Google už vaše produkty odesílá, nepřidávejte primární feed pro stejnou zemi a jazyk. Podle Googlu patří produkt nahraný ze dvou zdrojů tomu, který byl aktualizován naposledy, a Google doporučuje jediný primární zdroj. Použijte doplňkový feed: obsahuje jen ID, kombinace a detaily produktu. Funguje jen tehdy, když ID odpovídají druhému zdroji, proto jich nejprve několik porovnejte."
+                },
+                {
+                    "p": "**Microsoft:** jeho nástroj pro import zkopíruje vaše nabídky z Googlu, takže většina obchodů nepotřebuje zvláštní soubor. Import naplánujte, protože importované nabídky po 30 dnech vyprší. Feed pro Microsoft z tohoto modulu používá jeho zápis dostupnosti a je určen pro soubor do 1 GB stahovaný z adresy."
+                },
+                {
+                    "p": "**Ceny:** s daní, kromě USA a Kanady, kde je Google a Microsoft chtějí bez daně. Google je porovnává s vašimi stránkami a karta upozorní, když se nemohou shodovat. **Přeškrtnuté ceny** se řídí vaším nastavením v Produktových datech. V EU se sleva musí počítat z nejnižší ceny za předchozích 30 dní, což modul nemůže ověřit, a obchod mimo EU je ve feedu pro zemi EU nezveřejňuje."
+                },
+                {
+                    "p": "**Není v souboru:** pohlaví a věková skupina, které Google vyžaduje u oblečení v několika zemích, kategorie produktu Google, energetické štítky, jednotkové ceny, označení pro dospělé a vrácení. PrestaShop tyto údaje neuchovává, nebo je Google žádá nastavit v účtu. Doplňte je v Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Aktuálnost",
+            "content": [
+                {
+                    "p": "IndexNow sděluje Bingu, který napájí Copilot, a službám Yandex, Seznam, Naver, Yep, Amazon a Internet Archive, že se stránka změnila. Google se neúčastní. Odesílá jen veřejné adresy, když se něco uloží, změní se cena, nebo sklad dosáhne nuly či ji opustí."
+                },
+                {
+                    "p": "Modul spouští své úlohy sám. Pokud to váš hosting blokuje, volejte adresu uvedenou na kartě Nastavení každých 5 minut přes cron."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Krátký přehled vašich kategorií a informačních stránek v každém jazyce, na /llms.txt a /agents.md. Ve výchozím stavu vypnuto. Žádná studie neprokázala, že přináší citace, a Google uvádí, že jej jeho vyhledávání ignoruje. Je tu proto, že nic nestojí a některé nástroje ho kontrolují."
+                }
+            ]
+        },
+        {
+            "title": "Na co se zaměřit",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** Google uvádí, že feedy mohou pomoci produktům objevit se v odpovědích AI.",
+                        "**Údaje o vašich produktech:** skutečné ceny, sklad, specifikace a identifikátory.",
+                        "**Microsoft Merchant Center a Bing Webmaster Tools,** které napájejí Copilot.",
+                        "**Zmínky o vás jinde.** Recenze a tisk jsou důležité a žádný modul to za vás neudělá."
+                    ]
+                },
+                {
+                    "p": "Modul nebude přepisovat vaše texty pomocí AI, nedá vám skóre viditelnosti ani pořadí v AI, nebude generovat bloky FAQ a nepřidá zvláštní AI značky. Výzkum pro to nenašel oporu."
+                }
+            ]
+        },
+        {
+            "title": "Soukromí a odinstalace",
+            "content": [
+                {
+                    "ul": [
+                        "Neukládá se žádná IP adresa ani user agent, jen počítadla.",
+                        "Návštěva z AI se pamatuje v cookie PrestaShopu. Žádná nová cookie, žádné třetí strany.",
+                        "Modul stahuje veřejné seznamy adres provozovatelů. Nic neodesílá, pokud nezapnete IndexNow, který posílá jen adresy veřejných stránek.",
+                        "robots.txt je jeden soubor na instalaci, takže zásady pro roboty platí pro každý obchod. Vše ostatní je pro každý obchod zvlášť.",
+                        "Odinstalace odstraní jeho řádky v robots.txt, tabulky, nastavení a soubor s klíčem. Smaže také soubory feedů. Odstraňte feed i z Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Podpora",
+            "content": [
+                {
+                    "p": "E-mail: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Zakázková práce: https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}

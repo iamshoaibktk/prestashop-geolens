@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="geolens" source-language="en-US" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="0b429f0237958e43e5bf20c22f3abf23">
+        <source>Free delivery</source>
+        <target>Livraison gratuite</target>
+      </trans-unit>
+      <trans-unit id="2b8ff1b42e332beec84f4c502e37609a">
+        <source>Delivery: %amount%</source>
+        <target>Livraison : %amount%</target>
+      </trans-unit>
+      <trans-unit id="bb8d87b2e6b616683aec85e4a839f4f4">
+        <source>free over %amount%</source>
+        <target>gratuite au-delà de %amount%</target>
+      </trans-unit>
+      <trans-unit id="cc5ce1375994106c11eb0090cb34c9f5">
+        <source>arrives in %min%-%max% days</source>
+        <target>arrive sous %min% à %max% jours</target>
+      </trans-unit>
+      <trans-unit id="c1605cea61fad502be4424d23b22a091">
+        <source>Returns are not accepted on this product</source>
+        <target>Les retours ne sont pas acceptés pour ce produit</target>
+      </trans-unit>
+      <trans-unit id="db3b3e244037e302f752821c2a1e0581">
+        <source>Returns at any time</source>
+        <target>Retours à tout moment</target>
+      </trans-unit>
+      <trans-unit id="3f770975a6da60f86b6c9309c67e2c14">
+        <source>%days%-day returns</source>
+        <target>Retours sous %days% jours</target>
+      </trans-unit>
+      <trans-unit id="4075d60384a5c33fc483c01526ff037c">
+        <source>free of charge</source>
+        <target>gratuitement</target>
+      </trans-unit>
+      <trans-unit id="5a2ee0ecabf358d34afc2d5490274eda">
+        <source>return fee %amount%</source>
+        <target>frais de retour %amount%</target>
+      </trans-unit>
+      <trans-unit id="a6655fed221a59767ac4c6bfab0a62a8">
+        <source>you pay the return postage</source>
+        <target>port de retour à votre charge</target>
+      </trans-unit>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target>Catégories</target>
+      </trans-unit>
+      <trans-unit id="d8019eb4652217e0376be6df0007a145">
+        <source>Policies and information</source>
+        <target>Conditions et informations</target>
+      </trans-unit>
+      <trans-unit id="82a0bcfb6d02697a90f01d6904fe4502">
+        <source>Other languages</source>
+        <target>Autres langues</target>
+      </trans-unit>
+      <trans-unit id="bbaff12800505b22a853e8b7f4eb6a22">
+        <source>Contact</source>
+        <target>Contact</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

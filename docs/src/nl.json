@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Gebruikershandleiding",
+    "labels": {
+        "version": "Versie",
+        "author": "Auteur",
+        "contact": "Contact",
+        "page": "Pagina",
+        "contents": "Inhoud",
+        "compat": "Compatibiliteit"
+    },
+    "sections": [
+        {
+            "title": "Overzicht",
+            "content": [
+                {
+                    "p": "GEO Lens laat zien welke AI-crawlers uw winkel lezen en welke AI-bezoeken bestellingen worden, laat u hun toegang veilig beheren en geeft AI-zoekmachines volledige, juiste productgegevens."
+                },
+                {
+                    "note": "Geen enkele module kan AI-vermeldingen beloven, en deze doet dat niet. Ze geeft u controle en echte cijfers. Het onderzoek achter elke keuze staat in EVIDENCE.md op GitHub."
+                }
+            ]
+        },
+        {
+            "title": "Eerste stappen",
+            "content": [
+                {
+                    "ol": [
+                        "Backoffice, Modules, Module uploaden: stuur de zip en open Configureren.",
+                        "Open AI-crawlers en klik op **Toegang nu testen**. Een firewall of CDN kan crawlers weigeren, ook als robots.txt ze toelaat.",
+                        "Open Productgegevens en vul uw **levering en retouren** in. Eerder wordt niets gepubliceerd.",
+                        "Bekijk op hetzelfde tabblad **Wat uw catalogus vermeldt** en vul de grootste gaten.",
+                        "Klik op **Mijn pagina's controleren** om te zien wat een crawler zonder JavaScript krijgt.",
+                        "Schakel IndexNow in op het tabblad Instellingen als u Bing over wijzigingen wilt informeren."
+                    ]
+                },
+                {
+                    "p": "Met de standaardinstellingen wordt niets geblokkeerd en nergens iets naartoe gestuurd."
+                }
+            ]
+        },
+        {
+            "title": "AI-bezoeken en bestellingen",
+            "content": [
+                {
+                    "p": "Een bezoek is een klik vanuit een assistent zoals ChatGPT, Perplexity, Gemini, Copilot of Claude. Een bestelling telt als die op zo'n bezoek volgt: standaard binnen 2 uur, of binnen 30 dagen als u dat kiest. Controleer of de langere koppeling toestemming vereist waar u verkoopt."
+                },
+                {
+                    "note": "Deze cijfers zijn een ondergrens. Assistent-apps verbergen de herkomst van een klik, en de AI-antwoorden van Google lijken op gewone Google-klikken."
+                }
+            ]
+        },
+        {
+            "title": "AI-crawlers",
+            "content": [
+                {
+                    "p": "AI-bedrijven gebruiken aparte crawlers voor verschillende taken, dus u kunt per doel beslissen:"
+                },
+                {
+                    "table": [
+                        [
+                            "Groep",
+                            "Wat het doet",
+                            "Als u het blokkeert"
+                        ],
+                        [
+                            "Antwoorden en zoeken",
+                            "Kan uw winkel noemen en ernaar linken",
+                            "U kunt uit de antwoorden van die assistent verdwijnen"
+                        ],
+                        [
+                            "Gelezen voor een persoon",
+                            "Opent een pagina omdat iemand erom vroeg",
+                            "Uw server weigert het, want velen negeren robots.txt"
+                        ],
+                        [
+                            "Training",
+                            "Verzamelt inhoud om modellen te trainen",
+                            "Geen exploitant noemt een nadeel in zoekresultaten"
+                        ],
+                        [
+                            "Zoekmachines",
+                            "Achter AI Overviews, AI Mode en Copilot",
+                            "De module blokkeert deze nooit"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Kies een voorinstelling of beslis per bot, lees het voorbeeld en klik op **Toepassen**. Het bestand wordt eerst bewaard, dus **Laatste wijziging ongedaan maken** zet alles terug, en uw eigen regels in robots.txt worden nooit aangeraakt. Toegestane bots hebben geen regels nodig, want een bot met een eigen groep volgt uw regels voor winkelwagen, zoeken en filters niet meer."
+                },
+                {
+                    "ul": [
+                        "**Is het echt?** vergelijkt elk verzoek met de gepubliceerde adressen van de exploitant, want namen zijn makkelijk te vervalsen.",
+                        "**Wat assistenten voor mensen lezen** toont de pagina's die werden geopend omdat iemand iets vroeg.",
+                        "**Pagina's die ze vroegen en niet vonden** toont waar een doorverwijzing bezoeken terugwint.",
+                        "**Belastingbeveiliging** weigert aangemelde AI-crawlers op pagina's die robots.txt al verbiedt, zonder verlies van zichtbaarheid. Scrapers die hun naam verbergen vragen om een regel op uw CDN."
+                    ]
+                },
+                {
+                    "note": "Staat uw winkel in een submap, dan lezen crawlers de robots.txt daarvan niet, want ze kijken alleen in de hoofdmap van een domein. Blokkades worden nog wel door uw server afgedwongen."
+                }
+            ]
+        },
+        {
+            "title": "Productgegevens",
+            "content": [
+                {
+                    "p": "De module vult de opmaak aan die uw thema al afdrukt, dus er komt nooit een tweede Product. Ze verwijdert de verzonnen prijsdatum en valse identificaties, controleert GTIN's en voegt staat, levering, retouren en elke combinatie toe. Dat helpt rich results en Merchant Center. Tests hebben niet aangetoond dat opmaak alleen AI-vermeldingen oplevert."
+                },
+                {
+                    "p": "Vermeld wat uw vervoerders echt rekenen. Levering en retouren staan ook op de productpagina, zodat pagina en opmaak altijd overeenkomen."
+                },
+                {
+                    "p": "In de EU moet een doorgestreepte prijs de laagste prijs van de voorgaande 30 dagen volgen, wat de module niet kan controleren. Voor EU-winkels staat dit standaard uit."
+                }
+            ]
+        },
+        {
+            "title": "Productfeed",
+            "content": [
+                {
+                    "p": "Een bestand van uw catalogus in de indeling van Google, voor Google Merchant Center en desgewenst Microsoft Merchant Center. Google zegt dat Merchant Center-feeds producten kunnen helpen in AI-antwoorden te verschijnen. Het zegt niet dat dit gebeurt."
+                },
+                {
+                    "table": [
+                        [
+                            "Wie",
+                            "Wat er gebeurt"
+                        ],
+                        [
+                            "De module",
+                            "Schrijft het bestand één keer per dag op de achtergrond: één artikel per combinatie, echte prijzen en belasting voor het gekozen land, en alleen GTIN's met een juist controlecijfer."
+                        ],
+                        [
+                            "U",
+                            "Voegt het adres van het bestand toe aan uw eigen Merchant Center-account. Tot die tijd wordt niets verzonden."
+                        ],
+                        [
+                            "Het platform",
+                            "Beoordeelt elk product en bepaalt of en waar het wordt getoond. Een geaccepteerd bestand is geen belofte van vermeldingen, klikken of citaties."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Open het tabblad Productfeed, kies een land, taal en valuta en voeg de feed toe. Die wordt op de achtergrond gemaakt en u kunt de pagina verlaten.",
+                        "Kopieer het adres en houd het privé: iedereen die het heeft, kan uw catalogusgegevens lezen.",
+                        "Open in Merchant Center de gegevensbronnen, voeg een productbron toe vanuit een bestand, voer de link in en stel het feedlabel en de taal in die naast de feed staan.",
+                        "Lees de opmerkingen onder de feed en open **Wat is weggelaten en wat u moet oplossen**."
+                    ]
+                },
+                {
+                    "note": "Als Marketing with Google uw producten al verstuurt, voeg dan geen primaire feed toe voor hetzelfde land en dezelfde taal. Volgens Google hoort een product dat via twee bronnen is geüpload bij de bron die het laatst is bijgewerkt, en Google raadt één primaire bron aan. Gebruik een aanvullende feed: die bevat alleen ID's, combinaties en productdetails. Die werkt alleen als de ID's overeenkomen met de andere bron, dus vergelijk er eerst een paar."
+                },
+                {
+                    "p": "**Microsoft:** de importtool kopieert uw Google-aanbiedingen, dus de meeste winkels hebben geen apart bestand nodig. Plan de import in, want geïmporteerde aanbiedingen verlopen na 30 dagen. Een Microsoft-feed van deze module gebruikt de schrijfwijze van Microsoft voor beschikbaarheid, voor een bestand kleiner dan 1 GB dat vanaf het adres wordt gedownload."
+                },
+                {
+                    "p": "**Prijzen:** inclusief belasting, behalve in de VS en Canada, waar Google en Microsoft ze zonder belasting willen. Google vergelijkt ze met uw pagina's, en het tabblad waarschuwt als die niet kunnen overeenkomen. **Doorgestreepte prijzen** volgen uw instelling bij Productgegevens. In de EU moet een korting worden berekend vanaf de laagste prijs van de voorgaande 30 dagen, wat de module niet kan controleren, en een winkel buiten de EU publiceert ze niet in een feed voor een EU-land."
+                },
+                {
+                    "p": "**Niet in het bestand:** geslacht en leeftijdsgroep, die Google in meerdere landen voor kleding vereist, Google-productcategorie, energielabels, eenheidsprijzen, de markering voor volwassenen en retouren. PrestaShop bewaart deze gegevens niet, of Google vraagt ze in het account in te stellen. Voeg ze toe in Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Actualiteit",
+            "content": [
+                {
+                    "p": "IndexNow laat Bing, dat Copilot voedt, en Yandex, Seznam, Naver, Yep, Amazon en het Internet Archive weten dat een pagina is gewijzigd. Google doet niet mee. Er worden alleen openbare adressen verzonden, wanneer iets wordt opgeslagen, een prijs verandert, of de voorraad nul bereikt of verlaat."
+                },
+                {
+                    "p": "De module voert haar taken zelf uit. Blokkeert uw host dat, roep dan het adres op het tabblad Instellingen elke 5 minuten aan met een cron-taak."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Een korte index van uw categorieën en informatiepagina's in elke taal, op /llms.txt en /agents.md. Standaard uit. Geen enkel onderzoek heeft aangetoond dat het vermeldingen oplevert, en Google zegt dat zijn zoekmachine het negeert. Het staat hier omdat het niets kost en sommige tools erop controleren."
+                }
+            ]
+        },
+        {
+            "title": "Waar u uw energie aan besteedt",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** Google zegt dat feeds kunnen helpen om producten in AI-antwoorden te laten verschijnen.",
+                        "**Uw productgegevens:** echte prijzen, voorraad, specificaties en identificaties.",
+                        "**Microsoft Merchant Center en Bing Webmaster Tools,** die Copilot voeden.",
+                        "**Elders besproken worden.** Beoordelingen en pers tellen mee, en geen enkele module kan dat voor u doen."
+                    ]
+                },
+                {
+                    "p": "De module herschrijft uw teksten niet met AI, geeft u geen zichtbaarheidsscore of AI-positie, genereert geen FAQ-blokken en voegt geen speciale AI-tags toe. Het onderzoek vond daar geen steun voor."
+                }
+            ]
+        },
+        {
+            "title": "Privacy en verwijderen",
+            "content": [
+                {
+                    "ul": [
+                        "Er wordt geen IP-adres of user agent opgeslagen, alleen tellers.",
+                        "Een AI-bezoek wordt onthouden in de eigen cookie van PrestaShop. Geen nieuwe cookie, geen derden.",
+                        "De module downloadt de openbare adressenlijsten van de exploitanten. Ze verzendt niets tenzij u IndexNow inschakelt, dat alleen openbare paginaadressen stuurt.",
+                        "robots.txt is één bestand per installatie, dus het crawlerbeleid geldt voor elke winkel. Al het andere is per winkel.",
+                        "Verwijderen haalt haar regels in robots.txt, tabellen, instellingen en sleutelbestand weg. Ook de feedbestanden worden verwijderd. Verwijder de feed ook uit Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ondersteuning",
+            "content": [
+                {
+                    "p": "E-mail: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Maatwerk: https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}

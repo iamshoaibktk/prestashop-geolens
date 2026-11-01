@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Instrukcja obsługi",
+    "labels": {
+        "version": "Wersja",
+        "author": "Autor",
+        "contact": "Kontakt",
+        "page": "Strona",
+        "contents": "Spis treści",
+        "compat": "Zgodność"
+    },
+    "sections": [
+        {
+            "title": "Przegląd",
+            "content": [
+                {
+                    "p": "GEO Lens pokazuje, które roboty AI czytają Twój sklep i które wizyty z AI stają się zamówieniami, pozwala bezpiecznie kontrolować dostęp robotów i daje silnikom AI pełne, dokładne dane produktów."
+                },
+                {
+                    "note": "Żaden moduł nie może obiecać cytowań przez AI i ten tego nie robi. Daje Ci kontrolę i prawdziwe liczby. Badania stojące za każdą decyzją są w pliku EVIDENCE.md na GitHubie."
+                }
+            ]
+        },
+        {
+            "title": "Pierwsze kroki",
+            "content": [
+                {
+                    "ol": [
+                        "Panel administracyjny, Moduły, Prześlij moduł: wyślij plik zip i otwórz Konfiguruj.",
+                        "Otwórz Roboty AI i kliknij **Testuj dostęp teraz**. Zapora lub CDN może odrzucać roboty, nawet gdy robots.txt je dopuszcza.",
+                        "Otwórz Dane produktów i wpisz **dostawę i zwroty**. Wcześniej nic nie zostanie opublikowane.",
+                        "Na tej samej karcie sprawdź **Co podaje Twój katalog** i uzupełnij największe braki.",
+                        "Kliknij **Sprawdź moje strony**, by zobaczyć, co dostaje robot bez JavaScriptu.",
+                        "Włącz IndexNow na karcie Ustawienia, jeśli chcesz informować Binga o zmianach."
+                    ]
+                },
+                {
+                    "p": "Przy ustawieniach domyślnych nic nie jest blokowane i nic nigdzie nie jest wysyłane."
+                }
+            ]
+        },
+        {
+            "title": "Wizyty i zamówienia z AI",
+            "content": [
+                {
+                    "p": "Wizyta to kliknięcie od asystenta takiego jak ChatGPT, Perplexity, Gemini, Copilot czy Claude. Zamówienie liczy się, gdy następuje po takiej wizycie: domyślnie w ciągu 2 godzin albo w ciągu 30 dni, jeśli tak wybierzesz. Sprawdź, czy dłuższe powiązanie wymaga zgody tam, gdzie sprzedajesz."
+                },
+                {
+                    "note": "Te liczby to minimum. Aplikacje asystentów ukrywają źródło kliknięcia, a odpowiedzi AI Google wyglądają jak zwykłe kliknięcia z Google."
+                }
+            ]
+        },
+        {
+            "title": "Roboty AI",
+            "content": [
+                {
+                    "p": "Firmy AI używają osobnych robotów do różnych zadań, więc możesz decydować według celu:"
+                },
+                {
+                    "table": [
+                        [
+                            "Grupa",
+                            "Co robi",
+                            "Jeśli zablokujesz"
+                        ],
+                        [
+                            "Odpowiedzi i wyszukiwanie",
+                            "Może cytować Twój sklep i linkować do niego",
+                            "Możesz wypaść z odpowiedzi tego asystenta"
+                        ],
+                        [
+                            "Odczytane dla osoby",
+                            "Otwiera stronę, bo ktoś o to poprosił",
+                            "Odrzuca go Twój serwer, bo wiele z nich ignoruje robots.txt"
+                        ],
+                        [
+                            "Trenowanie",
+                            "Zbiera treści do trenowania modeli",
+                            "Żaden operator nie wskazuje kary w wyszukiwarce"
+                        ],
+                        [
+                            "Wyszukiwarki",
+                            "Stoją za AI Overviews, AI Mode i Copilotem",
+                            "Moduł nigdy ich nie blokuje"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Wybierz ustawienie gotowe lub decyduj dla każdego bota, przeczytaj podgląd i kliknij **Zastosuj**. Plik jest najpierw zachowywany, więc **Cofnij ostatnią zmianę** przywraca wszystko, a Twoje własne wiersze w robots.txt nigdy nie są zmieniane. Dozwolone boty nie potrzebują wierszy, bo bot z własną grupą przestaje przestrzegać Twoich reguł dla koszyka, wyszukiwania i filtrów."
+                },
+                {
+                    "ul": [
+                        "**Czy prawdziwy?** porównuje każde żądanie z adresami publikowanymi przez operatora, bo nazwy łatwo podrobić.",
+                        "**Co asystenci czytają dla ludzi** pokazuje strony otwarte, bo ktoś o coś zapytał.",
+                        "**Strony, o które pytali, a których nie znaleźli** pokazuje, gdzie przekierowanie odzyska wizyty.",
+                        "**Ochrona obciążenia** odrzuca zadeklarowane roboty AI na stronach, których robots.txt już zabrania, bez utraty widoczności. Scrapery ukrywające nazwę wymagają reguły na Twoim CDN."
+                    ]
+                },
+                {
+                    "note": "Jeśli sklep jest w podfolderze, roboty nie czytają jego robots.txt, bo patrzą tylko do katalogu głównego domeny. Blokady nadal egzekwuje Twój serwer."
+                }
+            ]
+        },
+        {
+            "title": "Dane produktów",
+            "content": [
+                {
+                    "p": "Moduł uzupełnia znaczniki, które motyw już generuje, więc nigdy nie ma drugiego Product. Usuwa wymyśloną datę ceny i fałszywe identyfikatory, sprawdza GTIN oraz dodaje stan, dostawę, zwroty i każdą kombinację. Pomaga to w wynikach rozszerzonych i Merchant Center. Testy nie wykazały, by same znaczniki przynosiły cytowania przez AI."
+                },
+                {
+                    "p": "Podaj, ile naprawdę liczą Twoi przewoźnicy. Dostawa i zwroty pojawiają się też na stronie produktu, więc strona i znaczniki zawsze się zgadzają."
+                },
+                {
+                    "p": "W UE przekreślona cena musi wynikać z najniższej ceny z poprzednich 30 dni, czego moduł nie może sprawdzić. W sklepach z UE jest domyślnie wyłączona."
+                }
+            ]
+        },
+        {
+            "title": "Plik produktowy",
+            "content": [
+                {
+                    "p": "Plik z Twoim katalogiem w formacie Google, dla Google Merchant Center oraz, jeśli chcesz, Microsoft Merchant Center. Google podaje, że pliki w Merchant Center mogą pomóc produktom pojawiać się w odpowiedziach AI. Nie twierdzi, że tak się stanie."
+                },
+                {
+                    "table": [
+                        [
+                            "Kto",
+                            "Co robi"
+                        ],
+                        [
+                            "Moduł",
+                            "Tworzy plik raz dziennie w tle: jedna pozycja na kombinację, prawdziwe ceny i podatek dla wybranego kraju oraz wyłącznie numery GTIN z poprawną cyfrą kontrolną."
+                        ],
+                        [
+                            "Ty",
+                            "Dodajesz adres pliku do własnego konta Merchant Center. Do tego czasu nic nigdzie nie jest wysyłane."
+                        ],
+                        [
+                            "Platforma",
+                            "Sprawdza każdy produkt i decyduje, czy i gdzie go pokazać. Zaakceptowany plik nie gwarantuje wyświetleń, kliknięć ani cytowań."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Otwórz kartę Plik produktowy, wybierz kraj, język i walutę, a następnie dodaj plik. Tworzy się w tle i możesz opuścić stronę.",
+                        "Skopiuj jego adres i zachowaj go w tajemnicy: każdy, kto go ma, może odczytać dane katalogu.",
+                        "W Merchant Center otwórz źródła danych, dodaj źródło produktów z pliku, wpisz link i ustaw etykietę pliku oraz język podane obok pliku.",
+                        "Przeczytaj uwagi pod plikiem i otwórz **Co pominięto i co poprawić**."
+                    ]
+                },
+                {
+                    "note": "Jeśli Marketing with Google już wysyła Twoje produkty, nie dodawaj pliku głównego dla tego samego kraju i języka. Według Google produkt przesłany z dwóch źródeł należy do tego, które zaktualizowano ostatnio, a Google zaleca jedno źródło główne. Użyj pliku uzupełniającego: zawiera tylko identyfikatory, kombinacje i szczegóły produktu. Działa tylko wtedy, gdy identyfikatory pasują do drugiego źródła, więc najpierw porównaj kilka z nich."
+                },
+                {
+                    "p": "**Microsoft:** jego narzędzie importu kopiuje Twoje oferty z Google, więc większość sklepów nie potrzebuje osobnego pliku. Zaplanuj import, bo zaimportowane oferty wygasają po 30 dniach. Plik dla Microsoftu z tego modułu używa jego pisowni dostępności i jest przeznaczony do pobierania z adresu, jeśli ma mniej niż 1 GB."
+                },
+                {
+                    "p": "**Ceny:** z podatkiem, z wyjątkiem USA i Kanady, gdzie Google i Microsoft chcą je bez podatku. Google porównuje je ze stronami, a karta ostrzega, gdy nie mogą być zgodne. **Ceny przekreślone** są zgodne z ustawieniem w Danych produktów. W UE obniżkę należy liczyć od najniższej ceny z poprzednich 30 dni, czego moduł nie może sprawdzić, a sklep spoza UE nie publikuje ich w pliku dla kraju UE."
+                },
+                {
+                    "p": "**Nie ma w pliku:** płci i grupy wiekowej, których Google wymaga dla odzieży w kilku krajach, kategorii produktu Google, etykiet energetycznych, cen jednostkowych, oznaczenia dla dorosłych i zwrotów. PrestaShop nie przechowuje tych danych lub Google prosi o ustawienie ich na koncie. Dodaj je w Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Aktualność",
+            "content": [
+                {
+                    "p": "IndexNow informuje Binga, który zasila Copilota, oraz Yandex, Seznam, Naver, Yep, Amazon i Internet Archive, że strona się zmieniła. Google nie bierze w tym udziału. Wysyła tylko adresy publiczne, gdy coś zapisano, zmieniła się cena albo stan osiągnął zero lub przestał nim być."
+                },
+                {
+                    "p": "Moduł sam wykonuje swoje zadania. Jeśli hosting to blokuje, wywołuj adres pokazany na karcie Ustawienia co 5 minut zadaniem cron."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Krótki spis kategorii i stron informacyjnych w każdym języku, pod /llms.txt i /agents.md. Domyślnie wyłączony. Żadne badanie nie wykazało, że przynosi cytowania, a Google twierdzi, że jego wyszukiwarka go ignoruje. Jest tu, bo nic nie kosztuje, a niektóre narzędzia go sprawdzają."
+                }
+            ]
+        },
+        {
+            "title": "Na czym się skupić",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** Google twierdzi, że pliki produktowe mogą pomóc produktom pojawiać się w odpowiedziach AI.",
+                        "**Dane Twoich produktów:** prawdziwe ceny, stany, specyfikacje i identyfikatory.",
+                        "**Microsoft Merchant Center i Bing Webmaster Tools,** które zasilają Copilota.",
+                        "**Obecność w innych miejscach.** Opinie i prasa mają znaczenie, a żaden moduł nie zrobi tego za Ciebie."
+                    ]
+                },
+                {
+                    "p": "Moduł nie będzie przepisywać Twoich tekstów przez AI, nie da Ci oceny widoczności ani pozycji w AI, nie wygeneruje bloków FAQ ani nie doda specjalnych tagów AI. Badania nie znalazły na to potwierdzenia."
+                }
+            ]
+        },
+        {
+            "title": "Prywatność i odinstalowanie",
+            "content": [
+                {
+                    "ul": [
+                        "Nie jest przechowywany żaden adres IP ani user agent, tylko liczniki.",
+                        "Wizyta z AI jest zapamiętywana w ciasteczku PrestaShop. Bez nowego ciasteczka i bez stron trzecich.",
+                        "Moduł pobiera publiczne listy adresów operatorów. Nic nie wysyła, chyba że włączysz IndexNow, które wysyła tylko adresy stron publicznych.",
+                        "robots.txt to jeden plik na instalację, więc polityka robotów dotyczy każdego sklepu. Wszystko inne jest osobne dla każdego sklepu.",
+                        "Odinstalowanie usuwa jego wiersze z robots.txt, tabele, ustawienia i plik klucza. Usuwa też pliki produktowe. Usuń plik również z Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pomoc",
+            "content": [
+                {
+                    "p": "E-mail: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Prace na zamówienie: https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}

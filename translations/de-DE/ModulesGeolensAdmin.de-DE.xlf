@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="geolens" source-language="en-US" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="576b050697a870ec29d2d23d6a7a38c5">
+        <source>GEO Lens - AI Search Visibility</source>
+        <target>GEO Lens - Sichtbarkeit in der KI-Suche</target>
+      </trans-unit>
+      <trans-unit id="7ebfbf573ee3cd8d5527cdfdb1a6782f">
+        <source>See which AI crawlers read your store and which AI visits become orders, control crawler access safely, and give AI engines complete, accurate product data.</source>
+        <target>Sehen Sie, welche KI-Crawler Ihren Shop lesen und welche KI-Besuche zu Bestellungen werden, steuern Sie den Crawler-Zugriff sicher und geben Sie KI-Suchmaschinen vollständige, korrekte Produktdaten.</target>
+      </trans-unit>
+      <trans-unit id="bb8956c67b82c7444a80c6b2433dd8b4">
+        <source>Are you sure you want to uninstall this module?</source>
+        <target>Möchten Sie dieses Modul wirklich deinstallieren?</target>
+      </trans-unit>
+      <trans-unit id="f38f5974cdc23279ffe6d203641a8bdf">
+        <source>Settings updated.</source>
+        <target>Einstellungen aktualisiert.</target>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Ja</target>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Speichern</target>
+      </trans-unit>
+      <trans-unit id="0b9cba5e32be92459abae9324535e757">
+        <source>Top Rated on Fiverr</source>
+        <target>Top Rated auf Fiverr</target>
+      </trans-unit>
+      <trans-unit id="76344130f12a1a5b20c45500ea5bb523">
+        <source>PrestaShop developer</source>
+        <target>PrestaShop-Entwickler</target>
+      </trans-unit>
+      <trans-unit id="7df57fc7789ecb855336f929a3fc35af">
+        <source>Need help with this module, or a custom feature for your store? I reply quickly.</source>
+        <target>Hilfe mit diesem Modul oder eine individuelle Funktion für Ihren Shop gewünscht? Ich antworte schnell.</target>
+      </trans-unit>
+      <trans-unit id="808c092a179c6a13566d93bdd950acdf">
+        <source>Hire me on Fiverr</source>
+        <target>Auf Fiverr beauftragen</target>
+      </trans-unit>
+      <trans-unit id="8b777ebcc5034ce0fe96dd154bcb370e">
+        <source>WhatsApp</source>
+        <target>WhatsApp</target>
+      </trans-unit>
+      <trans-unit id="ffbf9ff02b1003b31d0306fa7670c352">
+        <source>Store design</source>
+        <target>Shop-Design</target>
+      </trans-unit>
+      <trans-unit id="9e9767281dac49f7dae5a42b57e08e08">
+        <source>Custom module development</source>
+        <target>Individuelle Modulentwicklung</target>
+      </trans-unit>
+      <trans-unit id="227f56a61b5e696248ed78e91360ae2b">
+        <source>Custom data migration (blogs, reviews, any platform)</source>
+        <target>Individuelle Datenmigration (Blogs, Bewertungen, jede Plattform)</target>
+      </trans-unit>
+      <trans-unit id="fbfe78d513908fe2b009a431e7eae128">
+        <source>Upgrades and bug fixes</source>
+        <target>Upgrades und Fehlerbehebung</target>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Produkt</target>
+      </trans-unit>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Artikelnummer</target>
+      </trans-unit>
+      <trans-unit id="06df33001c1d7187fdd81ea1f5b277aa">
+        <source>Actions</source>
+        <target>Aktionen</target>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="146ffe2fd9fa5bec3b63b52543793ec7">
+        <source>Show more</source>
+        <target>Mehr anzeigen</target>
+      </trans-unit>
+      <trans-unit id="6efe9594fc149f808e3288714032d892">
+        <source>Nothing to fix here.</source>
+        <target>Hier gibt es nichts zu beheben.</target>
+      </trans-unit>
+      <trans-unit id="6d37d7da52071ce34c77e4044c439e48">
+        <source>What the evidence says about this file</source>
+        <target>Was die Studien über diese Datei sagen</target>
+      </trans-unit>
+      <trans-unit id="ff557d18cf9db523f0ca0858bd8a3886">
+        <source>No study has found that llms.txt earns AI citations. Google says its Search ignores it, and in Ahrefs' data 97% of these files received no requests at all. Coding agents and audit tools are its main readers. It is here because it costs nothing and some tools check for it, not because it will bring you customers.</source>
+        <target>Keine Studie hat gezeigt, dass llms.txt KI-Zitate bringt. Google sagt, dass seine Suche sie ignoriert, und laut Ahrefs erhielten 97 % dieser Dateien gar keine Anfragen. Gelesen wird sie vor allem von Coding-Agenten und Audit-Tools. Sie ist hier, weil sie nichts kostet und manche Tools sie prüfen, nicht weil sie Ihnen Kunden bringt.</target>
+      </trans-unit>
+      <trans-unit id="2ec2cd7838be30308b28a03454a31eb1">
+        <source>llms.txt and agents.md</source>
+        <target>llms.txt und agents.md</target>
+      </trans-unit>
+      <trans-unit id="84f7f2c4c8504103a244734c165bba76">
+        <source>A short index of your categories and policy pages, in each language. It holds no prices or products, because those go stale in a file, and no instructions for AI, because those read as manipulation.</source>
+        <target>Ein kurzes Verzeichnis Ihrer Kategorien und Informationsseiten in jeder Sprache. Es enthält weder Preise noch Produkte, die in einer Datei schnell veralten, noch Anweisungen an KI, die wie Manipulation wirken.</target>
+      </trans-unit>
+      <trans-unit id="817ff127fab248788af1e5d8d532e784">
+        <source>Publish the file</source>
+        <target>Datei veröffentlichen</target>
+      </trans-unit>
+      <trans-unit id="f82a9b13db7e0dd45d2bd5805e5df46d">
+        <source>One or two sentences about your shop</source>
+        <target>Ein oder zwei Sätze über Ihren Shop</target>
+      </trans-unit>
+      <trans-unit id="75758d9f44b384ad8259e3f07f84aa79">
+        <source>Left empty, the file uses the meta description of your home page.</source>
+        <target>Bleibt das Feld leer, nutzt die Datei die Meta-Beschreibung Ihrer Startseite.</target>
+      </trans-unit>
+      <trans-unit id="31fde7b05ac8952dacf4af8a704074ec">
+        <source>Preview</source>
+        <target>Vorschau</target>
+      </trans-unit>
+      <trans-unit id="2d009d62b342ee68f718c46160ee41dd">
+        <source>%ms% ms, %kb% KB</source>
+        <target>%ms% ms, %kb% KB</target>
+      </trans-unit>
+      <trans-unit id="262a1e5f08c0c4fc5c6e188ad66d5230">
+        <source>No problems</source>
+        <target>Keine Probleme</target>
+      </trans-unit>
+      <trans-unit id="bb520f9749edc91d72f7f4dff4a863fc">
+        <source>This page says noindex, so search engines and Copilot leave it out.</source>
+        <target>Diese Seite gibt noindex an, daher lassen Suchmaschinen und Copilot sie aus.</target>
+      </trans-unit>
+      <trans-unit id="8a70d376a8f9935e9d7750662e42667a">
+        <source>This page forbids snippets, which also removes it as a source for AI Overviews and AI Mode.</source>
+        <target>Diese Seite verbietet Snippets, wodurch sie auch als Quelle für AI Overviews und AI Mode entfällt.</target>
+      </trans-unit>
+      <trans-unit id="c417ed33ffe4fd99ce63cb277677b76a">
+        <source>This page says noarchive. Until 1 March 2027, Bing keeps such pages out of Copilot answers.</source>
+        <target>Diese Seite gibt noarchive an. Bis zum 1. März 2027 hält Bing solche Seiten aus Copilot-Antworten heraus.</target>
+      </trans-unit>
+      <trans-unit id="94bd2336c11a97718e774579c8078677">
+        <source>This page says nocache. Until 1 March 2027, Copilot uses only the title and snippet of such pages.</source>
+        <target>Diese Seite gibt nocache an. Bis zum 1. März 2027 nutzt Copilot von solchen Seiten nur Titel und Snippet.</target>
+      </trans-unit>
+      <trans-unit id="e2ec5067c342d84d09f78d64783a1aa5">
+        <source>This page is %mb% MB. Googlebot stops reading at 2 MB.</source>
+        <target>Diese Seite ist %mb% MB groß. Googlebot liest nur bis 2 MB.</target>
+      </trans-unit>
+      <trans-unit id="c8d1f7f22b77f687ca99f7aff1e425cb">
+        <source>No canonical address is declared.</source>
+        <target>Es ist keine kanonische Adresse angegeben.</target>
+      </trans-unit>
+      <trans-unit id="6b1b78265e5aba93c4673e5929755af4">
+        <source>%count% JSON-LD blocks are broken, so crawlers ignore them.</source>
+        <target>%count% JSON-LD-Blöcke sind fehlerhaft, daher ignorieren Crawler sie.</target>
+      </trans-unit>
+      <trans-unit id="c82cbecc5ddcd9e35502abf69ba47bdf">
+        <source>The page describes the product %count% times. A theme or another module is adding its own copy. Turn one off.</source>
+        <target>Die Seite beschreibt das Produkt %count%-mal. Ein Theme oder ein anderes Modul fügt eine eigene Kopie hinzu. Schalten Sie eine ab.</target>
+      </trans-unit>
+      <trans-unit id="ad93536e54fd0bacb0bc626e74764360">
+        <source>The page describes your shop %count% times. Another module or the theme is adding its own copy.</source>
+        <target>Die Seite beschreibt Ihren Shop %count%-mal. Ein anderes Modul oder das Theme fügt eine eigene Kopie hinzu.</target>
+      </trans-unit>
+      <trans-unit id="f7e43033bef587a1c7e10a2906e75613">
+        <source>This product page has no product markup.</source>
+        <target>Diese Produktseite hat kein Produkt-Markup.</target>
+      </trans-unit>
+      <trans-unit id="efc0b68d3f68da7aad22bd018a0b15dd">
+        <source>The theme also describes the product in microdata, next to the JSON-LD. If the two disagree, engines may trust neither.</source>
+        <target>Das Theme beschreibt das Produkt zusätzlich in Microdata neben dem JSON-LD. Widersprechen sich beide, vertrauen Suchmaschinen womöglich keinem.</target>
+      </trans-unit>
+      <trans-unit id="97795f20f9e1083b63f2f52171240e8a">
+        <source>The markup has no price, usually because prices are hidden on this page.</source>
+        <target>Das Markup enthält keinen Preis, meist weil Preise auf dieser Seite ausgeblendet sind.</target>
+      </trans-unit>
+      <trans-unit id="15b89f3fa80f1010c4f1ac2dbbab06cf">
+        <source>The markup does not say whether the product is available.</source>
+        <target>Das Markup sagt nicht, ob das Produkt verfügbar ist.</target>
+      </trans-unit>
+      <trans-unit id="dd7beb43673767d3dbc5b46490d5812e">
+        <source>The product name in the markup is not in the page text a crawler reads.</source>
+        <target>Der Produktname aus dem Markup steht nicht im Seitentext, den ein Crawler liest.</target>
+      </trans-unit>
+      <trans-unit id="dd8cdca55e88dc41ddbbdcc19682fe2f">
+        <source>The price in the markup (%price%) is not in the page text a crawler reads. It may be loaded by JavaScript.</source>
+        <target>Der Preis aus dem Markup (%price%) steht nicht im Seitentext, den ein Crawler liest. Vielleicht wird er per JavaScript geladen.</target>
+      </trans-unit>
+      <trans-unit id="cca69bf5a08dfc412e2ad7ca452c5bee">
+        <source>The price is marked valid until about 15 days from today, a date PrestaShop makes up on every page.</source>
+        <target>Der Preis ist als rund 15 Tage ab heute gültig angegeben, ein Datum, das PrestaShop auf jeder Seite erfindet.</target>
+      </trans-unit>
+      <trans-unit id="c813f89ad10faf532d96ea8f609f9167">
+        <source>The page answered with status %status%, not 200.</source>
+        <target>Die Seite antwortete mit Status %status%, nicht 200.</target>
+      </trans-unit>
+      <trans-unit id="b983b1bfc8f3d91cf2b9f0f4eb1d154b">
+        <source>Markup found:</source>
+        <target>Gefundenes Markup:</target>
+      </trans-unit>
+      <trans-unit id="64e704b23ebbe60a11ba68fc369012eb">
+        <source>See the product markup</source>
+        <target>Produkt-Markup ansehen</target>
+      </trans-unit>
+      <trans-unit id="80ef6223023056ba712d20afb772333a">
+        <source>No active products to check yet.</source>
+        <target>Noch keine aktiven Produkte zum Prüfen.</target>
+      </trans-unit>
+      <trans-unit id="e6cf4d20beae0ad5de22eec4363aa049">
+        <source>Has a price</source>
+        <target>Hat einen Preis</target>
+      </trans-unit>
+      <trans-unit id="53e1c412355d963b0f7f115cf8b09ebe">
+        <source>Names a brand</source>
+        <target>Nennt eine Marke</target>
+      </trans-unit>
+      <trans-unit id="5a9dcf42f367c8903562f8f76ada5e7a">
+        <source>Has a GTIN (EAN, UPC, ISBN)</source>
+        <target>Hat eine GTIN (EAN, UPC, ISBN)</target>
+      </trans-unit>
+      <trans-unit id="d8923b9f9e1f2af1d6cc2123dd8368da">
+        <source>GTIN passes its check digit</source>
+        <target>GTIN besteht die Prüfziffer</target>
+      </trans-unit>
+      <trans-unit id="a0e1b19b0db8b99da0d3780ceae51db0">
+        <source>Has a reference or MPN</source>
+        <target>Hat eine Artikelnummer oder MPN</target>
+      </trans-unit>
+      <trans-unit id="78198462cb6db699829f540529e73a27">
+        <source>Has a short description</source>
+        <target>Hat eine Kurzbeschreibung</target>
+      </trans-unit>
+      <trans-unit id="9490c1896e2a7cdd4b484b6acadc3f6d">
+        <source>Has a full description</source>
+        <target>Hat eine vollständige Beschreibung</target>
+      </trans-unit>
+      <trans-unit id="5275653c36e03170622a6f127c35952a">
+        <source>Has features (specifications)</source>
+        <target>Hat Eigenschaften</target>
+      </trans-unit>
+      <trans-unit id="3a1cc6823492cb92220f0e6d4337d005">
+        <source>Has a cover image</source>
+        <target>Hat ein Titelbild</target>
+      </trans-unit>
+      <trans-unit id="17f6d30377e566c150717689d55d1d2f">
+        <source>Cover image has a caption</source>
+        <target>Titelbild hat eine Bildunterschrift</target>
+      </trans-unit>
+      <trans-unit id="3612f852c11329e058d17f9fcd157417">
+        <source>Is in a real category</source>
+        <target>Liegt in einer echten Kategorie</target>
+      </trans-unit>
+      <trans-unit id="43c58c197e6cae4e0db980ae9d27f167">
+        <source>%count% of %total%</source>
+        <target>%count% von %total%</target>
+      </trans-unit>
+      <trans-unit id="e191aafd204a3bd9d62862f7ccf13f39">
+        <source>See products</source>
+        <target>Produkte ansehen</target>
+      </trans-unit>
+      <trans-unit id="78ff4b4eb1318491242eaa4652f629a0">
+        <source>%count% of %total% products in stock (simple products).</source>
+        <target>%count% von %total% Produkten auf Lager (einfache Produkte).</target>
+      </trans-unit>
+      <trans-unit id="8d31266a475662efa3b992e732442a1e">
+        <source>%count% have at least one approved review.</source>
+        <target>%count% haben mindestens eine freigegebene Bewertung.</target>
+      </trans-unit>
+      <trans-unit id="fd24cd1ed331b49b87079ac3ee246668">
+        <source>In a random sample of %checked% cover images, %small% are under 500 x 500 pixels, the minimum Merchant Center requires from 31 January 2027.</source>
+        <target>In einer Zufallsstichprobe von %checked% Titelbildern sind %small% kleiner als 500 x 500 Pixel, das Minimum, das Merchant Center ab dem 31. Januar 2027 verlangt.</target>
+      </trans-unit>
+      <trans-unit id="729c96528c325bbd5348f209ea6908c5">
+        <source>Checked %minutes% minutes ago.</source>
+        <target>Vor %minutes% Minuten geprüft.</target>
+      </trans-unit>
+      <trans-unit id="7ebb58b755b88a46c767c1540f40434c">
+        <source>Checked just now.</source>
+        <target>Gerade eben geprüft.</target>
+      </trans-unit>
+      <trans-unit id="7cf37d1bcfb5bc39aed23c66c5e4c892">
+        <source>Check again</source>
+        <target>Erneut prüfen</target>
+      </trans-unit>
+      <trans-unit id="e9f36d65b0491f99ef8f0ce2c11bf998">
+        <source>Something went wrong. Please try again.</source>
+        <target>Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.</target>
+      </trans-unit>
+      <trans-unit id="f915a95e609bbd517a8a1e7bdcceef37">
+        <source>Try again</source>
+        <target>Erneut versuchen</target>
+      </trans-unit>
+      <trans-unit id="a588b1abc58b8b758c4b34b69b9e10bb">
+        <source>Copied</source>
+        <target>Kopiert</target>
+      </trans-unit>
+      <trans-unit id="44e6108ff458cea05eca82b296ef617f">
+        <source>Checking...</source>
+        <target>Wird geprüft...</target>
+      </trans-unit>
+      <trans-unit id="d82fc97fd337babf8dca9d05f3ed689f">
+        <source>Reading your robots.txt...</source>
+        <target>Ihre robots.txt wird gelesen...</target>
+      </trans-unit>
+      <trans-unit id="41a8057de165e5eb35fe6f9beb184c6f">
+        <source>Tested %done% of %total%...</source>
+        <target>%done% von %total% getestet...</target>
+      </trans-unit>
+      <trans-unit id="b7ec65619cf614372b20995878f15dea">
+        <source>Done. Every crawler got the answer your settings call for.</source>
+        <target>Fertig. Jeder Crawler erhielt die Antwort, die Ihre Einstellungen vorsehen.</target>
+      </trans-unit>
+      <trans-unit id="a01ddcb6e020e1e8ebcbb3249f3993cc">
+        <source>Done. %count% crawlers did not get the answer your settings call for.</source>
+        <target>Fertig. %count% Crawler erhielten nicht die Antwort, die Ihre Einstellungen vorsehen.</target>
+      </trans-unit>
+      <trans-unit id="de700c7356b9ae033074fdc2eadc8a12">
+        <source>GEO Lens</source>
+        <target>GEO Lens</target>
+      </trans-unit>
+      <trans-unit id="7a1e1c0412e169105add86712e016c87">
+        <source>See and control how AI assistants use your shop, and what it earns you.</source>
+        <target>Sehen und steuern Sie, wie KI-Assistenten Ihren Shop nutzen und was er Ihnen dadurch einbringt.</target>
+      </trans-unit>
+      <trans-unit id="1901606ea069a83dc7beea17881ef95a">
+        <source>Period</source>
+        <target>Zeitraum</target>
+      </trans-unit>
+      <trans-unit id="cb8f14fd3a41cfe1236a3c6b90077ca0">
+        <source>7 days</source>
+        <target>7 Tage</target>
+      </trans-unit>
+      <trans-unit id="947d8520f04473da621f2718138f3bc6">
+        <source>30 days</source>
+        <target>30 Tage</target>
+      </trans-unit>
+      <trans-unit id="ed0c9b5fb2f44a77915d0ce45d0c501c">
+        <source>90 days</source>
+        <target>90 Tage</target>
+      </trans-unit>
+      <trans-unit id="2cd6199ee67f0eadee9d5dd14fc30f75">
+        <source>User guide (PDF)</source>
+        <target>Benutzerhandbuch (PDF)</target>
+      </trans-unit>
+      <trans-unit id="3b1e46e15829e9cd8ba770234224aa04">
+        <source>GEO Lens sections</source>
+        <target>GEO-Lens-Bereiche</target>
+      </trans-unit>
+      <trans-unit id="3b878279a04dc47d60932cb294d96259">
+        <source>Overview</source>
+        <target>Übersicht</target>
+      </trans-unit>
+      <trans-unit id="44933750517ad08fe5cddfb5b9c7fefb">
+        <source>AI visits and orders</source>
+        <target>KI-Besuche und Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="d921e974bcafc49cc46b7aa5a5954c5e">
+        <source>AI crawlers</source>
+        <target>KI-Crawler</target>
+      </trans-unit>
+      <trans-unit id="75a770e36585019fd1342b12f3e03cfc">
+        <source>Product data</source>
+        <target>Produktdaten</target>
+      </trans-unit>
+      <trans-unit id="bf839986b12b05b279077866655bbe58">
+        <source>Freshness</source>
+        <target>Aktualität</target>
+      </trans-unit>
+      <trans-unit id="14cb425d8170ed04f3d8016d5a0ccf20">
+        <source>Channels</source>
+        <target>Kanäle</target>
+      </trans-unit>
+      <trans-unit id="f3fea151cd8b33b7b07a930adcedbe9b">
+        <source>Remove this rule</source>
+        <target>Diese Regel entfernen</target>
+      </trans-unit>
+      <trans-unit id="a738dc90c7ba0372aaff074809c06bf9">
+        <source>Delivers to</source>
+        <target>Liefert nach</target>
+      </trans-unit>
+      <trans-unit id="df5552ae80d61ced72a05f4b41253939">
+        <source>Delivery price</source>
+        <target>Lieferpreis</target>
+      </trans-unit>
+      <trans-unit id="55134d93c29cdcff37b8608c5d2db01e">
+        <source>Free above (optional)</source>
+        <target>Kostenlos ab (optional)</target>
+      </trans-unit>
+      <trans-unit id="2835c97ac134aeef011b1d1e2e66f5e4">
+        <source>Preparing, days from</source>
+        <target>Vorbereitung, Tage von</target>
+      </trans-unit>
+      <trans-unit id="4426ad4dc7412f527aee1ebd1140724b">
+        <source>Preparing, days to</source>
+        <target>Vorbereitung, Tage bis</target>
+      </trans-unit>
+      <trans-unit id="b582f94a46e6fd29d934a20b63a2dba9">
+        <source>In transit, days from</source>
+        <target>Transport, Tage von</target>
+      </trans-unit>
+      <trans-unit id="c48712abe78f9be803b4551f179b29e5">
+        <source>In transit, days to</source>
+        <target>Transport, Tage bis</target>
+      </trans-unit>
+      <trans-unit id="21c8e4cb50768633521626dcf0f1edda">
+        <source>Tell search engines when something changes</source>
+        <target>Suchmaschinen über Änderungen informieren</target>
+      </trans-unit>
+      <trans-unit id="262612f2ec4c5320c0863686576641a9">
+        <source>IndexNow sends the address of a changed page to Bing, which feeds Copilot, and to Yandex, Seznam, Naver, Yep, Amazon and the Internet Archive. Google does not take part, and no one has measured an effect on AI answers.</source>
+        <target>IndexNow sendet die Adresse einer geänderten Seite an Bing, das Copilot speist, sowie an Yandex, Seznam, Naver, Yep, Amazon und das Internet Archive. Google macht nicht mit, und niemand hat eine Wirkung auf KI-Antworten gemessen.</target>
+      </trans-unit>
+      <trans-unit id="28ddf3a0fb34249f6f8622abc0bd3026">
+        <source>Turn on IndexNow</source>
+        <target>IndexNow einschalten</target>
+      </trans-unit>
+      <trans-unit id="c681922ba472604a9ef3001d3eeafa88">
+        <source>Sends only public page addresses, when a product, category or page is saved, a price changes, or stock reaches or leaves zero.</source>
+        <target>Sendet nur öffentliche Seitenadressen, wenn ein Produkt, eine Kategorie oder Seite gespeichert wird, ein Preis sich ändert oder der Bestand null erreicht oder verlässt.</target>
+      </trans-unit>
+      <trans-unit id="01c2418e0166923dc93c3cad5b243473">
+        <source>Your key file proves the shop is yours:</source>
+        <target>Ihre Schlüsseldatei beweist, dass der Shop Ihnen gehört:</target>
+      </trans-unit>
+      <trans-unit id="610ae5ca856000cb183e07376a5eb3fd">
+        <source>Waiting to be sent: %count%.</source>
+        <target>Warten auf Versand: %count%.</target>
+      </trans-unit>
+      <trans-unit id="4bc5a07d8a8efd6bae86f4a231db2ccd">
+        <source>Sending your catalogue, now at product %id%.</source>
+        <target>Ihr Katalog wird gesendet, aktuell bei Produkt %id%.</target>
+      </trans-unit>
+      <trans-unit id="9f12e1bfb98bb9e5b05b12f758333056">
+        <source>Send now</source>
+        <target>Jetzt senden</target>
+      </trans-unit>
+      <trans-unit id="06c3c7444e49dfe1f94353a43f7f0a49">
+        <source>Send every active product once, in every language? Do this once, not regularly: submitted addresses count toward your crawl quota.</source>
+        <target>Jedes aktive Produkt einmal in jeder Sprache senden? Tun Sie das einmal, nicht regelmäßig: Gesendete Adressen zählen zu Ihrem Crawling-Kontingent.</target>
+      </trans-unit>
+      <trans-unit id="ad0c61a5201953fd87a14c81e081e03e">
+        <source>Send whole catalogue once</source>
+        <target>Ganzen Katalog einmal senden</target>
+      </trans-unit>
+      <trans-unit id="7f8c0283f16925caed8e632086b81b9c">
+        <source>Sent</source>
+        <target>Gesendet</target>
+      </trans-unit>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
+        <source>Addresses</source>
+        <target>Adressen</target>
+      </trans-unit>
+      <trans-unit id="3751695c17afed4055a7a5ad5d46f6f5">
+        <source>Answer</source>
+        <target>Antwort</target>
+      </trans-unit>
+      <trans-unit id="382ab522931673c11e398ead1b7b1678">
+        <source>Accepted</source>
+        <target>Angenommen</target>
+      </trans-unit>
+      <trans-unit id="79e70ca405446ba77b18fc41b6b5832b">
+        <source>Received, checking your key</source>
+        <target>Empfangen, Ihr Schlüssel wird geprüft</target>
+      </trans-unit>
+      <trans-unit id="58e8b6e86627e9d35068c906d85a1da4">
+        <source>Key not accepted (403). Will retry in an hour.</source>
+        <target>Schlüssel nicht akzeptiert (403). Neuer Versuch in einer Stunde.</target>
+      </trans-unit>
+      <trans-unit id="fe0304598c73c130a18d501451d6a15a">
+        <source>Too many requests (429). Will retry in an hour.</source>
+        <target>Zu viele Anfragen (429). Neuer Versuch in einer Stunde.</target>
+      </trans-unit>
+      <trans-unit id="987bcc2ed8ba42f47e60dccfe446737b">
+        <source>No connection. Will retry in an hour.</source>
+        <target>Keine Verbindung. Neuer Versuch in einer Stunde.</target>
+      </trans-unit>
+      <trans-unit id="f47e8cb406f881e388f73eb195855e05">
+        <source>Refused (%status%)</source>
+        <target>Abgelehnt (%status%)</target>
+      </trans-unit>
+      <trans-unit id="5a886c8a6f5ef6deda711783e04f5f80">
+        <source>Your sitemap</source>
+        <target>Ihre Sitemap</target>
+      </trans-unit>
+      <trans-unit id="d3eb4222ce4b8d775e762682a8b3e78d">
+        <source>Google and Bing trust a sitemap's dates only while they prove accurate. PrestaShop's product date misleads both ways: stock and sale prices never change it, while reordering a category changes it for products that did not change.</source>
+        <target>Google und Bing vertrauen den Daten einer Sitemap nur, solange sie sich als korrekt erweisen. Das Produktdatum von PrestaShop täuscht in beide Richtungen: Bestand und Aktionspreise ändern es nie, während das Umsortieren einer Kategorie es bei Produkten ändert, die sich nicht geändert haben.</target>
+      </trans-unit>
+      <trans-unit id="ef8ef26f29ef427ba3df3894fd35356f">
+        <source>This shop has no sitemap yet. Generate one with the Google sitemap module.</source>
+        <target>Dieser Shop hat noch keine Sitemap. Erstellen Sie eine mit dem Modul Google Sitemap.</target>
+      </trans-unit>
+      <trans-unit id="b556f5658b4fdf4463532d3ce5d1078e">
+        <source>Your sitemap is %days% days old. Regenerate it, or schedule it with a cron job.</source>
+        <target>Ihre Sitemap ist %days% Tage alt. Erstellen Sie sie neu oder planen Sie sie mit einem Cron-Job.</target>
+      </trans-unit>
+      <trans-unit id="be73fb71e7dd63195610b2a76a5e971c">
+        <source>Your sitemap exists and is %days% days old.</source>
+        <target>Ihre Sitemap existiert und ist %days% Tage alt.</target>
+      </trans-unit>
+      <trans-unit id="c3bf447eabe632720a3aa1a7ce401274">
+        <source>Open</source>
+        <target>Öffnen</target>
+      </trans-unit>
+      <trans-unit id="545b8be48840668d92345ee04ae6a5b5">
+        <source>%percent%% of your products share one &quot;last changed&quot; day. That usually means an import or a reorder, not real edits, and search engines learn to ignore such dates.</source>
+        <target>%percent%% Ihrer Produkte teilen denselben Tag der letzten Änderung. Das bedeutet meist einen Import oder eine Umsortierung, keine echten Änderungen, und Suchmaschinen lernen, solche Daten zu ignorieren.</target>
+      </trans-unit>
+      <trans-unit id="b555fa6b7f54c4d224e14a786a30d6b4">
+        <source>Your products' change dates look natural, with no big block sharing one day.</source>
+        <target>Die Änderungsdaten Ihrer Produkte wirken natürlich, ohne großen Block am selben Tag.</target>
+      </trans-unit>
+      <trans-unit id="b2432ea7850967ba34355ec828baff2c">
+        <source>The module keeps its own record of real changes, including stock and scheduled sales, and uses it for the date in your page markup. It never changes a date just to look fresh.</source>
+        <target>Das Modul führt ein eigenes Verzeichnis echter Änderungen, einschließlich Bestand und geplanter Aktionen, und nutzt es für das Datum in Ihrem Markup. Es ändert nie ein Datum, nur um aktuell zu wirken.</target>
+      </trans-unit>
+      <trans-unit id="46b4f7b475e3d999a43f3de266a0c22f">
+        <source>Scheduled jobs</source>
+        <target>Geplante Aufgaben</target>
+      </trans-unit>
+      <trans-unit id="f830455805b00262b2c0638ee9f6d94b">
+        <source>The module runs its own jobs through a short request the shop sends to itself, so no cron is needed. If your host blocks that, or you prefer a real one, call this address every 5 minutes.</source>
+        <target>Das Modul führt seine Aufgaben über eine kurze Anfrage aus, die der Shop an sich selbst sendet, daher ist kein Cron nötig. Falls Ihr Hoster das blockiert oder Sie einen echten bevorzugen, rufen Sie diese Adresse alle 5 Minuten auf.</target>
+      </trans-unit>
+      <trans-unit id="5fb63579fc981698f97d55bfecb213ea">
+        <source>Copy</source>
+        <target>Kopieren</target>
+      </trans-unit>
+      <trans-unit id="0debdec1187b812ea8769a87729bf5e0">
+        <source>Where AI gets product data, and what is open to you</source>
+        <target>Woher KI Produktdaten bezieht und was Ihnen offensteht</target>
+      </trans-unit>
+      <trans-unit id="4decae2599fec032810806c403d86baa">
+        <source>Your data can be ready, but applying is up to you and accepting is up to the platform. No module can get you into any of these. Checked on %date%, and this changes quickly.</source>
+        <target>Ihre Daten können bereit sein, aber bewerben müssen Sie sich selbst, und die Plattform entscheidet. Kein Modul kann Sie dort hineinbringen. Geprüft am %date%, und das ändert sich schnell.</target>
+      </trans-unit>
+      <trans-unit id="781dc97dc62331eec3ea9ec4373a3ca8">
+        <source>Channel</source>
+        <target>Kanal</target>
+      </trans-unit>
+      <trans-unit id="365e0456a8c034d0d0fecc5383fedb65">
+        <source>Open to this shop?</source>
+        <target>Offen für diesen Shop?</target>
+      </trans-unit>
+      <trans-unit id="b12c51b935d86f01d092fb23a1fa4f9f">
+        <source>What it does</source>
+        <target>Was es bewirkt</target>
+      </trans-unit>
+      <trans-unit id="04dacc7e5929f5a7c8c18f076ad32b7d">
+        <source>Possibly</source>
+        <target>Möglicherweise</target>
+      </trans-unit>
+      <trans-unit id="5168977f07c6a7461672fd83bc40fcd0">
+        <source>US buyers only</source>
+        <target>Nur US-Käufer</target>
+      </trans-unit>
+      <trans-unit id="36d6411f62556ff77d04a16a40b0c44f">
+        <source>Microsoft says its feeds inform organic Copilot results. It can import your Google feed.</source>
+        <target>Microsoft sagt, dass seine Feeds in die organischen Copilot-Ergebnisse einfließen. Es kann Ihren Google-Feed importieren.</target>
+      </trans-unit>
+      <trans-unit id="088cb22156a15828d40e0233f9b8372d">
+        <source>Its AI Performance report shows when Copilot cites you. Those are citations, not clicks.</source>
+        <target>Sein Bericht AI Performance zeigt, wann Copilot Sie zitiert. Das sind Zitate, keine Klicks.</target>
+      </trans-unit>
+      <trans-unit id="760bde70fc18742e42619b1126b3432c">
+        <source>Its generative AI report shows impressions in AI Overviews and AI Mode, with no clicks or queries. It can also exclude you from them.</source>
+        <target>Sein Bericht zu generativer KI zeigt Impressionen in AI Overviews und AI Mode, ohne Klicks oder Suchanfragen. Er kann Sie auch davon ausschließen.</target>
+      </trans-unit>
+      <trans-unit id="b2d9c1a5205857636593eda6788556f9">
+        <source>Discovery only: OpenAI has moved away from buying inside ChatGPT. Waitlist for shops outside Shopify and Etsy.</source>
+        <target>Nur Entdeckung: OpenAI hat sich vom Kauf in ChatGPT abgewandt. Warteliste für Shops außerhalb von Shopify und Etsy.</target>
+      </trans-unit>
+      <trans-unit id="a77698a81896f6e673f29b654adba743">
+        <source>Checkout inside Google AI. Selected merchants, by application and review.</source>
+        <target>Bezahlung in der Google-KI. Ausgewählte Händler, nach Bewerbung und Prüfung.</target>
+      </trans-unit>
+      <trans-unit id="08fb794a11046ebc0650d704580f4a67">
+        <source>Checkout inside Copilot, through Shopify, Stripe or PayPal partners. PrestaShop is not among PayPal's listed partners.</source>
+        <target>Bezahlung in Copilot, über Partner von Shopify, Stripe oder PayPal. PrestaShop gehört nicht zu den von PayPal genannten Partnern.</target>
+      </trans-unit>
+      <trans-unit id="6323a48536ccce13c82eeea9fb3153f4">
+        <source>Ask them yourself</source>
+        <target>Fragen Sie selbst nach</target>
+      </trans-unit>
+      <trans-unit id="0e89a73a10ee2ae41de69f04ede73066">
+        <source>Paste these into ChatGPT, Perplexity or Gemini and read the answers, in a private window. Ask each one several times: the same question rarely gets the same list twice, so one answer proves little, and no tool can give you a real rank.</source>
+        <target>Fügen Sie diese Fragen in ChatGPT, Perplexity oder Gemini ein und lesen Sie die Antworten, in einem privaten Fenster. Stellen Sie jede mehrmals: Dieselbe Frage liefert selten zweimal dieselbe Liste, eine Antwort beweist also wenig, und kein Tool kann Ihnen eine echte Platzierung nennen.</target>
+      </trans-unit>
+      <trans-unit id="74a4d16cdb480cdb1f21361176e0953a">
+        <source>What this module will not do, and why</source>
+        <target>Was dieses Modul nicht tut, und warum</target>
+      </trans-unit>
+      <trans-unit id="b0a01cff0991409685e179b6d3a26b94">
+        <source>Plenty of tools sell these. The research found no support for them.</source>
+        <target>Viele Tools verkaufen das. Die Forschung fand nichts, was es stützt.</target>
+      </trans-unit>
+      <trans-unit id="bd8daf35ff0410c3df85205b0719f33c">
+        <source>Rewrite your product text with AI. In shopping tests, rewriting product copy mostly lowered citations.</source>
+        <target>Ihre Produkttexte mit KI umschreiben. In Shopping-Tests senkte das Umschreiben von Produkttexten meist die Zitate.</target>
+      </trans-unit>
+      <trans-unit id="4fb9c714eafc7caf75f302d5cbb5e583">
+        <source>Give you a visibility score or an AI rank. No stable rank exists, and such scores barely predict citations.</source>
+        <target>Ihnen einen Sichtbarkeitswert oder eine KI-Platzierung geben. Eine stabile Platzierung gibt es nicht, und solche Werte sagen Zitate kaum voraus.</target>
+      </trans-unit>
+      <trans-unit id="77b8289cb4dc26c9652bfcfb75ab0527">
+        <source>Generate FAQ blocks. Google stopped showing FAQ results in May 2026, and tests show almost no effect on AI answers.</source>
+        <target>FAQ-Blöcke erzeugen. Google zeigt seit Mai 2026 keine FAQ-Ergebnisse mehr, und Tests zeigen kaum Wirkung auf KI-Antworten.</target>
+      </trans-unit>
+      <trans-unit id="d57457b413b81820b0726c48694deb67">
+        <source>Add special AI tags or refresh dates to look new. Engines cannot read tags schema.org does not define, and Google warns against date changes with no real change.</source>
+        <target>Besondere KI-Tags hinzufügen oder Daten auffrischen, um neu zu wirken. Suchmaschinen können Tags nicht lesen, die schema.org nicht definiert, und Google warnt vor Datumsänderungen ohne echte Änderung.</target>
+      </trans-unit>
+      <trans-unit id="517ccb195073806f80c960d3fa8f6e7e">
+        <source>Promise you citations. Nothing supports that, whoever says it.</source>
+        <target>Ihnen Zitate versprechen. Nichts stützt das, egal wer es sagt.</target>
+      </trans-unit>
+      <trans-unit id="25ac4f36e9633a559fdda35bdaddc51d">
+        <source>Read the evidence</source>
+        <target>Die Belege lesen</target>
+      </trans-unit>
+      <trans-unit id="ffa4652a55bb1e3efd1d1dcf2ba4fadc">
+        <source>Visits from AI assistants</source>
+        <target>Besuche von KI-Assistenten</target>
+      </trans-unit>
+      <trans-unit id="e667969d532af741e87bb40c2a26c8f7">
+        <source>Orders after an AI visit</source>
+        <target>Bestellungen nach einem KI-Besuch</target>
+      </trans-unit>
+      <trans-unit id="36893624892a7d7b8fdd12f4338af8db">
+        <source>%share%% of all orders</source>
+        <target>%share%% aller Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="b6ca80260bbb5e284acd395146ffe77d">
+        <source>Value of those orders</source>
+        <target>Wert dieser Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="97ac4ab723051f27b2adbea3f93083a0">
+        <source>AI crawler requests</source>
+        <target>Anfragen von KI-Crawlern</target>
+      </trans-unit>
+      <trans-unit id="c45db084151ff7f43b1902c47a8c760f">
+        <source>These are a floor, not a total. Assistant apps hide where a click came from, Google's AI answers look like ordinary Google clicks, and a page cache can hide crawlers from PHP.</source>
+        <target>Das sind Mindestwerte, keine Gesamtzahlen. Assistenten-Apps verbergen die Herkunft eines Klicks, Googles KI-Antworten sehen wie normale Google-Klicks aus, und ein Seiten-Cache kann Crawler vor PHP verbergen.</target>
+      </trans-unit>
+      <trans-unit id="caae2e48600c0a438ab0ba7d02455c7a">
+        <source>See the numbers</source>
+        <target>Zahlen ansehen</target>
+      </trans-unit>
+      <trans-unit id="03727ac48595a24daed975559c944a44">
+        <source>Day</source>
+        <target>Tag</target>
+      </trans-unit>
+      <trans-unit id="d7e637a6e9ff116de2fa89551240a94d">
+        <source>Visits</source>
+        <target>Besuche</target>
+      </trans-unit>
+      <trans-unit id="a402b051f91a3af2d62e1d55cf6a5854">
+        <source>What to look at next</source>
+        <target>Was als Nächstes ansteht</target>
+      </trans-unit>
+      <trans-unit id="df0f20d62dc4ba9c471fdeef6751ec5f">
+        <source>Problem</source>
+        <target>Problem</target>
+      </trans-unit>
+      <trans-unit id="0eaadb4fcb48a0a0ed7bc9868be9fbaa">
+        <source>Warning</source>
+        <target>Warnung</target>
+      </trans-unit>
+      <trans-unit id="0f78b20318b5aef4dca6dbae5051960a">
+        <source>Suggestion</source>
+        <target>Vorschlag</target>
+      </trans-unit>
+      <trans-unit id="975639c1cb4eb60ab30ebf24f4db4386">
+        <source>Nothing to fix right now.</source>
+        <target>Im Moment gibt es nichts zu beheben.</target>
+      </trans-unit>
+      <trans-unit id="d01fd5c59c65cfe4598814caa2beaf5f">
+        <source>There is no visibility score here, on purpose. Nothing inside a shop can measure how often AI recommends it, and research suggests such scores barely predict citations.</source>
+        <target>Einen Sichtbarkeitswert gibt es hier bewusst nicht. Nichts in einem Shop kann messen, wie oft KI ihn empfiehlt, und die Forschung legt nahe, dass solche Werte Zitate kaum voraussagen.</target>
+      </trans-unit>
+      <trans-unit id="fa043b64d065e5c4b351bd457de3d916">
+        <source>Your shop is in a subfolder, and crawlers only read robots.txt at the root of a domain. The lines below will not reach them from here. Blocks are still enforced by your server.</source>
+        <target>Ihr Shop liegt in einem Unterordner, und Crawler lesen robots.txt nur im Stammverzeichnis einer Domain. Die Zeilen unten erreichen sie von hier aus nicht. Sperren setzt Ihr Server trotzdem durch.</target>
+      </trans-unit>
+      <trans-unit id="e5f73f8ae55bf847c90ee67db12802e3">
+        <source>robots.txt has its own group for %bots%, so they ignore your rules for the cart, search and filter pages. Remove those lines from the file. Allowed bots need no lines at all.</source>
+        <target>robots.txt enthält eine eigene Gruppe für %bots%, daher ignorieren sie Ihre Regeln für Warenkorb, Suche und Filter. Entfernen Sie diese Zeilen aus der Datei. Erlaubte Bots brauchen gar keine Zeilen.</target>
+      </trans-unit>
+      <trans-unit id="aa1dc9be098d0240c3dbcaeff9472b14">
+        <source>This blocks every answer engine. Your shop will likely disappear from AI answers. Continue?</source>
+        <target>Das sperrt alle Antwortmaschinen. Ihr Shop verschwindet wahrscheinlich aus KI-Antworten. Fortfahren?</target>
+      </trans-unit>
+      <trans-unit id="31211145d951ce841490df71ae0accfd">
+        <source>Who may read your shop</source>
+        <target>Wer Ihren Shop lesen darf</target>
+      </trans-unit>
+      <trans-unit id="07814cab3ea48222bf2e464ef7cf5cb9">
+        <source>AI companies run separate crawlers for answers and for training, so you can allow one and refuse the other.</source>
+        <target>KI-Firmen betreiben getrennte Crawler für Antworten und für Training, Sie können also einen erlauben und den anderen ablehnen.</target>
+      </trans-unit>
+      <trans-unit id="42788cb998889b908e3a76775eeefabf">
+        <source>Visibility first</source>
+        <target>Sichtbarkeit zuerst</target>
+      </trans-unit>
+      <trans-unit id="cdda72ff08de847d68345e75d45e4574">
+        <source>Every AI crawler may read your shop. Nothing is written to robots.txt. This is the default.</source>
+        <target>Jeder KI-Crawler darf Ihren Shop lesen. In robots.txt wird nichts geschrieben. Das ist die Standardeinstellung.</target>
+      </trans-unit>
+      <trans-unit id="eae0670fd1b0b944ce54dc2305029346">
+        <source>Answers yes, training no</source>
+        <target>Antworten ja, Training nein</target>
+      </trans-unit>
+      <trans-unit id="c00b5703caa12327389a806309dce68b">
+        <source>Crawlers that can cite you stay. Crawlers that collect for model training are refused.</source>
+        <target>Crawler, die Sie zitieren können, bleiben. Crawler, die für Modelltraining sammeln, werden abgelehnt.</target>
+      </trans-unit>
+      <trans-unit id="42e230eabc988747732c74b271e694ac">
+        <source>Block all AI</source>
+        <target>Alle KI sperren</target>
+      </trans-unit>
+      <trans-unit id="5fe657b0abe978016bc2057326154199">
+        <source>Only search engines stay. You will likely disappear from AI answers while competitors stay in.</source>
+        <target>Nur Suchmaschinen bleiben. Sie verschwinden wahrscheinlich aus KI-Antworten, während die Konkurrenz drin bleibt.</target>
+      </trans-unit>
+      <trans-unit id="83d52393b62dd3dfd4c7b1ade6462081">
+        <source>Test access now</source>
+        <target>Zugriff jetzt testen</target>
+      </trans-unit>
+      <trans-unit id="1b7c80c1751afc2037ba2cac1a63cf2f">
+        <source>Your shop is behind %cdn%, which can block crawlers whatever robots.txt says. Check its bot settings too.</source>
+        <target>Ihr Shop liegt hinter %cdn%, das Crawler sperren kann, egal was robots.txt sagt. Prüfen Sie auch dessen Einstellungen.</target>
+      </trans-unit>
+      <trans-unit id="4b3f6420a8963db04665ff1e5c7e3feb">
+        <source>The robots.txt crawlers receive is not the file on your server. Something in front of the shop changes it, often a CDN adding its own AI rules.</source>
+        <target>Die robots.txt, die Crawler erhalten, ist nicht die Datei auf Ihrem Server. Etwas vor dem Shop ändert sie, oft ein CDN, das eigene KI-Regeln hinzufügt.</target>
+      </trans-unit>
+      <trans-unit id="820d17d3f859f4391cce177be0c93fde">
+        <source>Crawler</source>
+        <target>Crawler</target>
+      </trans-unit>
+      <trans-unit id="b134a801a1a3888498968fc4ea760cf7">
+        <source>Requests</source>
+        <target>Anfragen</target>
+      </trans-unit>
+      <trans-unit id="b150819c810d784e36772d8ac4b023ec">
+        <source>Is it real?</source>
+        <target>Echt?</target>
+      </trans-unit>
+      <trans-unit id="55d95901560108d4e26d394794dd5e14">
+        <source>Last seen</source>
+        <target>Zuletzt gesehen</target>
+      </trans-unit>
+      <trans-unit id="92c2c26e145acbb44bd57b6f09d6af44">
+        <source>Access test</source>
+        <target>Zugriffstest</target>
+      </trans-unit>
+      <trans-unit id="45f0fb72a0defdfdb01de4b5a5a6876b">
+        <source>Allow</source>
+        <target>Erlauben</target>
+      </trans-unit>
+      <trans-unit id="c8e6064820cbea498296fe3aeda91b46">
+        <source>Answers and search</source>
+        <target>Antworten und Suche</target>
+      </trans-unit>
+      <trans-unit id="bde612c0c6510c072d2531df67d80456">
+        <source>These can cite and link your shop. Blocking one can remove you from that assistant's answers.</source>
+        <target>Diese können Ihren Shop zitieren und verlinken. Einen zu sperren kann Sie aus den Antworten dieses Assistenten entfernen.</target>
+      </trans-unit>
+      <trans-unit id="df4e646391c4897ba14944f139050127">
+        <source>Read for a person</source>
+        <target>Für eine Person gelesen</target>
+      </trans-unit>
+      <trans-unit id="b6c0d9a0e390dde4633ff4bd0932e4d9">
+        <source>An assistant opens a page because someone asked. Many ignore robots.txt by design, so a block here is also enforced by your server.</source>
+        <target>Ein Assistent öffnet eine Seite, weil jemand danach gefragt hat. Viele ignorieren robots.txt bewusst, daher setzt auch Ihr Server eine Sperre hier durch.</target>
+      </trans-unit>
+      <trans-unit id="cf270e40d273f9e7fd7c3061729060c3">
+        <source>Training</source>
+        <target>Training</target>
+      </trans-unit>
+      <trans-unit id="e7d4605dc7fc8221a55b6fa3d33a5977">
+        <source>These collect content that may train models. No operator states a search penalty for refusing them.</source>
+        <target>Diese sammeln Inhalte, die Modelle trainieren können. Kein Betreiber nennt einen Nachteil in der Suche, wenn Sie sie ablehnen.</target>
+      </trans-unit>
+      <trans-unit id="c11f8c1ad1eb515cd4fbbd3a1ec200e3">
+        <source>Search engines</source>
+        <target>Suchmaschinen</target>
+      </trans-unit>
+      <trans-unit id="987aec1819c5af02a1d8b2379c3ebbd3">
+        <source>Behind AI Overviews, AI Mode and Copilot. Blocking them removes you from search, so the module never does.</source>
+        <target>Stehen hinter AI Overviews, AI Mode und Copilot. Sie zu sperren entfernt Sie aus der Suche, deshalb tut das Modul das nie.</target>
+      </trans-unit>
+      <trans-unit id="a97636efcfa39722e47e04ed6fc84a38">
+        <source>no official documentation</source>
+        <target>keine offizielle Dokumentation</target>
+      </trans-unit>
+      <trans-unit id="1b9b69900385c38d0016f6fbff5f804c">
+        <source>a setting, it never visits</source>
+        <target>eine Einstellung, besucht nie</target>
+      </trans-unit>
+      <trans-unit id="f5c7bbb3af63be49eeaa5c4d890d3f96">
+        <source>Also controls answers in Gemini Apps, so blocking it can remove you from them. Google Search, AI Overviews and AI Mode are not affected.</source>
+        <target>Steuert auch Antworten in den Gemini-Apps, eine Sperre kann Sie also daraus entfernen. Google Search, AI Overviews und AI Mode sind nicht betroffen.</target>
+      </trans-unit>
+      <trans-unit id="7dced7cceb2c46927e9afebcf17f3b4a">
+        <source>This operator publishes no address list, so this cannot be checked.</source>
+        <target>Dieser Betreiber veröffentlicht keine Adressliste, daher lässt sich das nicht prüfen.</target>
+      </trans-unit>
+      <trans-unit id="90d910b1a735f702f07c206001eeb830">
+        <source>Cannot be checked</source>
+        <target>Nicht prüfbar</target>
+      </trans-unit>
+      <trans-unit id="29c2cce30719dcdd39b4f0b784fa58a3">
+        <source>Requests using this name from an address the operator does not publish.</source>
+        <target>Anfragen mit diesem Namen von einer Adresse, die der Betreiber nicht veröffentlicht.</target>
+      </trans-unit>
+      <trans-unit id="ac255466f92c36b003b30d89eb85f4b6">
+        <source>%count% fake</source>
+        <target>%count% gefälscht</target>
+      </trans-unit>
+      <trans-unit id="3f68e67dc6c397aaa9d1c24c356f754f">
+        <source>Verified</source>
+        <target>Verifiziert</target>
+      </trans-unit>
+      <trans-unit id="68eec46437c384d8dad18d5464ebc35c">
+        <source>Always</source>
+        <target>Immer</target>
+      </trans-unit>
+      <trans-unit id="c9eb5e4cde6aadce4438301ee32a604b">
+        <source>Allow %bot%</source>
+        <target>%bot% erlauben</target>
+      </trans-unit>
+      <trans-unit id="dcbf964de2731eba567d6a371e5654bf">
+        <source>Say no to training everywhere</source>
+        <target>Überall Nein zum Training sagen</target>
+      </trans-unit>
+      <trans-unit id="365a6928d8d037ea872ba7e7b545dc00">
+        <source>Publish the shared opt-out (__usage_ai-training)</source>
+        <target>Den gemeinsamen Widerspruch veröffentlichen (__usage_ai-training)</target>
+      </trans-unit>
+      <trans-unit id="4452989d2e41ee2be7740d4beb0ce1b2">
+        <source>A new signal, proposed on 30 October 2026. Google and Microsoft plan to honour it from 2027, and OpenAI and Anthropic have announced support too. Google reads it as a no for Google-Extended unless that is named, so the module names it to keep you in Gemini Apps, which also leaves Gemini training allowed. Block Google-Extended above to refuse both.</source>
+        <target>Ein neues Signal, vorgeschlagen am 30. Oktober 2026. Google und Microsoft wollen es ab 2027 beachten, und auch OpenAI und Anthropic haben Unterstützung angekündigt. Google liest es als Nein für Google-Extended, sofern dieses nicht genannt wird. Das Modul nennt es daher, damit Sie in den Gemini-Apps bleiben, was auch Gemini-Training erlaubt lässt. Sperren Sie oben Google-Extended, um beides abzulehnen.</target>
+      </trans-unit>
+      <trans-unit id="7413d6303e2f9aca895435fe73670c0b">
+        <source>Publish Content Signals</source>
+        <target>Content Signals veröffentlichen</target>
+      </trans-unit>
+      <trans-unit id="cd4d76b65d68ba65a16c127325174eb9">
+        <source>A Cloudflare proposal that states your terms in robots.txt. No AI company is known to honour it yet. Most useful as a rights reservation in the EU.</source>
+        <target>Ein Cloudflare-Vorschlag, der Ihre Bedingungen in robots.txt nennt. Bisher ist keine KI-Firma bekannt, die ihn beachtet. Am nützlichsten als Rechtevorbehalt in der EU.</target>
+      </trans-unit>
+      <trans-unit id="46b6467f74ca7388589aa00a6dbdddef">
+        <source>What will be in robots.txt</source>
+        <target>Was in robots.txt stehen wird</target>
+      </trans-unit>
+      <trans-unit id="c60da24d39a62896266674d018c292e6">
+        <source>Nothing. Allowed crawlers need no lines at all, because a crawler with its own group stops reading your rules for the cart, search and filter pages.</source>
+        <target>Nichts. Erlaubte Crawler brauchen keine Zeilen, denn ein Crawler mit eigener Gruppe liest Ihre Regeln für Warenkorb, Suche und Filter nicht mehr.</target>
+      </trans-unit>
+      <trans-unit id="07dbb284f99faa919615e716f80b4180">
+        <source>robots.txt cannot be written on this server. Your choices will still be enforced by the shop, but copy these lines into the file by hand.</source>
+        <target>robots.txt lässt sich auf diesem Server nicht schreiben. Der Shop setzt Ihre Entscheidungen trotzdem durch, aber kopieren Sie diese Zeilen von Hand in die Datei.</target>
+      </trans-unit>
+      <trans-unit id="ac6bfbde1bce81ef78c63df856aaf3d3">
+        <source>The file is saved first, and your own lines in it are never touched.</source>
+        <target>Die Datei wird zuerst gesichert, und Ihre eigenen Zeilen bleiben unangetastet.</target>
+      </trans-unit>
+      <trans-unit id="70f240b99d781aa978ad4866bd3b28ff">
+        <source>Put robots.txt and your choices back to how they were before the last change?</source>
+        <target>robots.txt und Ihre Entscheidungen auf den Stand vor der letzten Änderung zurücksetzen?</target>
+      </trans-unit>
+      <trans-unit id="c33fc78e88eca2875af8321390712fe8">
+        <source>Undo last change</source>
+        <target>Letzte Änderung rückgängig</target>
+      </trans-unit>
+      <trans-unit id="9639e32cab248434a17ab32237cb3b71">
+        <source>Apply</source>
+        <target>Anwenden</target>
+      </trans-unit>
+      <trans-unit id="3c2f5efd81c9c5c8d134f6fd3e05cd49">
+        <source>The test asks for a product page in each crawler's name from your own server. A firewall may treat a real crawler's address differently, so a pass here is strong evidence, not proof.</source>
+        <target>Der Test fragt im Namen jedes Crawlers von Ihrem eigenen Server aus eine Produktseite ab. Eine Firewall kann die Adresse eines echten Crawlers anders behandeln, ein Erfolg hier ist also ein starkes Indiz, kein Beweis.</target>
+      </trans-unit>
+      <trans-unit id="3ac789be684a81ede1a9a5364eaa8019">
+        <source>What assistants read for people</source>
+        <target>Was Assistenten für Menschen lesen</target>
+      </trans-unit>
+      <trans-unit id="2c31a16b77435e080fbb62e1ff767c73">
+        <source>Each line is a page an assistant opened because someone asked it something. This is the closest you can get to seeing the question.</source>
+        <target>Jede Zeile ist eine Seite, die ein Assistent geöffnet hat, weil ihn jemand etwas gefragt hat. Näher kommen Sie an die Frage selbst nicht heran.</target>
+      </trans-unit>
+      <trans-unit id="193cfc9be3b995831c6af2fea6650e60">
+        <source>Page</source>
+        <target>Seite</target>
+      </trans-unit>
+      <trans-unit id="840c2c3c79be698753668016f58f87b6">
+        <source>Reads</source>
+        <target>Aufrufe</target>
+      </trans-unit>
+      <trans-unit id="7c7759163bfbbc11d3c353c52a3c178c">
+        <source>Nothing yet.</source>
+        <target>Noch nichts.</target>
+      </trans-unit>
+      <trans-unit id="e2a54fb8f33e0f714fd44cf0ce7a482c">
+        <source>Pages they asked for and did not find</source>
+        <target>Seiten, die sie angefragt und nicht gefunden haben</target>
+      </trans-unit>
+      <trans-unit id="e9a443eecf42e4cd0a463aa1307e0d3f">
+        <source>AI systems often ask for addresses that no longer exist. A redirect wins those visits back.</source>
+        <target>KI-Systeme fragen oft Adressen an, die es nicht mehr gibt. Eine Weiterleitung holt diese Besuche zurück.</target>
+      </trans-unit>
+      <trans-unit id="9bbdd5cbf196e4e5f349a37402cdd943">
+        <source>What agents ask for</source>
+        <target>Wonach Agenten fragen</target>
+      </trans-unit>
+      <trans-unit id="8af839af5d7dab8d03b50f3a7fea1d2b">
+        <source>Counts requests for files and formats you may not offer. If a real crawler starts asking for one, that is the moment to add it, not before.</source>
+        <target>Zählt Anfragen nach Dateien und Formaten, die Sie vielleicht nicht anbieten. Fragt ein echter Crawler nach einem davon, ist das der richtige Moment, es hinzuzufügen, nicht früher.</target>
+      </trans-unit>
+      <trans-unit id="3efc04a2ccab698fbbf7080f9f5a0ac5">
+        <source>Asked for</source>
+        <target>Angefragt</target>
+      </trans-unit>
+      <trans-unit id="53e5aa2c97fef1555d2511de8218c544">
+        <source>By</source>
+        <target>Von</target>
+      </trans-unit>
+      <trans-unit id="36b20bd0293866c0481319b66bd9269a">
+        <source>Load guard</source>
+        <target>Lastschutz</target>
+      </trans-unit>
+      <trans-unit id="ae27dbe58a01fa9254c05255b4ead898">
+        <source>Refuse AI crawlers on pages robots.txt already forbids</source>
+        <target>KI-Crawler auf Seiten ablehnen, die robots.txt bereits verbietet</target>
+      </trans-unit>
+      <trans-unit id="4d895e2d6c4ab556b5027dacb1259a3c">
+        <source>Filter, search and cart URLs are the expensive ones. A crawler that obeys robots.txt never asks for them, so this costs no visibility. Scrapers that hide their name are not stopped by this: only your CDN can do that.</source>
+        <target>Filter-, Such- und Warenkorb-URLs sind die teuersten. Ein Crawler, der robots.txt beachtet, fragt sie nie an, das kostet also keine Sichtbarkeit. Scraper, die ihren Namen verbergen, stoppt das nicht: Das kann nur Ihr CDN.</target>
+      </trans-unit>
+      <trans-unit id="813332312160f48744844e60cd4f3f91">
+        <source>Crawler log</source>
+        <target>Crawler-Protokoll</target>
+      </trans-unit>
+      <trans-unit id="de5b762e85958a47c3a8b887a1030ad3">
+        <source>Count crawler requests</source>
+        <target>Crawler-Anfragen zählen</target>
+      </trans-unit>
+      <trans-unit id="424dd08c3e0eb16cc3beb84d7cec3c5b">
+        <source>Name, page and status only. Addresses are checked against the operator's list and then forgotten.</source>
+        <target>Nur Name, Seite und Status. Adressen werden mit der Liste des Betreibers abgeglichen und dann vergessen.</target>
+      </trans-unit>
+      <trans-unit id="f1d447497a3f63218bea66123f132451">
+        <source>Keep the log for</source>
+        <target>Protokoll aufbewahren für</target>
+      </trans-unit>
+      <trans-unit id="07cb9ba73f123c3615cdb2f68b3b3042">
+        <source>%days% days</source>
+        <target>%days% Tage</target>
+      </trans-unit>
+      <trans-unit id="7dbf314d98a60df84099f1e41f7ffb09">
+        <source>From visit to order, by assistant</source>
+        <target>Vom Besuch zur Bestellung, je Assistent</target>
+      </trans-unit>
+      <trans-unit id="217df069dfdb2769e1adc39f3121107f">
+        <source>A visit is a click from an assistant. An order counts when it follows such a visit, under the rule you choose below.</source>
+        <target>Ein Besuch ist ein Klick von einem Assistenten. Eine Bestellung zählt, wenn sie auf einen solchen Besuch folgt, nach der Regel, die Sie unten wählen.</target>
+      </trans-unit>
+      <trans-unit id="9b1363da9503dbd4142c0274a88e8d4b">
+        <source>Assistant</source>
+        <target>Assistent</target>
+      </trans-unit>
+      <trans-unit id="fc26e55e0993a75e892175deb02aae15">
+        <source>Carts</source>
+        <target>Warenkörbe</target>
+      </trans-unit>
+      <trans-unit id="7442e29d7d53e549b78d93c46b8cdcfc">
+        <source>Orders</source>
+        <target>Bestellungen</target>
+      </trans-unit>
+      <trans-unit id="4160dfb64fcc1a9b7e599b567b0ea1d4">
+        <source>Order value</source>
+        <target>Bestellwert</target>
+      </trans-unit>
+      <trans-unit id="61d01a812a393e4846ff75d60f550ec8">
+        <source>Orders per 100 visits</source>
+        <target>Bestellungen pro 100 Besuche</target>
+      </trans-unit>
+      <trans-unit id="e53ea6bdccae5f61ce23acba6f18dfc5">
+        <source>No visits from AI assistants in this period.</source>
+        <target>Keine Besuche von KI-Assistenten in diesem Zeitraum.</target>
+      </trans-unit>
+      <trans-unit id="5dcbbd08f0597444296372a6143ef94c">
+        <source>They appear here as soon as someone clicks through from ChatGPT, Perplexity, Gemini, Copilot, Claude or another assistant.</source>
+        <target>Sie erscheinen hier, sobald jemand von ChatGPT, Perplexity, Gemini, Copilot, Claude oder einem anderen Assistenten durchklickt.</target>
+      </trans-unit>
+      <trans-unit id="bbf3bd967bc2f192aadd1aff23fb0922">
+        <source>Where they land</source>
+        <target>Wo sie landen</target>
+      </trans-unit>
+      <trans-unit id="501f261c491835e8693c590e134e85fb">
+        <source>Latest orders after an AI visit</source>
+        <target>Letzte Bestellungen nach einem KI-Besuch</target>
+      </trans-unit>
+      <trans-unit id="a240fa27925a635b08dc28c9e4f9216d">
+        <source>Order</source>
+        <target>Bestellung</target>
+      </trans-unit>
+      <trans-unit id="689202409e48743b914713f96d93947c">
+        <source>Value</source>
+        <target>Wert</target>
+      </trans-unit>
+      <trans-unit id="740816be41926ab3d8ecefe751fd5753">
+        <source>How an order is linked to an AI visit</source>
+        <target>Wie eine Bestellung mit einem KI-Besuch verknüpft wird</target>
+      </trans-unit>
+      <trans-unit id="dc90555cb485bf1f8c2b67fe7c025be1">
+        <source>Count an order when it is placed</source>
+        <target>Eine Bestellung zählen, wenn sie aufgegeben wird</target>
+      </trans-unit>
+      <trans-unit id="72e44d39a53e3839e9e6e2f21843e42d">
+        <source>During the same visit, within 2 hours</source>
+        <target>Beim selben Besuch, innerhalb von 2 Stunden</target>
+      </trans-unit>
+      <trans-unit id="b3438f9e6aae563b3d88c9f19e7cb208">
+        <source>Within 30 days of the visit</source>
+        <target>Innerhalb von 30 Tagen nach dem Besuch</target>
+      </trans-unit>
+      <trans-unit id="e7a457c803841d3e4955fd527b621a77">
+        <source>A 30-day link remembers a visitor for longer. Check whether it needs consent where you sell.</source>
+        <target>Eine 30-Tage-Verknüpfung merkt sich einen Besucher länger. Prüfen Sie, ob dort, wo Sie verkaufen, eine Einwilligung nötig ist.</target>
+      </trans-unit>
+      <trans-unit id="890839fb85bbbcc14121d1133e591f7a">
+        <source>Count visits from AI assistants</source>
+        <target>Besuche von KI-Assistenten zählen</target>
+      </trans-unit>
+      <trans-unit id="248c171009063fedc18d8de916a6ef7a">
+        <source>Only the assistant's name is kept, inside PrestaShop's own cookie. No IP address, no third party, no new cookie.</source>
+        <target>Nur der Name des Assistenten wird gespeichert, im eigenen Cookie von PrestaShop. Keine IP-Adresse, keine Dritten, kein neues Cookie.</target>
+      </trans-unit>
+      <trans-unit id="def138636f6cf41ebf4ddd2fbf14ea1c">
+        <source>Reached (%status%)</source>
+        <target>Erreicht (%status%)</target>
+      </trans-unit>
+      <trans-unit id="bb5fe5cd9c8c778e81b05ef53c166612">
+        <source>Allowed</source>
+        <target>Erlaubt</target>
+      </trans-unit>
+      <trans-unit id="aaf2f23396cae77a87804d2566c717d7">
+        <source>Closed by robots.txt</source>
+        <target>Durch robots.txt gesperrt</target>
+      </trans-unit>
+      <trans-unit id="9def92a36901bece4771939f0c14ae3c">
+        <source>Stopped by a challenge page</source>
+        <target>Durch eine Prüfseite gestoppt</target>
+      </trans-unit>
+      <trans-unit id="dcc165361dd91f719245c23f8cb598c3">
+        <source>No answer</source>
+        <target>Keine Antwort</target>
+      </trans-unit>
+      <trans-unit id="5a8774b08c347b0753d8985e30944f1b">
+        <source>Delivery and returns</source>
+        <target>Lieferung und Rücksendung</target>
+      </trans-unit>
+      <trans-unit id="0aae2bdbee0068263368692c8ccab337">
+        <source>Only you know these, so nothing is published until you save it here. It then appears on product pages and in the product data, so the two always agree. State what your carriers really charge: search engines compare it with your checkout.</source>
+        <target>Nur Sie kennen diese Angaben, daher wird nichts veröffentlicht, bis Sie es hier speichern. Danach erscheinen sie auf Produktseiten und in den Produktdaten, sodass beide immer übereinstimmen. Geben Sie an, was Ihre Versanddienstleister wirklich berechnen: Suchmaschinen vergleichen das mit Ihrem Bestellvorgang.</target>
+      </trans-unit>
+      <trans-unit id="4762fdc5fdf2ab3118f73fe252a6668b">
+        <source>Returns</source>
+        <target>Rücksendungen</target>
+      </trans-unit>
+      <trans-unit id="e9ef29c12bf88b85a883a9d4c0d24fe4">
+        <source>Your returns policy</source>
+        <target>Ihre Rückgaberichtlinie</target>
+      </trans-unit>
+      <trans-unit id="0650908890467ed5ebb44034d2a11688">
+        <source>Do not publish</source>
+        <target>Nicht veröffentlichen</target>
+      </trans-unit>
+      <trans-unit id="19898b1e770dfb7e6d6405fb3cfba7e3">
+        <source>Returns within a number of days</source>
+        <target>Rückgabe innerhalb einer Anzahl von Tagen</target>
+      </trans-unit>
+      <trans-unit id="db3b3e244037e302f752821c2a1e0581">
+        <source>Returns at any time</source>
+        <target>Rückgabe jederzeit</target>
+      </trans-unit>
+      <trans-unit id="53f98100d5913879895981e4692a4654">
+        <source>No returns</source>
+        <target>Keine Rückgabe</target>
+      </trans-unit>
+      <trans-unit id="e49638633378d3c21dd1c395b1920aab">
+        <source>Days to return</source>
+        <target>Tage für die Rückgabe</target>
+      </trans-unit>
+      <trans-unit id="33698f647c812266d1857bac05a71413">
+        <source>Who pays for the return</source>
+        <target>Wer zahlt die Rücksendung</target>
+      </trans-unit>
+      <trans-unit id="f11e6eedc974477fd001818f0d41263e">
+        <source>Free for the customer</source>
+        <target>Kostenlos für den Kunden</target>
+      </trans-unit>
+      <trans-unit id="5049b0013057f491d8bb912f2911fbb9">
+        <source>The customer pays the postage</source>
+        <target>Der Kunde zahlt das Porto</target>
+      </trans-unit>
+      <trans-unit id="c7838cfc641e482af7b8ace7f9f74cde">
+        <source>A fixed fee</source>
+        <target>Eine feste Gebühr</target>
+      </trans-unit>
+      <trans-unit id="a9ab9a755c5c2b96600d589865a3094e">
+        <source>Return fee</source>
+        <target>Rücksendegebühr</target>
+      </trans-unit>
+      <trans-unit id="b10853252f5f564828e0f89fe808f6a8">
+        <source>Applies to customers in</source>
+        <target>Gilt für Kunden in</target>
+      </trans-unit>
+      <trans-unit id="065ab3a28ca4f16f55f103adc7d0226f">
+        <source>Delivery</source>
+        <target>Lieferung</target>
+      </trans-unit>
+      <trans-unit id="fac9b4aab6ac20cd44700447ddb1b314">
+        <source>Add a delivery rule</source>
+        <target>Lieferregel hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="487ca97be1d3d868aabf92dc08b4d82e">
+        <source>Save delivery and returns</source>
+        <target>Lieferung und Rücksendung speichern</target>
+      </trans-unit>
+      <trans-unit id="8b39cc07b1c4264d0e8c55c61ebb7e59">
+        <source>What your catalogue states</source>
+        <target>Was Ihr Katalog angibt</target>
+      </trans-unit>
+      <trans-unit id="a68f20cf4807b7d4e02396e6fde9c382">
+        <source>Stated price and specifications are the best supported on-page signal in the research, and Merchant Center asks for the same facts. Fix the gaps in your products, not in your wording.</source>
+        <target>Angegebene Preise und technische Daten sind das in der Forschung am besten gestützte Signal auf der Seite, und Merchant Center verlangt dieselben Angaben. Schließen Sie die Lücken in Ihren Produkten, nicht in Ihren Formulierungen.</target>
+      </trans-unit>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+      <trans-unit id="c883de1b18a9d75c4d64480161c28a7b">
+        <source>What a crawler gets from your pages</source>
+        <target>Was ein Crawler von Ihren Seiten bekommt</target>
+      </trans-unit>
+      <trans-unit id="b362e716e6631435dcce62cd1b4073d0">
+        <source>Fetches real pages the way most AI crawlers do, without running JavaScript. Finds duplicate or broken markup, directives that hide a page, and markup the page itself does not show.</source>
+        <target>Ruft echte Seiten ab, wie es die meisten KI-Crawler tun, ohne JavaScript auszuführen. Findet doppeltes oder fehlerhaftes Markup, Anweisungen, die eine Seite verbergen, und Markup, das die Seite selbst nicht zeigt.</target>
+      </trans-unit>
+      <trans-unit id="e9c8d741b854c00ec24e2a7321902271">
+        <source>Check my pages</source>
+        <target>Meine Seiten prüfen</target>
+      </trans-unit>
+      <trans-unit id="368d9e5ab95830b4e9cc51e7d13a1fbd">
+        <source>Page address</source>
+        <target>Seitenadresse</target>
+      </trans-unit>
+      <trans-unit id="0984a2feedcdf2bf8fc294cbd14dbcb7">
+        <source>Or paste the address of any page of this shop</source>
+        <target>Oder fügen Sie die Adresse einer beliebigen Seite dieses Shops ein</target>
+      </trans-unit>
+      <trans-unit id="eb763a2e313718f33f55e1f0d84df6ee">
+        <source>Product page</source>
+        <target>Produktseite</target>
+      </trans-unit>
+      <trans-unit id="060bf2d587991d8f090a1309b285291c">
+        <source>Check</source>
+        <target>Prüfen</target>
+      </trans-unit>
+      <trans-unit id="dfa48e236feacffb51e42d8e2d7c1b57">
+        <source>Product markup</source>
+        <target>Produkt-Markup</target>
+      </trans-unit>
+      <trans-unit id="78c3c783b6c7565a0117793f0c4ea9c0">
+        <source>The module extends the markup your theme already prints, so there is never a second Product. It helps rich results and Merchant Center. Tests have not found that markup alone earns AI citations.</source>
+        <target>Das Modul erweitert das Markup, das Ihr Theme bereits ausgibt, daher gibt es nie ein zweites Product. Das hilft Rich Results und Merchant Center. Tests haben nicht gezeigt, dass Markup allein KI-Zitate bringt.</target>
+      </trans-unit>
+      <trans-unit id="926544128259c3553ef5209bbd08be5e">
+        <source>Correct and complete the product markup</source>
+        <target>Produkt-Markup korrigieren und vervollständigen</target>
+      </trans-unit>
+      <trans-unit id="fd8a8017ab893bc5f71b2ec5df3c57c7">
+        <source>Removes the made-up &quot;valid for 15 days&quot; date and false identifiers, checks GTINs, states condition, delivery and returns.</source>
+        <target>Entfernt das erfundene Datum „15 Tage gültig“ und falsche Kennungen, prüft GTINs und gibt Zustand, Lieferung und Rücksendung an.</target>
+      </trans-unit>
+      <trans-unit id="5545b5ebcf04efda0031f5ba22ff1f06">
+        <source>Describe each combination</source>
+        <target>Jede Kombination beschreiben</target>
+      </trans-unit>
+      <trans-unit id="883181051b66c8181e1b6baa7ca34469">
+        <source>Each size or color gets its own price, stock and identifier, for products with up to 50 combinations.</source>
+        <target>Jede Größe oder Farbe erhält eigenen Preis, Bestand und eigene Kennung, bei Produkten mit bis zu 50 Kombinationen.</target>
+      </trans-unit>
+      <trans-unit id="6f02c9c1a621da5ae7423dd90d243530">
+        <source>Show delivery and returns on the product page</source>
+        <target>Lieferung und Rücksendung auf der Produktseite anzeigen</target>
+      </trans-unit>
+      <trans-unit id="0740e7f92fbdaba361b7d4b0b7fe2001">
+        <source>Search engines want markup to match what the visitor can read.</source>
+        <target>Suchmaschinen wollen, dass das Markup zu dem passt, was der Besucher lesen kann.</target>
+      </trans-unit>
+      <trans-unit id="882661be9f18c8b195f34d3bc7aa0455">
+        <source>We make our own products</source>
+        <target>Wir stellen unsere Produkte selbst her</target>
+      </trans-unit>
+      <trans-unit id="8eb1e11f2e0d4584d63cd9944cb3155f">
+        <source>Use the shop name as the brand of products with no manufacturer. Leave this off if you resell other brands.</source>
+        <target>Den Shopnamen als Marke für Produkte ohne Hersteller verwenden. Lassen Sie das aus, wenn Sie andere Marken verkaufen.</target>
+      </trans-unit>
+      <trans-unit id="e17cb14429141ced948e6d627a68bbd6">
+        <source>Publish crossed-out prices</source>
+        <target>Durchgestrichene Preise veröffentlichen</target>
+      </trans-unit>
+      <trans-unit id="b67938328a434aadf93212415c6829ae">
+        <source>Off by default for your country: in the EU, a reduction must be calculated from the lowest price of the previous 30 days, and the module cannot check that for you.</source>
+        <target>Für Ihr Land standardmäßig aus: In der EU muss eine Ermäßigung vom niedrigsten Preis der vorangegangenen 30 Tage ausgehen, und das Modul kann das nicht für Sie prüfen.</target>
+      </trans-unit>
+      <trans-unit id="7401e471ad772a71fb949b035f570c3d">
+        <source>The price before the discount, as shown on the page.</source>
+        <target>Der Preis vor dem Rabatt, wie auf der Seite angezeigt.</target>
+      </trans-unit>
+      <trans-unit id="d9a0209784997f39cfd524f46c119291">
+        <source>Something went wrong. The details are in the PrestaShop log.</source>
+        <target>Etwas ist schiefgelaufen. Die Details stehen im PrestaShop-Protokoll.</target>
+      </trans-unit>
+      <trans-unit id="7a80fbbf259c51a6dd4a9f382bf9f5e0">
+        <source>Your choice is saved, but robots.txt cannot be written. Add the lines below to it by hand.</source>
+        <target>Ihre Auswahl ist gespeichert, aber robots.txt lässt sich nicht schreiben. Fügen Sie die Zeilen unten von Hand ein.</target>
+      </trans-unit>
+      <trans-unit id="533444a0080e979779dbad6fb05fd074">
+        <source>robots.txt updated. OpenAI says changes reach its search in about 24 hours; others may take longer.</source>
+        <target>robots.txt aktualisiert. Laut OpenAI erreichen Änderungen seine Suche in etwa 24 Stunden; andere brauchen eventuell länger.</target>
+      </trans-unit>
+      <trans-unit id="6dfc44c26ba96ba5846666ace2bc96ea">
+        <source>There is nothing to undo.</source>
+        <target>Es gibt nichts rückgängig zu machen.</target>
+      </trans-unit>
+      <trans-unit id="5f66ef126a026faabaaad33be8be4cc2">
+        <source>robots.txt and your crawler choices are back to how they were.</source>
+        <target>robots.txt und Ihre Crawler-Auswahl sind wieder wie zuvor.</target>
+      </trans-unit>
+      <trans-unit id="86cd5b85b93e88e5625defa32d54b9c4">
+        <source>Pick at least one country for your returns policy.</source>
+        <target>Wählen Sie mindestens ein Land für Ihre Rückgaberichtlinie.</target>
+      </trans-unit>
+      <trans-unit id="4cd8f87884e84b1e6d0fdd71446ca471">
+        <source>Enter how many days customers have to return a product.</source>
+        <target>Geben Sie an, wie viele Tage Kunden für eine Rückgabe haben.</target>
+      </trans-unit>
+      <trans-unit id="6af8786dc0086845d34c5097d1cde7e7">
+        <source>Pick at least one country for each delivery rule, or remove the rule.</source>
+        <target>Wählen Sie mindestens ein Land für jede Lieferregel oder entfernen Sie die Regel.</target>
+      </trans-unit>
+      <trans-unit id="87b1b6db7500c501d0986747722a275a">
+        <source>A delivery time cannot start after it ends.</source>
+        <target>Eine Lieferzeit kann nicht nach ihrem Ende beginnen.</target>
+      </trans-unit>
+      <trans-unit id="0305e4d0ddfb86eba00e79f0e0d0101c">
+        <source>Delivery and returns saved. They are now on your product pages and in your product data.</source>
+        <target>Lieferung und Rücksendung gespeichert. Sie stehen jetzt auf Ihren Produktseiten und in Ihren Produktdaten.</target>
+      </trans-unit>
+      <trans-unit id="f2ac7dac2640a4e14ff3846dd8ec820e">
+        <source>Enter a page of this shop.</source>
+        <target>Geben Sie eine Seite dieses Shops ein.</target>
+      </trans-unit>
+      <trans-unit id="0afcd0c36699738e8e0cb14754966abd">
+        <source>%count% URLs submitted.</source>
+        <target>%count% URLs gesendet.</target>
+      </trans-unit>
+      <trans-unit id="e857f5fc48015ea6338f761d497ad027">
+        <source>Sending your whole catalogue in the background. First batch: %count% URLs.</source>
+        <target>Ihr ganzer Katalog wird im Hintergrund gesendet. Erste Ladung: %count% URLs.</target>
+      </trans-unit>
+      <trans-unit id="2ef1b033e6b9ffdc2875b8ec2ef32a76">
+        <source>Visits from AI assistants per day</source>
+        <target>Besuche von KI-Assistenten pro Tag</target>
+      </trans-unit>
+      <trans-unit id="b87bd6b676a6f4220f65fcf796be9a01">
+        <source>AI crawler requests per day</source>
+        <target>Anfragen von KI-Crawlern pro Tag</target>
+      </trans-unit>
+      <trans-unit id="7414a47f3db3410d71d5bec7c1f8207e">
+        <source>What does %shop% sell, and is it a reliable place to buy?</source>
+        <target>Was verkauft %shop%, und kann man dort zuverlässig einkaufen?</target>
+      </trans-unit>
+      <trans-unit id="20eff663f4a781a0747dac299a704e2f">
+        <source>Where can I buy %category% in %country%?</source>
+        <target>Wo kann ich %category% in %country% kaufen?</target>
+      </trans-unit>
+      <trans-unit id="12813a1dd24b2156811d2dfa3c392951">
+        <source>How much is %product% and who has it in stock?</source>
+        <target>Was kostet %product% und wer hat es auf Lager?</target>
+      </trans-unit>
+      <trans-unit id="f231004dfaa20141183667b4886ea79b">
+        <source>What is the returns policy of %shop%?</source>
+        <target>Wie lautet die Rückgaberichtlinie von %shop%?</target>
+      </trans-unit>
+      <trans-unit id="e1332ceee75e9e53b2fef84a33463a1a">
+        <source>Your shop is in maintenance mode, so no crawler can read it.</source>
+        <target>Ihr Shop ist im Wartungsmodus, daher kann ihn kein Crawler lesen.</target>
+      </trans-unit>
+      <trans-unit id="b73ddd3acd5b214e4438c07d47f87357">
+        <source>Your crawler rules are not in robots.txt right now, and the file could not be updated.</source>
+        <target>Ihre Crawler-Regeln stehen derzeit nicht in robots.txt, und die Datei konnte nicht aktualisiert werden.</target>
+      </trans-unit>
+      <trans-unit id="deb9ef7325e9a64fb7fd9d3dc69e7945">
+        <source>robots.txt closes your shop to %bots%. You did not choose this here, so check the file.</source>
+        <target>robots.txt sperrt Ihren Shop für %bots%. Das haben Sie hier nicht gewählt, prüfen Sie also die Datei.</target>
+      </trans-unit>
+      <trans-unit id="04a210d6854cb405dcd7ec79a2b04406">
+        <source>Test whether AI crawlers can really reach your shop. A firewall or CDN can refuse them even when robots.txt welcomes them.</source>
+        <target>Testen Sie, ob KI-Crawler Ihren Shop wirklich erreichen. Eine Firewall oder ein CDN kann sie ablehnen, auch wenn robots.txt sie zulässt.</target>
+      </trans-unit>
+      <trans-unit id="707ef172552d2699b12fc80aa64b4c96">
+        <source>The last access test could not reach your shop as %bots%.</source>
+        <target>Der letzte Zugriffstest konnte Ihren Shop als %bots% nicht erreichen.</target>
+      </trans-unit>
+      <trans-unit id="1421431b22ab26cc09a63af5b06ab9fe">
+        <source>Check your pages to see what a crawler that runs no JavaScript gets from them.</source>
+        <target>Prüfen Sie Ihre Seiten, um zu sehen, was ein Crawler ohne JavaScript von ihnen bekommt.</target>
+      </trans-unit>
+      <trans-unit id="412da663b91dad009a97e7d2efc807b1">
+        <source>The last page check found %count% problems that hide content or contradict your markup.</source>
+        <target>Die letzte Seitenprüfung fand %count% Probleme, die Inhalte verbergen oder Ihrem Markup widersprechen.</target>
+      </trans-unit>
+      <trans-unit id="becc036f41faffb6938ccf75d1ba947b">
+        <source>Add your delivery and returns facts. PrestaShop publishes neither, and shoppers and Merchant Center both look for them.</source>
+        <target>Ergänzen Sie Ihre Angaben zu Lieferung und Rücksendung. PrestaShop veröffentlicht beides nicht, und Käufer wie Merchant Center suchen danach.</target>
+      </trans-unit>
+      <trans-unit id="96f9711044a06bedd06e688ad4794a0a">
+        <source>Turn on IndexNow to tell Bing, which feeds Copilot, about price and stock changes.</source>
+        <target>Schalten Sie IndexNow ein, um Bing, das Copilot speist, über Preis- und Bestandsänderungen zu informieren.</target>
+      </trans-unit>
+      <trans-unit id="cc74a4ad84d8b7c864404ba665ff39d9">
+        <source>The last IndexNow submission was refused with code %code%.</source>
+        <target>Die letzte IndexNow-Übermittlung wurde mit Code %code% abgelehnt.</target>
+      </trans-unit>
+      <trans-unit id="9dc7590174089e9009b62f8bc6f35cab">
+        <source>%percent%% of your products name a brand.</source>
+        <target>%percent%% Ihrer Produkte nennen eine Marke.</target>
+      </trans-unit>
+      <trans-unit id="6bea66b2dcbfc03e8b0d7ca32c6e65c1">
+        <source>%percent%% of your products have a GTIN.</source>
+        <target>%percent%% Ihrer Produkte haben eine GTIN.</target>
+      </trans-unit>
+      <trans-unit id="215f62e52ec660ac1bad24b4809e5a07">
+        <source>%percent%% of your products have a short description in this language.</source>
+        <target>%percent%% Ihrer Produkte haben eine Kurzbeschreibung in dieser Sprache.</target>
+      </trans-unit>
+      <trans-unit id="fb0160dfc0912834a1c01b12a57e7390">
+        <source>%percent%% of your products have a cover image.</source>
+        <target>%percent%% Ihrer Produkte haben ein Titelbild.</target>
+      </trans-unit>
+      <trans-unit id="bc2217a38799b13b4a7f3f30103a8667">
+        <source>robots.txt is one file for your whole installation, so these choices apply to every shop.</source>
+        <target>robots.txt ist eine einzige Datei für Ihre gesamte Installation, daher gelten diese Entscheidungen für jeden Shop.</target>
+      </trans-unit>
+      <trans-unit id="295aec32475c46908d23dbd981159e23">
+        <source>The markup states delivery or returns, but the block showing them is not on this page. Your theme or page builder may leave out the displayProductAdditionalInfo hook. Add it, or state the same facts on the page yourself.</source>
+        <target>Das Markup nennt Lieferung oder Rücksendung, aber der Block, der sie anzeigt, fehlt auf dieser Seite. Ihr Theme oder Page Builder lässt womöglich den Hook displayProductAdditionalInfo aus. Fügen Sie ihn hinzu oder nennen Sie dieselben Angaben selbst auf der Seite.</target>
+      </trans-unit>
+      <trans-unit id="5084335733aec1e6833956204249b09a">
+        <source>Product feed</source>
+        <target>Produkt-Feed</target>
+      </trans-unit>
+      <trans-unit id="32201c404bed0920507af151fb7fbb8b">
+        <source>A product file for Merchant Center</source>
+        <target>Eine Produktdatei für das Merchant Center</target>
+      </trans-unit>
+      <trans-unit id="75a4ab9510aa749c09b4d59a3ea99f02">
+        <source>Google says Merchant Center feeds can help products appear in AI responses. It does not say they will, and no one has measured by how much. Three different parties are involved:</source>
+        <target>Google sagt, dass Merchant-Center-Feeds Produkten helfen können, in KI-Antworten zu erscheinen. Es sagt nicht, dass sie es tun werden, und niemand hat gemessen, wie stark. Drei verschiedene Beteiligte spielen eine Rolle:</target>
+      </trans-unit>
+      <trans-unit id="ae6bad68d30e248bbcfee654f8eb103d">
+        <source>The module writes the file</source>
+        <target>Das Modul schreibt die Datei</target>
+      </trans-unit>
+      <trans-unit id="c3d27e90528c55185071998f04b55601">
+        <source>Once a day, in the background, from your catalogue: one item per combination, real prices and tax for the country you choose, and only GTINs whose check digit passes.</source>
+        <target>Einmal täglich im Hintergrund aus Ihrem Katalog: ein Artikel pro Kombination, echte Preise und Steuern für das gewählte Land und nur GTINs mit korrekter Prüfziffer.</target>
+      </trans-unit>
+      <trans-unit id="2acdbcf607d2ae37e19176ce00f262fb">
+        <source>You submit it</source>
+        <target>Sie reichen sie ein</target>
+      </trans-unit>
+      <trans-unit id="5f603a02ed8ff5f3cfb81d5bed36fb17">
+        <source>You add its address to your own Merchant Center account. The module cannot do this for you, and nothing is sent anywhere until you do.</source>
+        <target>Sie tragen die Adresse in Ihrem eigenen Merchant-Center-Konto ein. Das Modul kann das nicht für Sie tun, und bis dahin wird nichts versendet.</target>
+      </trans-unit>
+      <trans-unit id="b9a57205ff9c5534cfbf56fe20ae25d5">
+        <source>The platform decides</source>
+        <target>Die Plattform entscheidet</target>
+      </trans-unit>
+      <trans-unit id="512d090e2c0bc5356e13cf98362cab0c">
+        <source>Google and Microsoft review each product and choose whether and where to show it. A file they accept is not a promise of listings, clicks or citations.</source>
+        <target>Google und Microsoft prüfen jedes Produkt und entscheiden, ob und wo es erscheint. Eine akzeptierte Datei ist kein Versprechen von Einträgen, Klicks oder Zitaten.</target>
+      </trans-unit>
+      <trans-unit id="de6d218216c2a8179968c07556fd37dd">
+        <source>Marketing with Google already looks linked to Merchant Center</source>
+        <target>Marketing with Google scheint bereits mit dem Merchant Center verbunden zu sein</target>
+      </trans-unit>
+      <trans-unit id="72477e66722e052fb65bbf17fd3cda12">
+        <source>It sends your products there through PrestaShop's cloud. Do not also add a primary feed from here for the same country and language: Google says a product uploaded through two sources belongs to whichever updated last, and recommends one primary source. Use a supplemental feed here instead.</source>
+        <target>Es sendet Ihre Produkte über die PrestaShop-Cloud dorthin. Fügen Sie nicht zusätzlich von hier einen primären Feed für dasselbe Land und dieselbe Sprache hinzu: Laut Google gehört ein über zwei Quellen hochgeladenes Produkt zu der zuletzt aktualisierten, und Google empfiehlt eine einzige primäre Quelle. Nutzen Sie hier stattdessen einen ergänzenden Feed.</target>
+      </trans-unit>
+      <trans-unit id="c2e7e78598a68cdd5b723efe9e446feb">
+        <source>Marketing with Google is installed</source>
+        <target>Marketing with Google ist installiert</target>
+      </trans-unit>
+      <trans-unit id="df3364421e7bf493629cef274c3c671e">
+        <source>It does not look linked to an account, though this shop cannot see its side of the connection. If you use its product sync, do not also add a primary feed from here for the same country and language: Google says a product uploaded through two sources belongs to whichever updated last, and recommends one primary source. Use a supplemental feed here instead.</source>
+        <target>Es scheint mit keinem Konto verbunden zu sein, wobei dieser Shop seine Seite der Verbindung nicht sehen kann. Wenn Sie seine Synchronisierung nutzen, fügen Sie nicht zusätzlich von hier einen primären Feed für dasselbe Land und dieselbe Sprache hinzu: Laut Google gehört ein über zwei Quellen hochgeladenes Produkt zu der zuletzt aktualisierten, und Google empfiehlt eine einzige primäre Quelle. Nutzen Sie hier stattdessen einen ergänzenden Feed.</target>
+      </trans-unit>
+      <trans-unit id="acbd1f729325d338c4b2f5223a6df1d9">
+        <source>Marketing with Google is active. A primary feed for the same country and language would compete with its sync. Add it anyway?</source>
+        <target>Marketing with Google ist aktiv. Ein primärer Feed für dasselbe Land und dieselbe Sprache würde mit seiner Synchronisierung konkurrieren. Trotzdem hinzufügen?</target>
+      </trans-unit>
+      <trans-unit id="da4503f2b320b0885d47a1bdbecc2ee4">
+        <source>Add a feed</source>
+        <target>Feed hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="68a239e6783934cdfaa35c8c73881cd7">
+        <source>Merchant Center ties a file to one country and language, so each pair is a feed of its own. Item IDs stay the same in all of them, as Google asks.</source>
+        <target>Das Merchant Center bindet eine Datei an ein Land und eine Sprache, daher ist jedes Paar ein eigener Feed. Die Artikel-IDs bleiben überall gleich, wie Google es verlangt.</target>
+      </trans-unit>
+      <trans-unit id="ad56fa8010c52dc3fb1717d0721d7eba">
+        <source>Country you sell to</source>
+        <target>Land, in das Sie verkaufen</target>
+      </trans-unit>
+      <trans-unit id="386c339d37e737a436499d423a77df0c">
+        <source>Currency</source>
+        <target>Währung</target>
+      </trans-unit>
+      <trans-unit id="c69646bf01452ec40e2706f39a96f725">
+        <source>What it is for</source>
+        <target>Wofür er dient</target>
+      </trans-unit>
+      <trans-unit id="3ae162e56f16a5c44a8bc15415173ed8">
+        <source>Primary: your whole catalogue, for an account with no other source</source>
+        <target>Primär: Ihr ganzer Katalog, für ein Konto ohne andere Quelle</target>
+      </trans-unit>
+      <trans-unit id="db6f792a1040de496a386f74e199b651">
+        <source>Supplemental: extra details on top of another source</source>
+        <target>Ergänzend: zusätzliche Angaben zu einer anderen Quelle</target>
+      </trans-unit>
+      <trans-unit id="172315e914f830156de0d8ad00610865">
+        <source>A supplemental feed works only where its IDs match the other source. The IDs here read product-combination, like 12-0 or 12-34, the form Marketing with Google uses in its own events. Its cloud service sets the IDs in Merchant Center and is not public, so compare a few there first.</source>
+        <target>Ein ergänzender Feed funktioniert nur, wenn seine IDs zur anderen Quelle passen. Hier lauten sie Produkt-Kombination, etwa 12-0 oder 12-34, die Form, die Marketing with Google in seinen eigenen Ereignissen verwendet. Sein Cloud-Dienst legt die IDs im Merchant Center fest und ist nicht öffentlich, vergleichen Sie also zuerst einige davon.</target>
+      </trans-unit>
+      <trans-unit id="50a34628d3fd5c4ab279131a1292687f">
+        <source>Where it goes</source>
+        <target>Ziel</target>
+      </trans-unit>
+      <trans-unit id="fec9b088a7f88a8f7207cf6977b33833">
+        <source>Google Merchant Center</source>
+        <target>Google Merchant Center</target>
+      </trans-unit>
+      <trans-unit id="ff933e7a9db4d41e79598ba72aee116e">
+        <source>Microsoft Merchant Center, as a file of its own</source>
+        <target>Microsoft Merchant Center, als eigene Datei</target>
+      </trans-unit>
+      <trans-unit id="2fba82a91c3f6f25d1fa1cfea129b267">
+        <source>Most shops need no separate Microsoft file: its import tool copies what Google already has.</source>
+        <target>Die meisten Shops brauchen keine eigene Microsoft-Datei: Sein Import-Tool kopiert, was Google bereits hat.</target>
+      </trans-unit>
+      <trans-unit id="12f4b8d3e00f14fbe0149b1c2c5cad86">
+        <source>Add this feed</source>
+        <target>Diesen Feed hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="bcb2812569572e7bb031a8dadc8c9e50">
+        <source>Submitting it</source>
+        <target>So reichen Sie ihn ein</target>
+      </trans-unit>
+      <trans-unit id="e7afc25a4ef046fb3ac4b38d9bee7b7f">
+        <source>As their help pages described it on %date%. These screens change, and only the platforms decide what they accept.</source>
+        <target>So beschrieben es ihre Hilfeseiten am %date%. Diese Ansichten ändern sich, und nur die Plattformen entscheiden, was sie annehmen.</target>
+      </trans-unit>
+      <trans-unit id="0aa6bf338ee91f4c2a8b725c4e92eb7a">
+        <source>Open Data sources and add a product source from a file.</source>
+        <target>Öffnen Sie die Datenquellen und fügen Sie eine Produktquelle aus einer Datei hinzu.</target>
+      </trans-unit>
+      <trans-unit id="946e7ef29b5e620399b2c08860cc4c0a">
+        <source>Choose to enter a link to your file, and paste the address of the feed.</source>
+        <target>Wählen Sie die Eingabe eines Links zu Ihrer Datei und fügen Sie die Adresse des Feeds ein.</target>
+      </trans-unit>
+      <trans-unit id="978bab99f22b7a470ebab87f2345a699">
+        <source>Set the feed label and language shown next to the feed.</source>
+        <target>Geben Sie das Feed-Label und die Sprache an, die neben dem Feed stehen.</target>
+      </trans-unit>
+      <trans-unit id="9d448cd06831817c1354c50074451ef7">
+        <source>A supplemental feed goes on the Supplemental sources tab, which appears once the Advanced data source management add-on is on. Its label and language must match the primary source.</source>
+        <target>Ein ergänzender Feed gehört auf den Tab der ergänzenden Quellen, der erscheint, sobald das Add-on für erweiterte Datenquellenverwaltung aktiv ist. Label und Sprache müssen zur primären Quelle passen.</target>
+      </trans-unit>
+      <trans-unit id="8087138030771406322f7d20c660e7b7">
+        <source>The usual way: Tools, Merchant Center, your store, Import, New import. It copies your Google offers, so schedule it, because imported offers expire after 30 days.</source>
+        <target>Der übliche Weg: Tools, Merchant Center, Ihr Shop, Import, Neuer Import. Er kopiert Ihre Google-Angebote; planen Sie ihn regelmäßig, denn importierte Angebote laufen nach 30 Tagen ab.</target>
+      </trans-unit>
+      <trans-unit id="e9d7cc83d47363b89028839f5bd07257">
+        <source>Or add a Microsoft feed here and use automatic download from a URL. The file must be under 1 GB. Microsoft says it takes Google-formatted XML, and its pages do not define that further, so check its first run.</source>
+        <target>Oder fügen Sie hier einen Microsoft-Feed hinzu und nutzen Sie den automatischen Download von einer URL. Die Datei muss unter 1 GB liegen. Microsoft nennt XML im Google-Format, ohne es näher zu definieren, prüfen Sie also den ersten Lauf.</target>
+      </trans-unit>
+      <trans-unit id="f20dab97780b97034a8277f49d84796a">
+        <source>What the file does not contain</source>
+        <target>Was die Datei nicht enthält</target>
+      </trans-unit>
+      <trans-unit id="c604e673f4c6ade69a1aa1f7d9260580">
+        <source>PrestaShop holds no such fact, and the module will not guess. Fields follow Google's specification as read on %date%.</source>
+        <target>PrestaShop speichert diese Angaben nicht, und das Modul rät sie nicht. Die Felder folgen der Google-Spezifikation, gelesen am %date%.</target>
+      </trans-unit>
+      <trans-unit id="690269a1e83d22ae4cdccb36a87eaa19">
+        <source>Read it</source>
+        <target>Lesen</target>
+      </trans-unit>
+      <trans-unit id="d97abbea0723012cf11df772ca8e82d4">
+        <source>Gender and age group. Google requires both for clothing sold in Brazil, France, Germany, Japan, the UK and the US. Add them with attribute rules in Merchant Center.</source>
+        <target>Geschlecht und Altersgruppe. Google verlangt beides für Bekleidung, die in Brasilien, Frankreich, Deutschland, Japan, Großbritannien und den USA verkauft wird. Ergänzen Sie sie mit Attributregeln im Merchant Center.</target>
+      </trans-unit>
+      <trans-unit id="8d2dcc0476edd123480d0ad3e75e0780">
+        <source>Google product category. It is optional, and your own categories go in as the product type instead.</source>
+        <target>Die Google-Produktkategorie. Sie ist optional, Ihre eigenen Kategorien stehen stattdessen im Produkttyp.</target>
+      </trans-unit>
+      <trans-unit id="ab6f19260c5f4b1d655ce8fe6d969336">
+        <source>Energy labels and unit prices, where EU law requires them, and the adult flag. Add these in Merchant Center if they apply to you.</source>
+        <target>Energielabels und Grundpreise, wo das EU-Recht sie verlangt, sowie die Kennzeichnung für Erwachsene. Ergänzen Sie diese im Merchant Center, wenn sie auf Sie zutreffen.</target>
+      </trans-unit>
+      <trans-unit id="1550d56998fc3f095f99cbb9d5c059d2">
+        <source>Returns. Google asks you to use this field sparingly, so set your policy in the Merchant Center account.</source>
+        <target>Rücksendungen. Google bittet, dieses Feld sparsam zu verwenden, legen Sie Ihre Richtlinie also im Merchant-Center-Konto fest.</target>
+      </trans-unit>
+      <trans-unit id="2ea21070ea9e0e3480d09faad56d3417">
+        <source>The most valuable step. Google says feeds can help products appear in AI responses. Build a file in the Product feed tab, or connect through the official Marketing with Google module, but do not send the same products both ways.</source>
+        <target>Der wertvollste Schritt. Google sagt, dass Feeds Produkten helfen können, in KI-Antworten zu erscheinen. Erstellen Sie eine Datei im Tab Produkt-Feed oder verbinden Sie sich über das offizielle Modul Marketing with Google, senden Sie aber nicht dieselben Produkte auf beiden Wegen.</target>
+      </trans-unit>
+      <trans-unit id="90817f4424bf4f066278fc2edb6a8ed0">
+        <source>No feed yet</source>
+        <target>Noch kein Feed</target>
+      </trans-unit>
+      <trans-unit id="c49d54ee8fcedb26dffc0f7551aaf96d">
+        <source>Add one below. It takes a few clicks, and nothing is sent anywhere until you submit its address yourself.</source>
+        <target>Fügen Sie unten einen hinzu. Das dauert nur wenige Klicks, und nichts wird versendet, bis Sie die Adresse selbst einreichen.</target>
+      </trans-unit>
+      <trans-unit id="074de7e7c226d5c60f8af14c20725352">
+        <source>Primary</source>
+        <target>Primär</target>
+      </trans-unit>
+      <trans-unit id="80936ad38e8c53dd21af21a07abf0cb2">
+        <source>Supplemental</source>
+        <target>Ergänzend</target>
+      </trans-unit>
+      <trans-unit id="c39b56d4489fb2507289e7ae19567b80">
+        <source>Building</source>
+        <target>Wird erstellt</target>
+      </trans-unit>
+      <trans-unit id="d3274b6c566db835e5737701883d730c">
+        <source>Build failed</source>
+        <target>Erstellung fehlgeschlagen</target>
+      </trans-unit>
+      <trans-unit id="dbee55b7a28e560d1bb4e0b544bf97c2">
+        <source>File ready</source>
+        <target>Datei bereit</target>
+      </trans-unit>
+      <trans-unit id="566970f010ee9e0c4c5d6f7dbb544e2f">
+        <source>Not built yet</source>
+        <target>Noch nicht erstellt</target>
+      </trans-unit>
+      <trans-unit id="810dbf75febb75297a25a72cdd73b0a1">
+        <source>%done% of %total% products read. The current file stays online until the new one is complete.</source>
+        <target>%done% von %total% Produkten gelesen. Die aktuelle Datei bleibt online, bis die neue fertig ist.</target>
+      </trans-unit>
+      <trans-unit id="a4e6fbeb6cd18f02aa2f369cdabd2f57">
+        <source>No product could be listed, so the last good file stays online. An empty file would take every product down in Merchant Center. It will try again in an hour.</source>
+        <target>Kein Produkt konnte aufgenommen werden, daher bleibt die letzte gute Datei online. Eine leere Datei würde alle Produkte aus dem Merchant Center nehmen. Neuer Versuch in einer Stunde.</target>
+      </trans-unit>
+      <trans-unit id="afba41ca164f167d974d0fb8fa2b1609">
+        <source>The build stopped, and any earlier file stays online. It will try again in an hour. Reason: %reason%</source>
+        <target>Die Erstellung wurde abgebrochen, eine frühere Datei bleibt online. Neuer Versuch in einer Stunde. Grund: %reason%</target>
+      </trans-unit>
+      <trans-unit id="b1b3f28cbfc5ad848c11132f773ff6fb">
+        <source>Address of the file. Keep it private: anyone who has it can read your catalogue data.</source>
+        <target>Adresse der Datei. Halten Sie sie geheim: Wer sie hat, kann Ihre Katalogdaten lesen.</target>
+      </trans-unit>
+      <trans-unit id="211ea3ffda65dd2c7d98822646a35d6b">
+        <source>Test the address</source>
+        <target>Adresse testen</target>
+      </trans-unit>
+      <trans-unit id="cd995a64fa6bcd980ff1e7be85bb34bf">
+        <source>Feed label: %label%. Language: %language%.</source>
+        <target>Feed-Label: %label%. Sprache: %language%.</target>
+      </trans-unit>
+      <trans-unit id="bca3cbaabcbee720741f52d7756d5ee0">
+        <source>Items in the file:</source>
+        <target>Artikel in der Datei:</target>
+      </trans-unit>
+      <trans-unit id="af645946859133f0fb13b23577b39ab5">
+        <source>Size:</source>
+        <target>Größe:</target>
+      </trans-unit>
+      <trans-unit id="97b7a9ee9ea994b67edc1fd5d75bd331">
+        <source>Built:</source>
+        <target>Erstellt:</target>
+      </trans-unit>
+      <trans-unit id="aaa4cec8c76a71fad1d36a920240b893">
+        <source>In %seconds% s of work.</source>
+        <target>In %seconds% s Arbeit.</target>
+      </trans-unit>
+      <trans-unit id="727b7920e376e41e28f698a44c0c2d74">
+        <source>Last fetched:</source>
+        <target>Zuletzt abgerufen:</target>
+      </trans-unit>
+      <trans-unit id="b438eae9712d255323ca380e96ddf37c">
+        <source>by another program</source>
+        <target>von einem anderen Programm</target>
+      </trans-unit>
+      <trans-unit id="c7561db7a418dd39b2201dfe110ab4a4">
+        <source>never</source>
+        <target>nie</target>
+      </trans-unit>
+      <trans-unit id="4d4748de29fa573464cfa8f886cd55ab">
+        <source>No platform has read this file yet. It does nothing until you submit its address.</source>
+        <target>Noch keine Plattform hat diese Datei gelesen. Sie bewirkt nichts, bis Sie die Adresse einreichen.</target>
+      </trans-unit>
+      <trans-unit id="c78184ceaa7a645ade793fdded894236">
+        <source>This file has less than half the items of the one before. If that is not what you expected, Merchant Center will remove the missing products at its next fetch.</source>
+        <target>Diese Datei hat weniger als halb so viele Artikel wie die vorige. Falls das nicht beabsichtigt ist, entfernt das Merchant Center die fehlenden Produkte beim nächsten Abruf.</target>
+      </trans-unit>
+      <trans-unit id="28d439e982503e51594fb72798e46b16">
+        <source>Over 1 GB, the limit Microsoft states for a file downloaded from an address.</source>
+        <target>Über 1 GB, die von Microsoft genannte Grenze für eine von einer Adresse geladene Datei.</target>
+      </trans-unit>
+      <trans-unit id="bd2644c014055e6234800f9433328b6d">
+        <source>What was left out, and what to fix</source>
+        <target>Was ausgelassen wurde und was zu beheben ist</target>
+      </trans-unit>
+      <trans-unit id="8b1054484791426db35a862961548ce4">
+        <source>Not in the file because</source>
+        <target>Nicht in der Datei, weil</target>
+      </trans-unit>
+      <trans-unit id="068f80c7519d0528fb08e82137a72131">
+        <source>Products</source>
+        <target>Produkte</target>
+      </trans-unit>
+      <trans-unit id="2c8c63793410cc75e4d6f77f660f509a">
+        <source>For example</source>
+        <target>Zum Beispiel</target>
+      </trans-unit>
+      <trans-unit id="ad4c78c937099d929e38b44bf32d90d7">
+        <source>In the file, but worth fixing</source>
+        <target>In der Datei, aber behebenswert</target>
+      </trans-unit>
+      <trans-unit id="9dea4016dbcc290b773ab2fae678aaa8">
+        <source>Items</source>
+        <target>Artikel</target>
+      </trans-unit>
+      <trans-unit id="2eac6090faeb03e3bc9dab9323642864">
+        <source>Rebuild now</source>
+        <target>Jetzt neu erstellen</target>
+      </trans-unit>
+      <trans-unit id="c5a879191c7a694d9e853d4a69ea6755">
+        <source>Create a new address? The old one stops working at once, and Merchant Center will need the new one.</source>
+        <target>Neue Adresse erstellen? Die alte funktioniert sofort nicht mehr, und das Merchant Center braucht die neue.</target>
+      </trans-unit>
+      <trans-unit id="393d8c6bc7a04264bd9523dc8c92b818">
+        <source>New address</source>
+        <target>Neue Adresse</target>
+      </trans-unit>
+      <trans-unit id="d827fab3c82a082900d3b83b2c21fb5a">
+        <source>Remove this feed and its file? Merchant Center's next fetch will fail, and if it stays that way your products will expire there.</source>
+        <target>Diesen Feed und seine Datei entfernen? Der nächste Abruf des Merchant Center schlägt fehl, und bleibt es dabei, laufen Ihre Produkte dort ab.</target>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Entfernen</target>
+      </trans-unit>
+      <trans-unit id="853bcc4a4214acab4f37488fc115053d">
+        <source>Google says Merchant Center feeds can help products appear in AI responses. Build a product feed for it.</source>
+        <target>Google sagt, dass Merchant-Center-Feeds Produkten helfen können, in KI-Antworten zu erscheinen. Erstellen Sie dafür einen Produkt-Feed.</target>
+      </trans-unit>
+      <trans-unit id="c0a35c05832d9568ed869f6d1030c1cd">
+        <source>A product feed could not be built. The last good file is still being served.</source>
+        <target>Ein Produkt-Feed konnte nicht erstellt werden. Die letzte gute Datei wird weiter ausgeliefert.</target>
+      </trans-unit>
+      <trans-unit id="f2ba02a52db91236476bc057a514a7d1">
+        <source>Choose a country, language and currency this shop sells in.</source>
+        <target>Wählen Sie ein Land, eine Sprache und eine Währung, in denen dieser Shop verkauft.</target>
+      </trans-unit>
+      <trans-unit id="67a419d88b4eaa8ef79f6e904256e038">
+        <source>There is already a feed like this for that country and language. Two would compete for the same products.</source>
+        <target>Für dieses Land und diese Sprache gibt es bereits einen solchen Feed. Zwei würden um dieselben Produkte konkurrieren.</target>
+      </trans-unit>
+      <trans-unit id="dfdfca2b4ca601d4040ceab1e12cd171">
+        <source>A supplemental source is for Google only. Microsoft's documentation has no such thing.</source>
+        <target>Eine ergänzende Quelle gibt es nur für Google. Die Dokumentation von Microsoft kennt so etwas nicht.</target>
+      </trans-unit>
+      <trans-unit id="4318e21897738123717f2e95f5f0359e">
+        <source>The folder %folder% cannot be written, so there is nowhere to keep the file.</source>
+        <target>Der Ordner %folder% ist nicht beschreibbar, die Datei kann also nirgends abgelegt werden.</target>
+      </trans-unit>
+      <trans-unit id="0e4d9175f407dfef34c22d25f56dab23">
+        <source>Feed added and being built in the background. You can leave this page.</source>
+        <target>Feed hinzugefügt, er wird im Hintergrund erstellt. Sie können diese Seite verlassen.</target>
+      </trans-unit>
+      <trans-unit id="dce0ce01c35648cad7865bcfa3548784">
+        <source>Building in the background. You can leave this page.</source>
+        <target>Wird im Hintergrund erstellt. Sie können diese Seite verlassen.</target>
+      </trans-unit>
+      <trans-unit id="15d8eb52acefd06ed32dcb851c8bc19a">
+        <source>The address works from this server. A firewall could still refuse Merchant Center, whose fetch is the real test.</source>
+        <target>Die Adresse funktioniert von diesem Server aus. Eine Firewall könnte das Merchant Center trotzdem abweisen, dessen Abruf der eigentliche Test ist.</target>
+      </trans-unit>
+      <trans-unit id="c34b5c82e251a0e9499b4e25a3d1e9a6">
+        <source>The address works, but the file is not built yet.</source>
+        <target>Die Adresse funktioniert, aber die Datei ist noch nicht erstellt.</target>
+      </trans-unit>
+      <trans-unit id="6b9244ff7abef0746f178cdd1f7180d7">
+        <source>The address answered with code %code%. Merchant Center would get the same, so check your server or firewall.</source>
+        <target>Die Adresse antwortete mit Code %code%. Das Merchant Center bekäme dasselbe, prüfen Sie also Server oder Firewall.</target>
+      </trans-unit>
+      <trans-unit id="8bc93960b6c5c38b0b6fec1ffbd02cec">
+        <source>New address created. The old one has stopped working, so update it in Merchant Center.</source>
+        <target>Neue Adresse erstellt. Die alte funktioniert nicht mehr, aktualisieren Sie sie also im Merchant Center.</target>
+      </trans-unit>
+      <trans-unit id="44b7345609be9993d2e3705edf13cfcd">
+        <source>Feed removed. Remove it from Merchant Center too, or its next fetch will fail.</source>
+        <target>Feed entfernt. Entfernen Sie ihn auch im Merchant Center, sonst schlägt der nächste Abruf fehl.</target>
+      </trans-unit>
+      <trans-unit id="976d4d3f4fd000afebe59de78ae44bd1">
+        <source>No name in this language</source>
+        <target>Kein Name in dieser Sprache</target>
+      </trans-unit>
+      <trans-unit id="718a4180f2e64551496f3317da37bab2">
+        <source>Only in categories visitors cannot open</source>
+        <target>Nur in Kategorien, die Besucher nicht öffnen können</target>
+      </trans-unit>
+      <trans-unit id="b63e91dd8869e522e7fd1e091762e9f4">
+        <source>The price is hidden on the page</source>
+        <target>Der Preis ist auf der Seite ausgeblendet</target>
+      </trans-unit>
+      <trans-unit id="9dd7104e68d1b5f994264b9387c9d271">
+        <source>No image</source>
+        <target>Kein Bild</target>
+      </trans-unit>
+      <trans-unit id="98d3b880886ecd7ff2b5dcfa4e2be0af">
+        <source>No price</source>
+        <target>Kein Preis</target>
+      </trans-unit>
+      <trans-unit id="0df0325206e0c08e20e3d45d05f589b5">
+        <source>No features or combinations to add</source>
+        <target>Keine Merkmale oder Kombinationen zum Ergänzen</target>
+      </trans-unit>
+      <trans-unit id="b00e1987b58b8204263078e49febb8c1">
+        <source>A field does not meet Google's rules</source>
+        <target>Ein Feld entspricht nicht den Google-Regeln</target>
+      </trans-unit>
+      <trans-unit id="bd94e0fa1cae7cd4434582d526fe2493">
+        <source>Could not be read</source>
+        <target>Konnte nicht gelesen werden</target>
+      </trans-unit>
+      <trans-unit id="b3054c18509217037b67a1ed32b7efc7">
+        <source>No description, so the name stands in for it</source>
+        <target>Keine Beschreibung, daher steht der Name an ihrer Stelle</target>
+      </trans-unit>
+      <trans-unit id="d17960d5c6831305183b8f3a31245b88">
+        <source>No GTIN, and no brand with a part number, so the item says it has no identifier. If the maker assigned one, add it.</source>
+        <target>Keine GTIN und keine Marke mit Teilenummer, daher gibt der Artikel an, keine Kennung zu haben. Falls der Hersteller eine vergeben hat, ergänzen Sie sie.</target>
+      </trans-unit>
+      <trans-unit id="0485782ba258225efa62c54e25314c12">
+        <source>A GTIN whose check digit fails, so it was left out</source>
+        <target>Eine GTIN mit falscher Prüfziffer, daher ausgelassen</target>
+      </trans-unit>
+      <trans-unit id="0b1cf1a79be8a69e4a7ed7e407913ccb">
+        <source>A GTIN from a range kept for in-store labels or coupons, so it was left out</source>
+        <target>Eine GTIN aus einem Bereich für Ladenetiketten oder Coupons, daher ausgelassen</target>
+      </trans-unit>
+      <trans-unit id="4dc9756d299c79b62044b8e49d9d0233">
+        <source>Features too long for a product detail, so they were left out</source>
+        <target>Merkmale, die für ein Produktdetail zu lang sind, daher ausgelassen</target>
+      </trans-unit>
+      <trans-unit id="e1a64b20587b4f108d20fa0433cd8d20">
+        <source>A size, color or similar option has no name in this language, so the default language's is used</source>
+        <target>Eine Größe, Farbe oder ähnliche Option hat keinen Namen in dieser Sprache, daher wird der aus der Standardsprache verwendet</target>
+      </trans-unit>
+      <trans-unit id="ef81f49f9305de06e72e7d0600d3bf43">
+        <source>Holds IDs, combinations and product details only, with no prices, stock or titles, so it cannot contradict your primary source.</source>
+        <target>Enthält nur IDs, Kombinationen und Produktdetails, keine Preise, Bestände oder Titel, und kann Ihrer primären Quelle daher nicht widersprechen.</target>
+      </trans-unit>
+      <trans-unit id="b76139d091eebee7610664f90ae3ff2f">
+        <source>Prices include tax for %country%, as Google requires there.</source>
+        <target>Die Preise enthalten die Steuer für %country%, wie Google es dort verlangt.</target>
+      </trans-unit>
+      <trans-unit id="a82b6066c4f32e3eb48971266dfba90f">
+        <source>Prices leave out tax, as Google and Microsoft require in %country%.</source>
+        <target>Die Preise enthalten keine Steuer, wie Google und Microsoft es für %country% verlangen.</target>
+      </trans-unit>
+      <trans-unit id="1b18782cc97f2f38b839992d3fb498c5">
+        <source>Your pages show visitors prices without tax, but this feed must include it, so the two will not match. Google compares them. Change this in Customer settings, Groups.</source>
+        <target>Ihre Seiten zeigen Besuchern Preise ohne Steuer, dieser Feed muss sie aber enthalten, also stimmen beide nicht überein. Google vergleicht sie. Ändern Sie das unter Kundeneinstellungen, Gruppen.</target>
+      </trans-unit>
+      <trans-unit id="8a4f5f713f39b372120c05dd24cd5695">
+        <source>Your pages show visitors prices with tax, but this feed must leave it out, so the two will not match. Google compares them. Change this in Customer settings, Groups.</source>
+        <target>Ihre Seiten zeigen Besuchern Preise mit Steuer, dieser Feed muss sie aber weglassen, also stimmen beide nicht überein. Google vergleicht sie. Ändern Sie das unter Kundeneinstellungen, Gruppen.</target>
+      </trans-unit>
+      <trans-unit id="98b614737ba5e29e6036f227090d8a99">
+        <source>PrestaShop works out a first-time visitor's tax from their browser language and falls back on %default%. Google may therefore see a different tax on the page from the one in this feed. Check a few products in Merchant Center diagnostics.</source>
+        <target>PrestaShop ermittelt die Steuer eines neuen Besuchers aus der Browsersprache und greift sonst auf %default% zurück. Google sieht auf der Seite daher möglicherweise eine andere Steuer als in diesem Feed. Prüfen Sie einige Produkte in der Merchant-Center-Diagnose.</target>
+      </trans-unit>
+      <trans-unit id="525053e6032745427f9af07742432241">
+        <source>Crossed-out prices are off in Product data, so each item states only what it costs today.</source>
+        <target>Durchgestrichene Preise sind unter Produktdaten aus, daher nennt jeder Artikel nur den heutigen Preis.</target>
+      </trans-unit>
+      <trans-unit id="bea20f8a5f6aac75b01fc9b8f2506e32">
+        <source>No crossed-out prices in this feed, so each item states only what it costs today. In the EU a reduction must be calculated from the lowest price of the previous 30 days, and the module cannot check that.</source>
+        <target>Keine durchgestrichenen Preise in diesem Feed, daher nennt jeder Artikel nur den heutigen Preis. In der EU muss eine Ermäßigung vom niedrigsten Preis der letzten 30 Tage berechnet werden, und das kann das Modul nicht prüfen.</target>
+      </trans-unit>
+      <trans-unit id="48195249ec6fce02ffe41c549304973e">
+        <source>You turned on crossed-out prices. In the EU each reduction must be calculated from the lowest price of the previous 30 days. The module cannot check that, so this is your own statement.</source>
+        <target>Sie haben durchgestrichene Preise aktiviert. In der EU muss jede Ermäßigung vom niedrigsten Preis der letzten 30 Tage berechnet werden. Das Modul kann das nicht prüfen, es ist also Ihre eigene Aussage.</target>
+      </trans-unit>
+      <trans-unit id="7df2405607ef38958f45f9feade8f07e">
+        <source>A discounted product states its regular price and its sale price, as set in Product data.</source>
+        <target>Ein reduziertes Produkt nennt Normal- und Angebotspreis, wie unter Produktdaten eingestellt.</target>
+      </trans-unit>
+      <trans-unit id="90cb8c68901966f93ca7dd98ebd1e906">
+        <source>No delivery rule covers %country%, so items carry no shipping. Add one in Product data, or set delivery in Merchant Center. Many countries require it.</source>
+        <target>Keine Lieferregel deckt %country% ab, daher haben die Artikel keine Versandangabe. Fügen Sie unter Produktdaten eine hinzu oder legen Sie den Versand im Merchant Center fest. Viele Länder verlangen das.</target>
+      </trans-unit>
+      <trans-unit id="018a55b54a0b6afe99bf913bf80a3788">
+        <source>Uses Microsoft's spelling of availability. Microsoft lists no value for backorder, so those products say out of stock.</source>
+        <target>Verwendet Microsofts Schreibweise der Verfügbarkeit. Microsoft kennt keinen Wert für Nachbestellungen, daher gelten diese Produkte als nicht vorrätig.</target>
+      </trans-unit>
+      <trans-unit id="19b8c9568688a1f62ad507b381bc5b4d">
+        <source>Your shop is in catalogue mode, so visitors cannot order. Merchant Center needs a page where the product can be bought.</source>
+        <target>Ihr Shop ist im Katalogmodus, Besucher können also nicht bestellen. Das Merchant Center braucht eine Seite, auf der das Produkt gekauft werden kann.</target>
+      </trans-unit>
+      <trans-unit id="e8f179d128e1a660726b35d906f38501">
+        <source>Visitors who have not logged in cannot see prices. Google reads your pages the same way, so it cannot confirm any price in the feed.</source>
+        <target>Nicht angemeldete Besucher sehen keine Preise. Google liest Ihre Seiten genauso und kann daher keinen Preis im Feed bestätigen.</target>
+      </trans-unit>
+      <trans-unit id="8a8196522d3875e8590034bb4a74783f">
+        <source>%small% of %checked% cover photos sampled are under 500 x 500 pixels. Merchant Center enforces that minimum from 31 January 2027.</source>
+        <target>%small% von %checked% geprüften Titelfotos sind kleiner als 500 x 500 Pixel. Das Merchant Center setzt dieses Minimum ab dem 31. Januar 2027 durch.</target>
+      </trans-unit>
+      <trans-unit id="eb7363271f02f727f542a2a1140ee68b">
+        <source>This build has not moved for a while. Your host may refuse requests from the shop to itself. Set up the scheduled job in the Settings tab, or keep this page open.</source>
+        <target>Diese Erstellung kommt seit einer Weile nicht voran. Ihr Hoster lehnt möglicherweise Anfragen des Shops an sich selbst ab. Richten Sie die geplante Aufgabe im Tab Einstellungen ein oder lassen Sie diese Seite geöffnet.</target>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="521c36a31c2762741cf0f8890cbe05e3">
+        <source>On</source>
+        <target>Ein</target>
+      </trans-unit>
+      <trans-unit id="d15305d7a4e34e02489c74a5ef542f36">
+        <source>Off</source>
+        <target>Aus</target>
+      </trans-unit>
+      <trans-unit id="248336101b461380a4b2391a7625493d">
+        <source>Saved</source>
+        <target>Gespeichert</target>
+      </trans-unit>
+      <trans-unit id="9ba66a9f92056682b7d86a38b4bc18c0">
+        <source>Not set</source>
+        <target>Nicht festgelegt</target>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="57ac776026ca2ce299fe92e802eb560a">
+        <source>Show %count% more</source>
+        <target>%count% weitere anzeigen</target>
+      </trans-unit>
+      <trans-unit id="af14a996f238d14a0a03fe0445b3b7fc">
+        <source>Crawler by crawler</source>
+        <target>Crawler für Crawler</target>
+      </trans-unit>
+      <trans-unit id="56c53464b04b05be7cb5097949ba31ae">
+        <source>Allow or refuse each one, and see its requests and its access test.</source>
+        <target>Erlauben oder verweigern Sie jeden einzeln und sehen Sie seine Anfragen und seinen Zugriffstest.</target>
+      </trans-unit>
+      <trans-unit id="d7091e8157cd39376ab1dad224611125">
+        <source>Two optional statements in robots.txt.</source>
+        <target>Zwei optionale Angaben in robots.txt.</target>
+      </trans-unit>
+      <trans-unit id="cbd57f16988a58c713bfe71114d4bd42">
+        <source>Exactly what is written. Your own lines stay as they are.</source>
+        <target>Genau das, was geschrieben wird. Ihre eigenen Zeilen bleiben unverändert.</target>
+      </trans-unit>
+      <trans-unit id="07cefca090861a62ab428dfafe363cf2">
+        <source>Crawler activity</source>
+        <target>Crawler-Aktivität</target>
+      </trans-unit>
+      <trans-unit id="91549b0c6a0ab872e5ba88c5160a6320">
+        <source>The rule that decides which orders count.</source>
+        <target>Die Regel, die festlegt, welche Bestellungen zählen.</target>
+      </trans-unit>
+      <trans-unit id="77a0780aadc70fc7b5b338e5efe97587">
+        <source>What is recorded for each crawler request, and for how long.</source>
+        <target>Was zu jeder Crawler-Anfrage erfasst wird und wie lange.</target>
+      </trans-unit>
+      <trans-unit id="131bfd054e7f4fc6f7686121a1fbff51">
+        <source>Refuses AI crawlers on pages robots.txt already forbids.</source>
+        <target>Weist KI-Crawler auf Seiten ab, die robots.txt bereits verbietet.</target>
+      </trans-unit>
+      <trans-unit id="787300d6844dd2797c4d6fb8003e12d5">
+        <source>Tells Bing and others when a page changes.</source>
+        <target>Informiert Bing und andere, wenn sich eine Seite ändert.</target>
+      </trans-unit>
+      <trans-unit id="2082ed07e684c6a870b735164de7192c">
+        <source>Whether it exists and is up to date.</source>
+        <target>Ob sie existiert und aktuell ist.</target>
+      </trans-unit>
+      <trans-unit id="0aaed664882737715a9162c4df3c0cbf">
+        <source>An optional index for AI tools, with no proven effect.</source>
+        <target>Ein optionaler Index für KI-Tools, ohne nachgewiesene Wirkung.</target>
+      </trans-unit>
+      <trans-unit id="803842406a7dc74b975ea6b56cdcf1fd">
+        <source>Needed only if your host blocks the automatic ones.</source>
+        <target>Nur nötig, wenn Ihr Hoster die automatischen blockiert.</target>
+      </trans-unit>
+      <trans-unit id="dbbb84f354f58447e8b316036e46c6f6">
+        <source>Shown on product pages and in your product data, so the two agree.</source>
+        <target>Auf Produktseiten und in Ihren Produktdaten angezeigt, damit beides übereinstimmt.</target>
+      </trans-unit>
+      <trans-unit id="4addffb945f8a9ce9d43b55be106499e">
+        <source>How the module corrects what your theme prints.</source>
+        <target>Wie das Modul korrigiert, was Ihr Theme ausgibt.</target>
+      </trans-unit>
+      <trans-unit id="d9b6d613daaa5fee5c15b0af367af6b0">
+        <source>Your feeds</source>
+        <target>Ihre Feeds</target>
+      </trans-unit>
+      <trans-unit id="2a94e8dd38e7f6a4717a6f6d08320462">
+        <source>Choose the country, language and currency.</source>
+        <target>Wählen Sie Land, Sprache und Währung.</target>
+      </trans-unit>
+      <trans-unit id="1348b144235795cc0c5d34b5ddd2da7b">
+        <source>How a feed works</source>
+        <target>So funktioniert ein Feed</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

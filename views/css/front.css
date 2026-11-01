@@ -1,0 +1,8 @@
+/**
+ * GEO Lens: delivery and returns on the product page. It takes its fonts and colours from the theme.
+ *
+ * @author    iamshoaibktk@gmail.com (WhatsApp: +923459016286)
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
+ */
+.geolens-facts { list-style: none; margin: 1rem 0 0; padding: 0; font-size: .875rem; line-height: 1.5; }
+.geolens-facts li { margin: 0; padding: .125rem 0; }

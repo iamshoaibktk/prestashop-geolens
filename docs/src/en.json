@@ -1,0 +1,86 @@
+{
+  "title": "GEO Lens",
+  "subtitle": "User guide",
+  "labels": { "version": "Version", "author": "Author", "contact": "Contact", "page": "Page", "contents": "Contents", "compat": "Compatibility" },
+  "sections": [
+    { "title": "Overview", "content": [
+      { "p": "GEO Lens shows which AI crawlers read your shop and which AI visits become orders, lets you control crawler access safely, and gives AI engines complete, accurate product data." },
+      { "note": "No module can promise AI citations, and this one does not. It gives you control and real numbers. The research behind each decision is in EVIDENCE.md on GitHub." }
+    ]},
+    { "title": "First steps", "content": [
+      { "ol": [
+        "Back office, Modules, Upload a module: send the zip, then open Configure.",
+        "Open AI crawlers and press **Test access now**. A firewall or CDN can refuse crawlers even when robots.txt welcomes them.",
+        "Open Product data and enter your **delivery and returns**. Nothing is published until you do.",
+        "On the same tab, look at **What your catalogue states** and fix the biggest gaps.",
+        "Press **Check my pages** to see what a crawler that runs no JavaScript gets.",
+        "Turn on IndexNow in the Settings tab if you want Bing told about changes."
+      ]},
+      { "p": "With the default settings, nothing is blocked and nothing is sent anywhere." }
+    ]},
+    { "title": "AI visits and orders", "content": [
+      { "p": "A visit is a click from an assistant such as ChatGPT, Perplexity, Gemini, Copilot or Claude. An order counts when it follows such a visit: within 2 hours by default, or within 30 days if you choose. Check whether the longer link needs consent where you sell." },
+      { "note": "These numbers are a floor. Assistant apps hide where a click came from, and Google's AI answers look like ordinary Google clicks." }
+    ]},
+    { "title": "AI crawlers", "content": [
+      { "p": "AI companies run separate crawlers for different jobs, so you can decide by purpose:" },
+      { "table": [
+        ["Group", "What it does", "If you block it"],
+        ["Answers and search", "Can cite and link your shop", "You can leave that assistant's answers"],
+        ["Read for a person", "Opens a page because someone asked", "Your server refuses it, as many ignore robots.txt"],
+        ["Training", "Collects content to train models", "No operator states a search penalty"],
+        ["Search engines", "Behind AI Overviews, AI Mode and Copilot", "The module never blocks these"]
+      ]},
+      { "p": "Choose a preset or decide bot by bot, read the preview, then press **Apply**. The file is saved first, so **Undo last change** puts everything back, and your own lines in robots.txt are never touched. Allowed bots need no lines at all, because a bot with its own group stops obeying your rules for the cart, search and filters." },
+      { "ul": [
+        "**Is it real?** compares each request with the operator's published addresses, because names are easy to fake.",
+        "**What assistants read for people** lists the pages opened because someone asked something.",
+        "**Pages they asked for and did not find** shows where a redirect would win visits back.",
+        "**Load guard** refuses declared AI crawlers on pages robots.txt already forbids, which costs no visibility. Scrapers that hide their name need a rule on your CDN."
+      ]},
+      { "note": "If your shop is in a subfolder, crawlers do not read its robots.txt, because they only look at the root of a domain. Blocks are still enforced by your server." }
+    ]},
+    { "title": "Product data", "content": [
+      { "p": "The module extends the markup your theme already prints, so there is never a second Product. It removes the made-up price date and invented identifiers, checks GTINs, and adds condition, delivery, returns and each combination. It helps rich results and Merchant Center. Tests have not found that markup alone earns AI citations." },
+      { "p": "State what your carriers really charge. Delivery and returns also appear on the product page, so the page and the markup always agree." },
+      { "p": "In the EU, a crossed-out price must follow the lowest price of the previous 30 days, which the module cannot check. It is off by default for EU shops." }
+    ]},
+    { "title": "Product feed", "content": [
+      {"p":"A file of your catalogue in Google's format, for Google Merchant Center and, if you wish, Microsoft Merchant Center. Google says Merchant Center feeds can help products appear in AI responses. It does not say they will."},
+      {"table":[["Who","What they do"],["The module","Writes the file once a day in the background: one item per combination, real prices and tax for the country you choose, and only GTINs whose check digit passes."],["You","Add the file's address to your own Merchant Center account. Nothing is sent anywhere until you do."],["The platform","Reviews each product and decides whether and where to show it. An accepted file is no promise of listings, clicks or citations."]]},
+      {"ol":["Open the Product feed tab, choose a country, language and currency, and add the feed. It builds in the background, and you can leave the page.","Copy its address and keep it private: anyone who has it can read your catalogue data.","In Merchant Center, open Data sources, add a product source from a file, enter the link, and set the feed label and language shown next to the feed.","Read the notes under the feed and open **What was left out, and what to fix**."]},
+      {"note":"If Marketing with Google already sends your products, do not add a primary feed for the same country and language. Google says a product uploaded through two sources belongs to whichever updated last, and recommends one primary source. Use a supplemental feed: it holds IDs, combinations and product details only. It works only where the IDs match the other source, so compare a few first."},
+      {"p":"**Microsoft:** its import tool copies your Google offers, so most shops need no separate file. Schedule the import, because imported offers expire after 30 days. A Microsoft feed from this module uses its spelling of availability, for a file under 1 GB downloaded from the address."},
+      {"p":"**Prices:** with tax included, except in the US and Canada, where Google and Microsoft want it left out. Google compares them with your pages, and the tab warns you when the two cannot match. **Crossed-out prices** follow your setting in Product data. In the EU a reduction must be calculated from the lowest price of the previous 30 days, which the module cannot check, and a shop outside the EU publishes none in a feed for an EU country."},
+      {"p":"**Not in the file:** gender and age group, which Google requires for clothing in several countries, Google product category, energy labels, unit prices, the adult flag and returns. PrestaShop holds no such fact or Google asks you to set it in the account. Add these in Merchant Center."}
+    ]},
+    { "title": "Freshness", "content": [
+      { "p": "IndexNow tells Bing, which feeds Copilot, and Yandex, Seznam, Naver, Yep, Amazon and the Internet Archive that a page changed. Google does not take part. It sends only public addresses, when something is saved, a price changes, or stock reaches or leaves zero." },
+      { "p": "The module runs its jobs by itself. If your host blocks that, call the address shown in the Settings tab every 5 minutes with a cron job." }
+    ]},
+    { "title": "llms.txt", "content": [
+      { "p": "A short index of your categories and policy pages in each language, at /llms.txt and /agents.md. It is off by default. No study has found that it earns citations, and Google says its Search ignores it. It is here because it costs nothing and some tools check for it." }
+    ]},
+    { "title": "Where to spend your effort", "content": [
+      { "ol": [
+        "**Google Merchant Center.** Google says feeds can help products appear in AI responses.",
+        "**Your product facts:** real prices, stock, specifications and identifiers.",
+        "**Microsoft Merchant Center and Bing Webmaster Tools,** which inform Copilot.",
+        "**Being talked about elsewhere.** Reviews and press matter, and no module can do that for you."
+      ]},
+      { "p": "The module will not rewrite your texts with AI, give you a visibility score or an AI rank, generate FAQ blocks or add special AI tags. The research found no support for them." }
+    ]},
+    { "title": "Privacy and uninstalling", "content": [
+      { "ul": [
+        "No IP address or user agent is stored, only counters.",
+        "An AI visit is remembered inside PrestaShop's own cookie. No new cookie and no third party.",
+        "The module downloads the operators' public address lists. It sends nothing unless you turn on IndexNow, which sends public page addresses only.",
+        "robots.txt is one file per installation, so the crawler policy applies to every shop. Everything else is per shop.",
+        "Uninstalling removes its robots.txt lines, tables, settings and key file. It also deletes the feed files. Remove the feed from Merchant Center too."
+      ]}
+    ]},
+    { "title": "Support", "content": [
+      { "p": "Email: iamshoaibktk@gmail.com. WhatsApp: +923459016286. Custom work: https://www.fiverr.com/shoaibktk" }
+    ]}
+  ]
+}

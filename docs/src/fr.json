@@ -1,0 +1,224 @@
+{
+    "title": "GEO Lens",
+    "subtitle": "Guide d'utilisation",
+    "labels": {
+        "version": "Version",
+        "author": "Auteur",
+        "contact": "Contact",
+        "page": "Page",
+        "contents": "Sommaire",
+        "compat": "Compatibilité"
+    },
+    "sections": [
+        {
+            "title": "Présentation",
+            "content": [
+                {
+                    "p": "GEO Lens montre quels robots IA lisent votre boutique et quelles visites IA deviennent des commandes, vous permet de contrôler l'accès des robots en toute sécurité, et donne aux moteurs IA des données produit complètes et exactes."
+                },
+                {
+                    "note": "Aucun module ne peut promettre des citations par l'IA, et celui-ci ne le fait pas. Il vous donne le contrôle et de vrais chiffres. Les recherches derrière chaque décision sont dans EVIDENCE.md sur GitHub."
+                }
+            ]
+        },
+        {
+            "title": "Premiers pas",
+            "content": [
+                {
+                    "ol": [
+                        "Back-office, Modules, Installer un module : envoyez le zip, puis ouvrez Configurer.",
+                        "Ouvrez Robots IA et cliquez sur **Tester l'accès maintenant**. Un pare-feu ou un CDN peut refuser les robots même si robots.txt les accueille.",
+                        "Ouvrez Données produit et saisissez votre **livraison et vos retours**. Rien n'est publié avant cela.",
+                        "Sur le même onglet, regardez **Ce que votre catalogue indique** et comblez les plus gros manques.",
+                        "Cliquez sur **Vérifier mes pages** pour voir ce qu'obtient un robot qui n'exécute pas JavaScript.",
+                        "Activez IndexNow dans l'onglet Réglages si vous voulez prévenir Bing des changements."
+                    ]
+                },
+                {
+                    "p": "Avec les réglages par défaut, rien n'est bloqué et rien n'est envoyé nulle part."
+                }
+            ]
+        },
+        {
+            "title": "Visites et commandes IA",
+            "content": [
+                {
+                    "p": "Une visite est un clic depuis un assistant comme ChatGPT, Perplexity, Gemini, Copilot ou Claude. Une commande compte lorsqu'elle suit une telle visite : sous 2 heures par défaut, ou sous 30 jours si vous le choisissez. Vérifiez si ce lien plus long nécessite un consentement là où vous vendez."
+                },
+                {
+                    "note": "Ces chiffres sont un minimum. Les applis des assistants cachent l'origine d'un clic, et les réponses IA de Google ressemblent à des clics Google ordinaires."
+                }
+            ]
+        },
+        {
+            "title": "Robots IA",
+            "content": [
+                {
+                    "p": "Les sociétés d'IA utilisent des robots distincts selon la tâche, vous pouvez donc décider par usage :"
+                },
+                {
+                    "table": [
+                        [
+                            "Groupe",
+                            "Ce qu'il fait",
+                            "Si vous le bloquez"
+                        ],
+                        [
+                            "Réponses et recherche",
+                            "Peut citer et lier votre boutique",
+                            "Vous pouvez sortir des réponses de cet assistant"
+                        ],
+                        [
+                            "Lu pour une personne",
+                            "Ouvre une page parce que quelqu'un l'a demandé",
+                            "Votre serveur le refuse, car beaucoup ignorent robots.txt"
+                        ],
+                        [
+                            "Entraînement",
+                            "Collecte des contenus pour entraîner des modèles",
+                            "Aucun opérateur n'annonce de pénalité dans la recherche"
+                        ],
+                        [
+                            "Moteurs de recherche",
+                            "Derrière AI Overviews, AI Mode et Copilot",
+                            "Le module ne les bloque jamais"
+                        ]
+                    ]
+                },
+                {
+                    "p": "Choisissez un préréglage ou décidez robot par robot, lisez l'aperçu, puis cliquez sur **Appliquer**. Le fichier est sauvegardé d'abord : **Annuler le dernier changement** remet tout en place, et vos propres lignes de robots.txt ne sont jamais touchées. Les robots autorisés n'ont besoin d'aucune ligne, car un robot doté de son propre groupe cesse de respecter vos règles pour le panier, la recherche et les filtres."
+                },
+                {
+                    "ul": [
+                        "**Est-il réel ?** compare chaque requête aux adresses publiées par l'opérateur, car les noms sont faciles à imiter.",
+                        "**Ce que les assistants lisent pour les gens** liste les pages ouvertes parce que quelqu'un a posé une question.",
+                        "**Pages demandées mais introuvables** montre où une redirection récupérerait des visites.",
+                        "**Protection de charge** refuse les robots IA déclarés sur les pages déjà interdites par robots.txt, sans coût de visibilité. Les scrapers qui cachent leur nom nécessitent une règle sur votre CDN."
+                    ]
+                },
+                {
+                    "note": "Si votre boutique est dans un sous-dossier, les robots ne lisent pas son robots.txt, car ils ne regardent que la racine d'un domaine. Les blocages restent appliqués par votre serveur."
+                }
+            ]
+        },
+        {
+            "title": "Données produit",
+            "content": [
+                {
+                    "p": "Le module complète le balisage déjà imprimé par votre thème : il n'y a donc jamais de second Product. Il retire la date de prix inventée et les faux identifiants, vérifie les GTIN, et ajoute l'état, la livraison, les retours et chaque déclinaison. Cela aide les résultats enrichis et Merchant Center. Les tests n'ont pas montré que le balisage seul rapporte des citations par l'IA."
+                },
+                {
+                    "p": "Indiquez ce que vos transporteurs facturent réellement. La livraison et les retours figurent aussi sur la page produit, pour que la page et le balisage concordent toujours."
+                },
+                {
+                    "p": "Dans l'UE, un prix barré doit suivre le prix le plus bas des 30 jours précédents, ce que le module ne peut pas vérifier. Il est désactivé par défaut pour les boutiques de l'UE."
+                }
+            ]
+        },
+        {
+            "title": "Flux de produits",
+            "content": [
+                {
+                    "p": "Un fichier de votre catalogue au format Google, pour Google Merchant Center et, si vous le souhaitez, Microsoft Merchant Center. Google indique que les flux Merchant Center peuvent aider les produits à apparaître dans les réponses d'IA. Il ne dit pas que ce sera le cas."
+                },
+                {
+                    "table": [
+                        [
+                            "Qui",
+                            "Ce qu'il fait"
+                        ],
+                        [
+                            "Le module",
+                            "Écrit le fichier une fois par jour en arrière-plan : un article par déclinaison, les vrais prix et taxes du pays choisi, et uniquement les GTIN dont la clé de contrôle est correcte."
+                        ],
+                        [
+                            "Vous",
+                            "Ajoutez l'adresse du fichier à votre propre compte Merchant Center. Rien n'est envoyé tant que vous ne l'avez pas fait."
+                        ],
+                        [
+                            "La plateforme",
+                            "Examine chaque produit et décide s'il est affiché et où. Un fichier accepté ne garantit ni annonces, ni clics, ni citations."
+                        ]
+                    ]
+                },
+                {
+                    "ol": [
+                        "Ouvrez l'onglet Flux de produits, choisissez un pays, une langue et une devise, puis ajoutez le flux. Il se crée en arrière-plan et vous pouvez quitter la page.",
+                        "Copiez son adresse et gardez-la privée : toute personne qui la possède peut lire les données de votre catalogue.",
+                        "Dans Merchant Center, ouvrez les sources de données, ajoutez une source de produits à partir d'un fichier, saisissez le lien, puis indiquez le libellé de flux et la langue affichés à côté du flux.",
+                        "Lisez les remarques sous le flux et ouvrez **Ce qui a été écarté et ce qu'il faut corriger**."
+                    ]
+                },
+                {
+                    "note": "Si Marketing with Google envoie déjà vos produits, n'ajoutez pas de flux principal pour le même pays et la même langue. Selon Google, un produit envoyé par deux sources appartient à celle mise à jour en dernier, et Google recommande une seule source principale. Utilisez un flux supplémentaire : il ne contient que des identifiants, déclinaisons et détails de produit. Il ne fonctionne que si les identifiants correspondent à l'autre source : comparez-en d'abord quelques-uns."
+                },
+                {
+                    "p": "**Microsoft :** son outil d'import copie vos offres Google, la plupart des boutiques n'ont donc pas besoin d'un fichier distinct. Planifiez l'import, car les offres importées expirent après 30 jours. Un flux Microsoft de ce module utilise son orthographe de la disponibilité, pour un fichier de moins de 1 Go téléchargé depuis l'adresse."
+                },
+                {
+                    "p": "**Prix :** taxes incluses, sauf aux États-Unis et au Canada, où Google et Microsoft les veulent exclues. Google les compare à vos pages, et l'onglet vous avertit quand les deux ne peuvent pas correspondre. **Les prix barrés** suivent votre réglage dans Données produit. Dans l'UE, une réduction doit être calculée à partir du prix le plus bas des 30 jours précédents, ce que le module ne peut pas vérifier, et une boutique hors UE n'en publie aucun dans un flux destiné à un pays de l'UE."
+                },
+                {
+                    "p": "**Absent du fichier :** le genre et la tranche d'âge, que Google exige pour les vêtements dans plusieurs pays, la catégorie de produits Google, les étiquettes énergétiques, les prix unitaires, l'indicateur adulte et les retours. PrestaShop ne détient pas ces informations, ou Google demande de les définir dans le compte. Ajoutez-les dans Merchant Center."
+                }
+            ]
+        },
+        {
+            "title": "Fraîcheur",
+            "content": [
+                {
+                    "p": "IndexNow indique à Bing, qui alimente Copilot, ainsi qu'à Yandex, Seznam, Naver, Yep, Amazon et Internet Archive qu'une page a changé. Google n'y participe pas. Seules des adresses publiques sont envoyées, lorsqu'un élément est enregistré, qu'un prix change, ou que le stock atteint ou quitte zéro."
+                },
+                {
+                    "p": "Le module exécute ses tâches lui-même. Si votre hébergeur bloque cela, appelez l'adresse affichée dans l'onglet Réglages toutes les 5 minutes avec une tâche cron."
+                }
+            ]
+        },
+        {
+            "title": "llms.txt",
+            "content": [
+                {
+                    "p": "Un court index de vos catégories et pages d'information dans chaque langue, à /llms.txt et /agents.md. Il est désactivé par défaut. Aucune étude n'a montré qu'il rapporte des citations, et Google indique que son moteur de recherche l'ignore. Il est proposé parce qu'il ne coûte rien et que certains outils le vérifient."
+                }
+            ]
+        },
+        {
+            "title": "Où concentrer vos efforts",
+            "content": [
+                {
+                    "ol": [
+                        "**Google Merchant Center.** Google indique que les flux peuvent aider les produits à apparaître dans les réponses de l'IA.",
+                        "**Vos informations produit :** vrais prix, stock, caractéristiques et identifiants.",
+                        "**Microsoft Merchant Center et Bing Webmaster Tools,** qui alimentent Copilot.",
+                        "**Faire parler de vous ailleurs.** Les avis et la presse comptent, et aucun module ne peut le faire à votre place."
+                    ]
+                },
+                {
+                    "p": "Le module ne réécrira pas vos textes avec l'IA, ne vous donnera ni score de visibilité ni classement IA, ne générera pas de blocs FAQ et n'ajoutera pas de balises IA spéciales. Les recherches n'ont rien trouvé qui le justifie."
+                }
+            ]
+        },
+        {
+            "title": "Confidentialité et désinstallation",
+            "content": [
+                {
+                    "ul": [
+                        "Aucune adresse IP ni user agent n'est stocké, seulement des compteurs.",
+                        "Une visite IA est mémorisée dans le cookie de PrestaShop. Pas de nouveau cookie, pas de tiers.",
+                        "Le module télécharge les listes d'adresses publiques des opérateurs. Il n'envoie rien sauf si vous activez IndexNow, qui n'envoie que des adresses de pages publiques.",
+                        "robots.txt est un seul fichier par installation : la politique des robots s'applique donc à toutes les boutiques. Tout le reste est par boutique.",
+                        "La désinstallation retire ses lignes de robots.txt, ses tables, ses réglages et son fichier de clé. Il supprime aussi les fichiers de flux. Retirez également le flux de Merchant Center."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Assistance",
+            "content": [
+                {
+                    "p": "E-mail : iamshoaibktk@gmail.com. WhatsApp : +923459016286. Développement sur mesure : https://www.fiverr.com/shoaibktk"
+                }
+            ]
+        }
+    ]
+}
