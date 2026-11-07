@@ -30,7 +30,7 @@ class Geolens extends Module
     {
         $this->name = 'geolens';
         $this->tab = 'seo';
-        $this->version = '1.1.0';
+        $this->version = '1.1.1';
         $this->author = 'iamshoaibktk@gmail.com';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = ['min' => '9.0.0', 'max' => _PS_VERSION_];

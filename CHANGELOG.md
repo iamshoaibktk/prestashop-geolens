@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- The author banner on the settings page links to all my free PrestaShop 9 modules and themes on GitHub. No functional changes.
+
 ## 1.1.0
 
 - Product feed in Google's RSS format, as a primary or supplemental source for Google Merchant Center, with a version for Microsoft Merchant Center
